@@ -1,0 +1,28 @@
+sku,nombre,categoria,fecha_alta,activo
+CUI-009,Depiladora eléctrica,cuidado_personal,2023-01-01,1
+CAR-001,Cargador USB-C 20 W,carga,2023-01-01,1
+CAR-007,Cargador USB-C 65 W,carga,2023-01-01,1
+COC-009,Tostadora de 2 ranuras,cocina,2023-01-01,0
+COC-010,Freidora de aire 4 L,cocina,2023-01-01,1
+CUI-011,Secador profesional,cuidado_personal,2023-01-01,1
+CAR-014,Concentrador USB compacto,carga,2023-10-01,1
+AUD-005,Parlante portátil chico,audio,2023-01-01,1
+CUI-003,Planchita de pelo,cuidado_personal,2023-01-01,1
+CAR-013,Cable USB-C de 1 m,carga,2023-01-01,1
+AUD-028,Parlante portátil grande,audio,2023-01-01,1
+AUD-025,Auriculares de vincha inalámbricos,audio,2023-01-01,1
+CAR-030,Batería portátil 20 000 mAh,,2024-09-01,1
+CUI-016,Secador compacto,cuidado_personal,2023-01-01,1
+COC-008,Freidora de aire 6 L,cocina,2023-01-01,1
+COC-029,"Hervidor eléctrico 1,7 L",cocina,2023-01-01,1
+AUD-022,Adaptador de audio inalámbrico,audio,2023-01-01,1
+COC-026,"Licuadora 1,5 L",cocina,2023-01-01,1
+CAR-009,Batería portátil 10 000 mAh,carga,2023-01-01,1
+CUI-019,Afeitadora eléctrica,cuidado_personal,2023-01-01,1
+AUD-013,Barra de sonido compacta,audio,2023-01-01,1
+AUD-012,Auriculares in-ear inalámbricos,audio,2023-01-01,1
+CAR-021,Cable USB-C de 2 m,carga,2023-01-01,1
+COC-003,Balanza digital de cocina,cocina,2023-01-01,1
+COC-004,Sandwichera compacta,cocina,2023-06-01,1
+CUI-014,Planchita de pelo profesional,cuidado_personal,2023-01-01,1
+AUD-008,Grabador de voz digital,audio,2023-01-01,1

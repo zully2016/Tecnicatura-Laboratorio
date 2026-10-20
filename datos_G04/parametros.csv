@@ -1,0 +1,8 @@
+parametro,valor,descripcion
+tasa_descuento_real_anual,0.171,Tasa de descuento real anual que exige el fondo.
+horizonte_anios,5.0,Años de tenencia previstos antes de vender la empresa.
+tasa_impuesto,0.35,Alícuota sobre el resultado operativo (simplificada).
+multiplo_salida,3.34,Veces el flujo del último año al que el fondo estima vender la empresa al final del horizonte.
+precio_pedido_ars,1095000000.0,"Precio que pide el dueño por la empresa, en pesos de diciembre de 2025."
+costo_mantener_anual_pct,0.2723,"Costo anual de mantener una unidad en stock, como fracción de su costo."
+punto_pedido_actual,2081.0,Punto de pedido (en unidades) que usa hoy la empresa para su producto estrella.

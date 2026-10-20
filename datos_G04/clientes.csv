@@ -1,0 +1,4762 @@
+cliente_id,tipo,localidad,provincia
+3204,consumidor,Avellaneda,Buenos Aires
+4072,consumidor,Palermo,CABA
+4520,consumidor,Tigre,Buenos Aires
+3003,consumidor,Belgrano,CABA
+2666,consumidor,Morón,Buenos Aires
+2902,consumidor,Belgrano,CABA
+2661,consumidor,Morón,Buenos Aires
+4259,consumidor,San Isidro,Buenos Aires
+3931,consumidor,Almagro,CABA
+779,consumidor,Morón,Buenos Aires
+3527,consumidor,Río Cuarto,Córdoba
+1858,consumidor,San Isidro,Buenos Aires
+3976,consumidor,Quilmes,Buenos Aires
+139,consumidor,Tigre,Buenos Aires
+3764,consumidor,Palermo,CABA
+830,consumidor,Palermo,CABA
+41,comercio,Quilmes,Buenos Aires
+4173,consumidor,Recoleta,CABA
+652,consumidor,Rafaela,Santa Fe
+665,consumidor,Caballito,CABA
+2010,consumidor,Tigre,Buenos Aires
+3964,consumidor,Villa María,Córdoba
+159,consumidor,Almagro,CABA
+1461,consumidor,Tigre,Buenos Aires
+2377,consumidor,Almagro,CABA
+519,consumidor,Belgrano,CABA
+2081,consumidor,Córdoba,Córdoba
+4360,consumidor,Paraná,Entre Ríos
+4223,consumidor,Quilmes,Buenos Aires
+3499,consumidor,Morón,Buenos Aires
+2693,consumidor,Morón,Buenos Aires
+396,consumidor,Recoleta,CABA
+4007,consumidor,Morón,Buenos Aires
+3607,consumidor,Morón,Buenos Aires
+2041,consumidor,Villa Carlos Paz,Córdoba
+1028,consumidor,Morón,Buenos Aires
+419,consumidor,San Isidro,Buenos Aires
+3046,consumidor,Paraná,Entre Ríos
+625,consumidor,Reconquista,Santa Fe
+4570,consumidor,Santa Fe,Santa Fe
+1585,consumidor,Palermo,CABA
+372,consumidor,Palermo,CABA
+4241,consumidor,Quilmes,Buenos Aires
+706,consumidor,Palermo,CABA
+4716,consumidor,Tigre,Buenos Aires
+3546,consumidor,Villa Carlos Paz,Córdoba
+4411,consumidor,San Isidro,Buenos Aires
+1497,consumidor,Tigre,Buenos Aires
+3946,consumidor,Almagro,CABA
+14,comercio,Palermo,CABA
+289,consumidor,San Isidro,Buenos Aires
+2886,consumidor,Morón,Buenos Aires
+3002,consumidor,Rafaela,Santa Fe
+2586,consumidor,San Isidro,Buenos Aires
+4495,consumidor,Recoleta,CABA
+2292,consumidor,Villa Carlos Paz,Córdoba
+1438,consumidor,Morón,Buenos Aires
+3269,consumidor,Palermo,CABA
+4102,consumidor,Gualeguaychú,Entre Ríos
+2093,consumidor,Río Cuarto,Córdoba
+3153,consumidor,Quilmes,Buenos Aires
+1601,consumidor,Recoleta,CABA
+728,consumidor,Morón,Buenos Aires
+696,consumidor,Avellaneda,Buenos Aires
+2883,consumidor,Salta,Salta
+733,consumidor,Avellaneda,Buenos Aires
+297,consumidor,Rafaela,Santa Fe
+2477,consumidor,Rafaela,Santa Fe
+919,consumidor,Recoleta,CABA
+1222,consumidor,Quilmes,Buenos Aires
+113,consumidor,Villa María,Córdoba
+4114,consumidor,Quilmes,Buenos Aires
+1977,consumidor,Tigre,Buenos Aires
+4032,consumidor,Reconquista,Santa Fe
+2151,consumidor,Palermo,CABA
+758,consumidor,San Isidro,Buenos Aires
+2294,consumidor,San Isidro,Buenos Aires
+3929,consumidor,San Miguel de Tucumán,Tucumán
+1642,consumidor,Tafí Viejo,Tucumán
+4425,consumidor,San Isidro,Buenos Aires
+2600,consumidor,Río Cuarto,Córdoba
+1582,consumidor,San Isidro,Buenos Aires
+1932,consumidor,Quilmes,Buenos Aires
+3412,consumidor,Rafaela,Santa Fe
+3838,consumidor,Mendoza,Mendoza
+2189,consumidor,Mendoza,Mendoza
+2456,consumidor,San Rafael,Mendoza
+975,consumidor,Belgrano,CABA
+3417,consumidor,Almagro,CABA
+3232,consumidor,Caballito,CABA
+1908,consumidor,Recoleta,CABA
+2830,consumidor,Villa Carlos Paz,Córdoba
+1834,consumidor,Morón,Buenos Aires
+704,consumidor,Avellaneda,Buenos Aires
+3184,consumidor,Río Cuarto,Córdoba
+1199,consumidor,Morón,Buenos Aires
+3506,consumidor,Caballito,CABA
+3537,consumidor,Morón,Buenos Aires
+3884,consumidor,Caballito,CABA
+3382,consumidor,Quilmes,Buenos Aires
+256,consumidor,Palermo,CABA
+3848,consumidor,Recoleta,CABA
+2821,consumidor,Rosario,Santa Fe
+806,consumidor,San Isidro,Buenos Aires
+1020,consumidor,Recoleta,CABA
+490,consumidor,Quilmes,Buenos Aires
+1717,consumidor,Morón,Buenos Aires
+441,consumidor,Tigre,Buenos Aires
+4021,consumidor,Avellaneda,Buenos Aires
+4131,consumidor,Guaymallén,Mendoza
+2895,consumidor,Morón,Buenos Aires
+4143,consumidor,Rosario,Santa Fe
+3984,consumidor,Caballito,CABA
+1171,consumidor,General Roca,Río Negro
+1095,consumidor,Avellaneda,Buenos Aires
+3379,consumidor,San Isidro,Buenos Aires
+3325,consumidor,Avellaneda,Buenos Aires
+692,consumidor,Belgrano,CABA
+4213,consumidor,Palermo,CABA
+1901,consumidor,San Isidro,Buenos Aires
+541,consumidor,San Isidro,Buenos Aires
+512,consumidor,Cutral Có,Neuquén
+3329,consumidor,Belgrano,CABA
+2351,consumidor,Morón,Buenos Aires
+2695,consumidor,Recoleta,CABA
+1201,consumidor,Palpalá,Jujuy
+2012,consumidor,Palermo,CABA
+3582,consumidor,Avellaneda,Buenos Aires
+38,comercio,Morón,Buenos Aires
+2538,consumidor,Tigre,Buenos Aires
+4001,consumidor,Belgrano,CABA
+88,consumidor,Palpalá,Jujuy
+4612,consumidor,Quilmes,Buenos Aires
+1704,consumidor,Avellaneda,Buenos Aires
+1449,consumidor,San Isidro,Buenos Aires
+843,consumidor,Yerba Buena,Tucumán
+3908,consumidor,San Salvador de Jujuy,Jujuy
+4562,consumidor,Tigre,Buenos Aires
+1846,consumidor,Orán,Salta
+2061,consumidor,San Rafael,Mendoza
+377,consumidor,Avellaneda,Buenos Aires
+344,consumidor,Avellaneda,Buenos Aires
+662,consumidor,Caballito,CABA
+2640,consumidor,Avellaneda,Buenos Aires
+366,consumidor,Belgrano,CABA
+58,comercio,Belgrano,CABA
+4292,consumidor,Recoleta,CABA
+1105,consumidor,Tafí Viejo,Tucumán
+4011,consumidor,San Salvador de Jujuy,Jujuy
+217,consumidor,Posadas,Misiones
+1473,consumidor,Avellaneda,Buenos Aires
+2730,consumidor,San Isidro,Buenos Aires
+1515,consumidor,Tartagal,Salta
+4345,consumidor,Morón,Buenos Aires
+1192,consumidor,Neuquén,Neuquén
+4305,consumidor,Caballito,CABA
+947,consumidor,Belgrano,CABA
+1253,consumidor,San Isidro,Buenos Aires
+2949,consumidor,Belgrano,CABA
+897,consumidor,Avellaneda,Buenos Aires
+1408,consumidor,Tigre,Buenos Aires
+4663,consumidor,Avellaneda,Buenos Aires
+2741,consumidor,San Miguel de Tucumán,Tucumán
+2606,consumidor,Villa Carlos Paz,Córdoba
+2035,consumidor,Villa Carlos Paz,Córdoba
+964,consumidor,Rafaela,Santa Fe
+3644,consumidor,San Isidro,Buenos Aires
+1485,consumidor,Rafaela,Santa Fe
+4284,consumidor,San Isidro,Buenos Aires
+2492,consumidor,Villa Carlos Paz,Córdoba
+2201,consumidor,Almagro,CABA
+580,consumidor,Avellaneda,Buenos Aires
+1273,consumidor,Santa Fe,Santa Fe
+3867,consumidor,Recoleta,CABA
+2328,consumidor,Río Cuarto,Córdoba
+4023,consumidor,Viedma,Río Negro
+3988,consumidor,Tigre,Buenos Aires
+3239,consumidor,Quilmes,Buenos Aires
+278,consumidor,Belgrano,CABA
+533,consumidor,Recoleta,CABA
+4270,consumidor,Rafaela,Santa Fe
+72,consumidor,Recoleta,CABA
+425,consumidor,San Isidro,Buenos Aires
+2335,consumidor,Belgrano,CABA
+814,consumidor,Río Cuarto,Córdoba
+4476,consumidor,Reconquista,Santa Fe
+2804,consumidor,Quilmes,Buenos Aires
+2637,consumidor,Belgrano,CABA
+4031,consumidor,Quilmes,Buenos Aires
+1731,consumidor,San Isidro,Buenos Aires
+1448,consumidor,Morón,Buenos Aires
+1218,consumidor,Córdoba,Córdoba
+1629,consumidor,Mendoza,Mendoza
+1552,consumidor,Recoleta,CABA
+2994,consumidor,Caballito,CABA
+1619,consumidor,Palpalá,Jujuy
+1480,consumidor,Caballito,CABA
+3301,consumidor,Almagro,CABA
+145,consumidor,Rosario,Santa Fe
+2276,consumidor,Villa María,Córdoba
+3091,consumidor,San Isidro,Buenos Aires
+180,consumidor,Morón,Buenos Aires
+3660,consumidor,Almagro,CABA
+2833,consumidor,Almagro,CABA
+4083,consumidor,San Isidro,Buenos Aires
+4704,consumidor,Río Cuarto,Córdoba
+1018,consumidor,Quilmes,Buenos Aires
+2602,consumidor,Belgrano,CABA
+608,consumidor,Belgrano,CABA
+685,consumidor,San Isidro,Buenos Aires
+3057,consumidor,Villa María,Córdoba
+1458,consumidor,Posadas,Misiones
+3889,consumidor,Avellaneda,Buenos Aires
+621,consumidor,Belgrano,CABA
+4227,consumidor,Recoleta,CABA
+3925,consumidor,Recoleta,CABA
+3901,consumidor,Rosario,Santa Fe
+2542,consumidor,Recoleta,CABA
+2473,consumidor,Morón,Buenos Aires
+3687,consumidor,San Miguel de Tucumán,Tucumán
+1137,consumidor,Villa Carlos Paz,Córdoba
+2033,consumidor,Río Cuarto,Córdoba
+4174,consumidor,Quilmes,Buenos Aires
+3803,consumidor,Caballito,CABA
+1358,consumidor,Recoleta,CABA
+1561,consumidor,Reconquista,Santa Fe
+4079,consumidor,Belgrano,CABA
+1051,consumidor,Belgrano,CABA
+2906,consumidor,San Isidro,Buenos Aires
+1554,consumidor,Rosario,Santa Fe
+399,consumidor,Mendoza,Mendoza
+4699,consumidor,Villa Carlos Paz,Córdoba
+2493,consumidor,Quilmes,Buenos Aires
+1745,consumidor,Rosario,Santa Fe
+2690,consumidor,Morón,Buenos Aires
+448,consumidor,Almagro,CABA
+2073,consumidor,Morón,Buenos Aires
+3434,consumidor,Belgrano,CABA
+4265,consumidor,Caballito,CABA
+1285,consumidor,Avellaneda,Buenos Aires
+3991,consumidor,Rosario,Santa Fe
+2270,consumidor,San Isidro,Buenos Aires
+1005,consumidor,Belgrano,CABA
+162,consumidor,Palermo,CABA
+3446,consumidor,Palermo,CABA
+429,consumidor,Belgrano,CABA
+3861,consumidor,Avellaneda,Buenos Aires
+3039,consumidor,Godoy Cruz,Mendoza
+4133,consumidor,Río Cuarto,Córdoba
+3647,consumidor,Morón,Buenos Aires
+4249,consumidor,Recoleta,CABA
+474,consumidor,Godoy Cruz,Mendoza
+2459,consumidor,Tigre,Buenos Aires
+1990,consumidor,Tigre,Buenos Aires
+1815,consumidor,Belgrano,CABA
+2603,consumidor,Cipolletti,Río Negro
+3167,consumidor,Reconquista,Santa Fe
+1029,consumidor,Villa Carlos Paz,Córdoba
+887,consumidor,Recoleta,CABA
+701,consumidor,Rafaela,Santa Fe
+1648,consumidor,Avellaneda,Buenos Aires
+2892,consumidor,Caballito,CABA
+1208,consumidor,Villa María,Córdoba
+4681,consumidor,Mendoza,Mendoza
+930,consumidor,Rosario,Santa Fe
+1683,consumidor,Caballito,CABA
+1183,consumidor,Quilmes,Buenos Aires
+1747,consumidor,Morón,Buenos Aires
+4341,consumidor,Rosario,Santa Fe
+1406,consumidor,Palermo,CABA
+2972,consumidor,Palpalá,Jujuy
+562,consumidor,Caballito,CABA
+3468,consumidor,Caballito,CABA
+3830,consumidor,Río Cuarto,Córdoba
+4576,consumidor,Cipolletti,Río Negro
+1711,consumidor,Tigre,Buenos Aires
+2627,consumidor,Villa María,Córdoba
+852,consumidor,Córdoba,Córdoba
+2534,consumidor,Quilmes,Buenos Aires
+1883,consumidor,Quilmes,Buenos Aires
+1797,consumidor,Belgrano,CABA
+4466,consumidor,Recoleta,CABA
+2691,consumidor,San Isidro,Buenos Aires
+4318,consumidor,Avellaneda,Buenos Aires
+786,consumidor,Almagro,CABA
+3945,consumidor,Morón,Buenos Aires
+3578,consumidor,San Isidro,Buenos Aires
+290,consumidor,Avellaneda,Buenos Aires
+2032,consumidor,Quilmes,Buenos Aires
+222,consumidor,Villa María,Córdoba
+1272,consumidor,Quilmes,Buenos Aires
+219,consumidor,Neuquén,Neuquén
+2625,consumidor,San Isidro,Buenos Aires
+3632,consumidor,Morón,Buenos Aires
+3143,consumidor,Almagro,CABA
+1823,consumidor,Almagro,CABA
+3782,consumidor,Avellaneda,Buenos Aires
+4088,consumidor,Tigre,Buenos Aires
+3624,consumidor,Belgrano,CABA
+917,consumidor,Tigre,Buenos Aires
+257,consumidor,Reconquista,Santa Fe
+3816,consumidor,Belgrano,CABA
+3365,consumidor,Godoy Cruz,Mendoza
+640,consumidor,Caballito,CABA
+1876,consumidor,Avellaneda,Buenos Aires
+2471,consumidor,Palermo,CABA
+3605,consumidor,Tigre,Buenos Aires
+4412,consumidor,Tigre,Buenos Aires
+4397,consumidor,Belgrano,CABA
+681,consumidor,Caballito,CABA
+1142,consumidor,Tigre,Buenos Aires
+1483,consumidor,Orán,Salta
+3034,consumidor,Córdoba,Córdoba
+2208,consumidor,Recoleta,CABA
+2705,consumidor,Caballito,CABA
+4111,consumidor,San Isidro,Buenos Aires
+1023,consumidor,Avellaneda,Buenos Aires
+76,consumidor,Almagro,CABA
+1356,consumidor,Tartagal,Salta
+1046,consumidor,Tigre,Buenos Aires
+1931,consumidor,Caballito,CABA
+2955,consumidor,Belgrano,CABA
+3023,consumidor,General Roca,Río Negro
+2669,consumidor,Caballito,CABA
+1258,consumidor,Morón,Buenos Aires
+373,consumidor,Rosario,Santa Fe
+566,consumidor,Recoleta,CABA
+1341,consumidor,Palermo,CABA
+1254,consumidor,Almagro,CABA
+515,consumidor,Tigre,Buenos Aires
+1124,consumidor,Palermo,CABA
+1563,consumidor,San Isidro,Buenos Aires
+3836,consumidor,San Isidro,Buenos Aires
+2048,consumidor,Almagro,CABA
+385,consumidor,Caballito,CABA
+3341,consumidor,Recoleta,CABA
+4547,consumidor,Palermo,CABA
+1812,consumidor,Recoleta,CABA
+3661,consumidor,Tigre,Buenos Aires
+3496,consumidor,San Salvador de Jujuy,Jujuy
+2105,consumidor,Quilmes,Buenos Aires
+4474,consumidor,Tigre,Buenos Aires
+1225,consumidor,Córdoba,Córdoba
+1756,consumidor,Caballito,CABA
+667,consumidor,Caballito,CABA
+101,consumidor,Tafí Viejo,Tucumán
+245,consumidor,Belgrano,CABA
+2191,consumidor,San Rafael,Mendoza
+1851,consumidor,Tartagal,Salta
+4204,consumidor,Posadas,Misiones
+3451,consumidor,Morón,Buenos Aires
+4300,consumidor,San Isidro,Buenos Aires
+1435,consumidor,Quilmes,Buenos Aires
+3116,consumidor,Palermo,CABA
+2544,consumidor,San Isidro,Buenos Aires
+3324,consumidor,Recoleta,CABA
+2998,consumidor,Tafí Viejo,Tucumán
+3500,consumidor,Quilmes,Buenos Aires
+2341,consumidor,Avellaneda,Buenos Aires
+2503,consumidor,Rafaela,Santa Fe
+2344,consumidor,Caballito,CABA
+900,consumidor,Belgrano,CABA
+3577,consumidor,Almagro,CABA
+3310,consumidor,Avellaneda,Buenos Aires
+3833,consumidor,Quilmes,Buenos Aires
+1211,consumidor,Caballito,CABA
+4328,consumidor,Palermo,CABA
+91,consumidor,Belgrano,CABA
+2745,consumidor,Resistencia,Chaco
+4172,consumidor,Belgrano,CABA
+2792,consumidor,Tigre,Buenos Aires
+579,consumidor,Almagro,CABA
+3177,consumidor,Córdoba,Córdoba
+1741,consumidor,Reconquista,Santa Fe
+2779,consumidor,Tigre,Buenos Aires
+3006,consumidor,Recoleta,CABA
+1289,consumidor,San Isidro,Buenos Aires
+3673,consumidor,Morón,Buenos Aires
+3904,consumidor,Quilmes,Buenos Aires
+1532,consumidor,Libertador,Jujuy
+3083,consumidor,Córdoba,Córdoba
+2835,consumidor,Almagro,CABA
+2216,consumidor,Palermo,CABA
+421,consumidor,Avellaneda,Buenos Aires
+2237,consumidor,Almagro,CABA
+4591,consumidor,Yerba Buena,Tucumán
+3426,consumidor,Tigre,Buenos Aires
+4087,consumidor,Villa Carlos Paz,Córdoba
+1203,consumidor,Morón,Buenos Aires
+1903,consumidor,Salta,Salta
+2658,consumidor,Palermo,CABA
+4286,consumidor,Palpalá,Jujuy
+4247,consumidor,Tigre,Buenos Aires
+3136,consumidor,Salta,Salta
+4252,consumidor,Godoy Cruz,Mendoza
+2847,consumidor,Quilmes,Buenos Aires
+3594,consumidor,Tigre,Buenos Aires
+80,consumidor,Tigre,Buenos Aires
+3088,consumidor,Almagro,CABA
+3562,consumidor,Morón,Buenos Aires
+921,consumidor,Caballito,CABA
+1780,consumidor,Villa María,Córdoba
+829,consumidor,Recoleta,CABA
+1421,consumidor,Morón,Buenos Aires
+163,consumidor,Villa Carlos Paz,Córdoba
+3333,consumidor,Quilmes,Buenos Aires
+3737,consumidor,Tigre,Buenos Aires
+2646,consumidor,San Isidro,Buenos Aires
+3295,consumidor,Yerba Buena,Tucumán
+3606,consumidor,San Isidro,Buenos Aires
+2986,consumidor,Quilmes,Buenos Aires
+3689,consumidor,Avellaneda,Buenos Aires
+3565,consumidor,Caballito,CABA
+4654,consumidor,Belgrano,CABA
+3298,consumidor,Recoleta,CABA
+677,consumidor,Tigre,Buenos Aires
+4381,consumidor,Avellaneda,Buenos Aires
+4188,consumidor,Morón,Buenos Aires
+2439,consumidor,Villa Carlos Paz,Córdoba
+4455,consumidor,Palermo,CABA
+2124,consumidor,Palermo,CABA
+3299,consumidor,Córdoba,Córdoba
+1575,consumidor,Almagro,CABA
+3698,consumidor,Rafaela,Santa Fe
+3479,consumidor,Villa María,Córdoba
+17,comercio,Avellaneda,Buenos Aires
+1136,consumidor,Santa Fe,Santa Fe
+517,consumidor,Santa Fe,Santa Fe
+1722,consumidor,Avellaneda,Buenos Aires
+2419,consumidor,Caballito,CABA
+3542,consumidor,Caballito,CABA
+1229,consumidor,Morón,Buenos Aires
+2933,consumidor,Tigre,Buenos Aires
+2989,consumidor,Tigre,Buenos Aires
+1534,consumidor,Caballito,CABA
+1193,consumidor,Recoleta,CABA
+4588,consumidor,Morón,Buenos Aires
+4297,consumidor,Belgrano,CABA
+1837,consumidor,Almagro,CABA
+1764,consumidor,Recoleta,CABA
+2702,consumidor,Tigre,Buenos Aires
+4090,consumidor,Quilmes,Buenos Aires
+1158,consumidor,San Isidro,Buenos Aires
+3090,consumidor,Recoleta,CABA
+334,consumidor,Almagro,CABA
+2243,consumidor,Río Cuarto,Córdoba
+2283,consumidor,Avellaneda,Buenos Aires
+2291,consumidor,San Isidro,Buenos Aires
+3739,consumidor,San Isidro,Buenos Aires
+4269,consumidor,Morón,Buenos Aires
+3321,consumidor,Caballito,CABA
+3099,consumidor,Palermo,CABA
+4201,consumidor,Morón,Buenos Aires
+1492,consumidor,Quilmes,Buenos Aires
+2679,consumidor,Caballito,CABA
+1321,consumidor,Mendoza,Mendoza
+713,consumidor,Palermo,CABA
+3234,consumidor,Caballito,CABA
+1256,consumidor,San Rafael,Mendoza
+403,consumidor,Rafaela,Santa Fe
+2905,consumidor,Recoleta,CABA
+1753,consumidor,Tigre,Buenos Aires
+988,consumidor,Palermo,CABA
+4757,consumidor,Rafaela,Santa Fe
+3281,consumidor,Tigre,Buenos Aires
+3729,consumidor,Quilmes,Buenos Aires
+2066,consumidor,Quilmes,Buenos Aires
+1377,consumidor,Avellaneda,Buenos Aires
+2543,consumidor,Caballito,CABA
+4156,consumidor,Caballito,CABA
+3977,consumidor,Villa Carlos Paz,Córdoba
+3348,consumidor,Quilmes,Buenos Aires
+2092,consumidor,Avellaneda,Buenos Aires
+2531,consumidor,Villa María,Córdoba
+1985,consumidor,Cipolletti,Río Negro
+1317,consumidor,Palermo,CABA
+2908,consumidor,Mendoza,Mendoza
+3504,consumidor,Tartagal,Salta
+3246,consumidor,Quilmes,Buenos Aires
+4610,consumidor,Resistencia,Chaco
+868,consumidor,Caballito,CABA
+1571,consumidor,Belgrano,CABA
+3010,consumidor,Tigre,Buenos Aires
+1909,consumidor,Morón,Buenos Aires
+3763,consumidor,Oberá,Misiones
+543,consumidor,Caballito,CABA
+29,comercio,Guaymallén,Mendoza
+1398,consumidor,San Isidro,Buenos Aires
+105,consumidor,Caballito,CABA
+3018,consumidor,Belgrano,CABA
+2990,consumidor,San Martín de los Andes,Neuquén
+4458,consumidor,San Isidro,Buenos Aires
+2950,consumidor,Resistencia,Chaco
+8,comercio,Recoleta,CABA
+4434,consumidor,Río Cuarto,Córdoba
+4255,consumidor,Belgrano,CABA
+2867,consumidor,Morón,Buenos Aires
+1359,consumidor,Avellaneda,Buenos Aires
+1093,consumidor,Tigre,Buenos Aires
+2782,consumidor,Libertador,Jujuy
+99,consumidor,Belgrano,CABA
+1584,consumidor,Caballito,CABA
+4416,consumidor,Avellaneda,Buenos Aires
+3472,consumidor,Paraná,Entre Ríos
+4370,consumidor,Almagro,CABA
+1714,consumidor,Caballito,CABA
+2410,consumidor,Quilmes,Buenos Aires
+3248,consumidor,Quilmes,Buenos Aires
+2085,consumidor,General Roca,Río Negro
+4367,consumidor,Belgrano,CABA
+4101,consumidor,San Isidro,Buenos Aires
+2688,consumidor,Morón,Buenos Aires
+1608,consumidor,Santa Fe,Santa Fe
+2795,consumidor,Avellaneda,Buenos Aires
+2924,consumidor,Quilmes,Buenos Aires
+3051,consumidor,Almagro,CABA
+3923,consumidor,Almagro,CABA
+760,consumidor,San Isidro,Buenos Aires
+3456,consumidor,San Isidro,Buenos Aires
+210,consumidor,Recoleta,CABA
+92,consumidor,Belgrano,CABA
+1248,consumidor,Avellaneda,Buenos Aires
+1405,consumidor,Guaymallén,Mendoza
+3747,consumidor,Rosario,Santa Fe
+3483,consumidor,Avellaneda,Buenos Aires
+1693,consumidor,Almagro,CABA
+452,consumidor,Palermo,CABA
+174,consumidor,Almagro,CABA
+1870,consumidor,Villa Carlos Paz,Córdoba
+85,consumidor,Reconquista,Santa Fe
+185,consumidor,Quilmes,Buenos Aires
+4291,consumidor,San Isidro,Buenos Aires
+202,consumidor,Caballito,CABA
+769,consumidor,Tigre,Buenos Aires
+3162,consumidor,Palermo,CABA
+4541,consumidor,Palermo,CABA
+2063,consumidor,Morón,Buenos Aires
+2673,consumidor,Morón,Buenos Aires
+95,consumidor,Almagro,CABA
+4196,consumidor,Avellaneda,Buenos Aires
+4752,consumidor,San Rafael,Mendoza
+2043,consumidor,Villa Carlos Paz,Córdoba
+862,consumidor,Almagro,CABA
+922,consumidor,Cipolletti,Río Negro
+2698,consumidor,Recoleta,CABA
+2649,consumidor,Caballito,CABA
+3077,consumidor,Quilmes,Buenos Aires
+781,consumidor,Morón,Buenos Aires
+762,consumidor,Morón,Buenos Aires
+1610,consumidor,Quilmes,Buenos Aires
+3403,consumidor,Rosario,Santa Fe
+3696,consumidor,Morón,Buenos Aires
+2159,consumidor,San Martín de los Andes,Neuquén
+2219,consumidor,Palermo,CABA
+666,consumidor,Palermo,CABA
+1061,consumidor,Almagro,CABA
+3448,consumidor,Caballito,CABA
+1187,consumidor,Recoleta,CABA
+1818,consumidor,Morón,Buenos Aires
+2982,consumidor,Recoleta,CABA
+382,consumidor,Almagro,CABA
+1233,consumidor,Tigre,Buenos Aires
+1265,consumidor,Recoleta,CABA
+3538,consumidor,Almagro,CABA
+3120,consumidor,Caballito,CABA
+799,consumidor,San Isidro,Buenos Aires
+4403,consumidor,Belgrano,CABA
+2993,consumidor,Caballito,CABA
+2786,consumidor,Almagro,CABA
+1727,consumidor,Avellaneda,Buenos Aires
+3770,consumidor,Neuquén,Neuquén
+2147,consumidor,Avellaneda,Buenos Aires
+3262,consumidor,Santa Fe,Santa Fe
+3332,consumidor,Morón,Buenos Aires
+51,comercio,Quilmes,Buenos Aires
+412,consumidor,Tigre,Buenos Aires
+3356,consumidor,Viedma,Río Negro
+197,consumidor,Belgrano,CABA
+20,comercio,Recoleta,CABA
+1560,consumidor,Avellaneda,Buenos Aires
+1654,consumidor,Almagro,CABA
+3580,consumidor,Morón,Buenos Aires
+4278,consumidor,Morón,Buenos Aires
+1096,consumidor,Almagro,CABA
+703,consumidor,Caballito,CABA
+4081,consumidor,Posadas,Misiones
+1822,consumidor,San Miguel de Tucumán,Tucumán
+497,consumidor,Palermo,CABA
+4619,consumidor,Belgrano,CABA
+4336,consumidor,Palermo,CABA
+1548,consumidor,Mendoza,Mendoza
+1919,consumidor,Caballito,CABA
+809,consumidor,Tigre,Buenos Aires
+2165,consumidor,Tigre,Buenos Aires
+1855,consumidor,Quilmes,Buenos Aires
+2030,consumidor,Morón,Buenos Aires
+2445,consumidor,Palermo,CABA
+2144,consumidor,Belgrano,CABA
+1444,consumidor,Almagro,CABA
+3069,consumidor,Morón,Buenos Aires
+116,consumidor,Palermo,CABA
+1860,consumidor,Morón,Buenos Aires
+1012,consumidor,Avellaneda,Buenos Aires
+2995,consumidor,Rafaela,Santa Fe
+4358,consumidor,Palermo,CABA
+818,consumidor,Caballito,CABA
+3452,consumidor,Morón,Buenos Aires
+4309,consumidor,Morón,Buenos Aires
+4186,consumidor,Morón,Buenos Aires
+2042,consumidor,Resistencia,Chaco
+1411,consumidor,Avellaneda,Buenos Aires
+4441,consumidor,Villa Carlos Paz,Córdoba
+93,consumidor,Almagro,CABA
+2389,consumidor,Belgrano,CABA
+2539,consumidor,Morón,Buenos Aires
+4696,consumidor,Morón,Buenos Aires
+1544,consumidor,San Isidro,Buenos Aires
+3266,consumidor,Quilmes,Buenos Aires
+4454,consumidor,Tigre,Buenos Aires
+4546,consumidor,Córdoba,Córdoba
+793,consumidor,San Isidro,Buenos Aires
+2461,consumidor,Reconquista,Santa Fe
+4427,consumidor,Santa Fe,Santa Fe
+2948,consumidor,Quilmes,Buenos Aires
+1827,consumidor,Avellaneda,Buenos Aires
+1995,consumidor,Tartagal,Salta
+1604,consumidor,San Isidro,Buenos Aires
+4420,consumidor,Villa Carlos Paz,Córdoba
+2860,consumidor,Palermo,CABA
+4686,consumidor,Córdoba,Córdoba
+2759,consumidor,Quilmes,Buenos Aires
+2008,consumidor,Oberá,Misiones
+2388,consumidor,Villa María,Córdoba
+2141,consumidor,Rosario,Santa Fe
+4575,consumidor,Caballito,CABA
+1152,consumidor,San Isidro,Buenos Aires
+1516,consumidor,Avellaneda,Buenos Aires
+3240,consumidor,Belgrano,CABA
+4611,consumidor,Morón,Buenos Aires
+2320,consumidor,San Isidro,Buenos Aires
+3858,consumidor,Resistencia,Chaco
+2718,consumidor,Avellaneda,Buenos Aires
+42,comercio,Quilmes,Buenos Aires
+1729,consumidor,Rafaela,Santa Fe
+3726,consumidor,Villa María,Córdoba
+2975,consumidor,San Isidro,Buenos Aires
+2221,consumidor,Godoy Cruz,Mendoza
+3965,consumidor,San Isidro,Buenos Aires
+1477,consumidor,Almagro,CABA
+4066,consumidor,Almagro,CABA
+573,consumidor,Belgrano,CABA
+2182,consumidor,Avellaneda,Buenos Aires
+3306,consumidor,Almagro,CABA
+2029,consumidor,San Isidro,Buenos Aires
+4243,consumidor,Tigre,Buenos Aires
+3857,consumidor,Quilmes,Buenos Aires
+761,consumidor,Avellaneda,Buenos Aires
+844,consumidor,San Rafael,Mendoza
+2026,consumidor,Reconquista,Santa Fe
+1162,consumidor,Santa Fe,Santa Fe
+4162,consumidor,Morón,Buenos Aires
+3196,consumidor,Belgrano,CABA
+915,consumidor,San Isidro,Buenos Aires
+4676,consumidor,Belgrano,CABA
+3005,consumidor,San Isidro,Buenos Aires
+4655,consumidor,Recoleta,CABA
+3799,consumidor,Quilmes,Buenos Aires
+3951,consumidor,Quilmes,Buenos Aires
+3898,consumidor,Tigre,Buenos Aires
+913,consumidor,Avellaneda,Buenos Aires
+4527,consumidor,Avellaneda,Buenos Aires
+2318,consumidor,Almagro,CABA
+838,consumidor,Villa María,Córdoba
+350,consumidor,Tigre,Buenos Aires
+4296,consumidor,Palermo,CABA
+2425,consumidor,Palermo,CABA
+4299,consumidor,Palermo,CABA
+571,consumidor,Almagro,CABA
+3957,consumidor,Almagro,CABA
+325,consumidor,Rosario,Santa Fe
+229,consumidor,Almagro,CABA
+2087,consumidor,Viedma,Río Negro
+3316,consumidor,Palermo,CABA
+2393,consumidor,Almagro,CABA
+2154,consumidor,Tigre,Buenos Aires
+2621,consumidor,Guaymallén,Mendoza
+4176,consumidor,Mendoza,Mendoza
+1076,consumidor,Recoleta,CABA
+974,consumidor,Yerba Buena,Tucumán
+4691,consumidor,Belgrano,CABA
+486,consumidor,Palermo,CABA
+4393,consumidor,Quilmes,Buenos Aires
+2810,consumidor,Rosario,Santa Fe
+3012,consumidor,Tigre,Buenos Aires
+3692,consumidor,Avellaneda,Buenos Aires
+4130,consumidor,Quilmes,Buenos Aires
+3217,consumidor,Tigre,Buenos Aires
+2440,consumidor,Quilmes,Buenos Aires
+847,consumidor,Cutral Có,Neuquén
+2327,consumidor,Avellaneda,Buenos Aires
+3710,consumidor,Morón,Buenos Aires
+778,consumidor,Quilmes,Buenos Aires
+21,comercio,Belgrano,CABA
+2168,consumidor,Quilmes,Buenos Aires
+3082,consumidor,Morón,Buenos Aires
+4125,consumidor,Quilmes,Buenos Aires
+152,consumidor,San Isidro,Buenos Aires
+867,consumidor,San Isidro,Buenos Aires
+4232,consumidor,Rosario,Santa Fe
+2405,consumidor,Guaymallén,Mendoza
+2798,consumidor,San Isidro,Buenos Aires
+4513,consumidor,San Miguel de Tucumán,Tucumán
+1053,consumidor,Río Cuarto,Córdoba
+1513,consumidor,Avellaneda,Buenos Aires
+3427,consumidor,Almagro,CABA
+4354,consumidor,Belgrano,CABA
+896,consumidor,Tigre,Buenos Aires
+361,consumidor,Palermo,CABA
+827,consumidor,Recoleta,CABA
+117,consumidor,San Isidro,Buenos Aires
+4715,consumidor,Santa Fe,Santa Fe
+1214,consumidor,Caballito,CABA
+1056,consumidor,Morón,Buenos Aires
+3160,consumidor,Belgrano,CABA
+2499,consumidor,San Isidro,Buenos Aires
+3190,consumidor,Cipolletti,Río Negro
+4093,consumidor,Paraná,Entre Ríos
+2861,consumidor,Palpalá,Jujuy
+3119,consumidor,Avellaneda,Buenos Aires
+4293,consumidor,Villa Ángela,Chaco
+301,consumidor,Avellaneda,Buenos Aires
+1469,consumidor,General Roca,Río Negro
+3732,consumidor,Palermo,CABA
+1328,consumidor,Tigre,Buenos Aires
+1487,consumidor,San Isidro,Buenos Aires
+1752,consumidor,Santa Fe,Santa Fe
+3436,consumidor,Rafaela,Santa Fe
+2659,consumidor,Morón,Buenos Aires
+125,consumidor,Santa Fe,Santa Fe
+97,consumidor,Avellaneda,Buenos Aires
+1539,consumidor,Tafí Viejo,Tucumán
+610,consumidor,Avellaneda,Buenos Aires
+7,comercio,Quilmes,Buenos Aires
+3188,consumidor,Tigre,Buenos Aires
+3525,consumidor,Rafaela,Santa Fe
+756,consumidor,San Rafael,Mendoza
+4399,consumidor,Recoleta,CABA
+957,consumidor,Palermo,CABA
+1879,consumidor,Palpalá,Jujuy
+956,consumidor,Palermo,CABA
+2519,consumidor,San Isidro,Buenos Aires
+3163,consumidor,Palermo,CABA
+1836,consumidor,Caballito,CABA
+759,consumidor,Quilmes,Buenos Aires
+247,consumidor,Caballito,CABA
+3134,consumidor,Libertador,Jujuy
+2687,consumidor,Palermo,CABA
+473,consumidor,Avellaneda,Buenos Aires
+3194,consumidor,Morón,Buenos Aires
+4182,consumidor,Santa Fe,Santa Fe
+4400,consumidor,Caballito,CABA
+2832,consumidor,Avellaneda,Buenos Aires
+231,consumidor,Tigre,Buenos Aires
+3670,consumidor,Palermo,CABA
+2757,consumidor,Almagro,CABA
+1979,consumidor,Tigre,Buenos Aires
+4015,consumidor,Recoleta,CABA
+2781,consumidor,Caballito,CABA
+1974,consumidor,Tigre,Buenos Aires
+253,consumidor,San Isidro,Buenos Aires
+1572,consumidor,San Isidro,Buenos Aires
+2368,consumidor,Caballito,CABA
+4246,consumidor,Morón,Buenos Aires
+962,consumidor,Almagro,CABA
+3342,consumidor,Quilmes,Buenos Aires
+2397,consumidor,Avellaneda,Buenos Aires
+4556,consumidor,Gualeguaychú,Entre Ríos
+4077,consumidor,Paraná,Entre Ríos
+4477,consumidor,San Isidro,Buenos Aires
+15,comercio,Tigre,Buenos Aires
+192,consumidor,Morón,Buenos Aires
+1733,consumidor,Quilmes,Buenos Aires
+1129,consumidor,Avellaneda,Buenos Aires
+110,consumidor,Quilmes,Buenos Aires
+3009,consumidor,Morón,Buenos Aires
+172,consumidor,Caballito,CABA
+32,comercio,Rafaela,Santa Fe
+3492,consumidor,Villa Carlos Paz,Córdoba
+4315,consumidor,Almagro,CABA
+2724,consumidor,San Isidro,Buenos Aires
+616,consumidor,Palermo,CABA
+491,consumidor,Resistencia,Chaco
+2528,consumidor,Recoleta,CABA
+1236,consumidor,San Isidro,Buenos Aires
+2752,consumidor,Tigre,Buenos Aires
+4140,consumidor,Rosario,Santa Fe
+639,consumidor,Río Cuarto,Córdoba
+4700,consumidor,Godoy Cruz,Mendoza
+1804,consumidor,Almagro,CABA
+784,consumidor,Río Cuarto,Córdoba
+4751,consumidor,Avellaneda,Buenos Aires
+445,consumidor,Palermo,CABA
+2504,consumidor,Morón,Buenos Aires
+3999,consumidor,Villa María,Córdoba
+69,comercio,Almagro,CABA
+68,comercio,Avellaneda,Buenos Aires
+2682,consumidor,Quilmes,Buenos Aires
+4602,consumidor,San Isidro,Buenos Aires
+3947,consumidor,Avellaneda,Buenos Aires
+1465,consumidor,Tigre,Buenos Aires
+3942,consumidor,Posadas,Misiones
+3169,consumidor,Recoleta,CABA
+2610,consumidor,Palermo,CABA
+2057,consumidor,Quilmes,Buenos Aires
+3688,consumidor,Avellaneda,Buenos Aires
+35,comercio,Quilmes,Buenos Aires
+2550,consumidor,Quilmes,Buenos Aires
+242,consumidor,Recoleta,CABA
+2521,consumidor,Avellaneda,Buenos Aires
+1230,consumidor,Caballito,CABA
+1684,consumidor,Almagro,CABA
+353,consumidor,Palpalá,Jujuy
+4727,consumidor,Palermo,CABA
+2064,consumidor,Paraná,Entre Ríos
+2734,consumidor,Recoleta,CABA
+4404,consumidor,Almagro,CABA
+598,consumidor,San Isidro,Buenos Aires
+3432,consumidor,Almagro,CABA
+4639,consumidor,Tigre,Buenos Aires
+702,consumidor,Morón,Buenos Aires
+1665,consumidor,Santa Fe,Santa Fe
+3032,consumidor,Tigre,Buenos Aires
+1504,consumidor,Cipolletti,Río Negro
+3793,consumidor,Palpalá,Jujuy
+982,consumidor,Almagro,CABA
+865,consumidor,Rafaela,Santa Fe
+4605,consumidor,Palermo,CABA
+2155,consumidor,San Isidro,Buenos Aires
+254,consumidor,Palermo,CABA
+1920,consumidor,Tigre,Buenos Aires
+1817,consumidor,Belgrano,CABA
+2896,consumidor,Quilmes,Buenos Aires
+1111,consumidor,San Isidro,Buenos Aires
+1633,consumidor,Recoleta,CABA
+322,consumidor,San Isidro,Buenos Aires
+3328,consumidor,Córdoba,Córdoba
+4543,consumidor,Gualeguaychú,Entre Ríos
+856,consumidor,Palermo,CABA
+4134,consumidor,Morón,Buenos Aires
+4709,consumidor,Paraná,Entre Ríos
+1204,consumidor,Avellaneda,Buenos Aires
+1825,consumidor,Recoleta,CABA
+4386,consumidor,Concordia,Entre Ríos
+2135,consumidor,Tigre,Buenos Aires
+3772,consumidor,Río Cuarto,Córdoba
+3176,consumidor,Belgrano,CABA
+1194,consumidor,Morón,Buenos Aires
+536,consumidor,Almagro,CABA
+944,consumidor,Palpalá,Jujuy
+2848,consumidor,Tigre,Buenos Aires
+331,consumidor,Almagro,CABA
+299,consumidor,Morón,Buenos Aires
+4020,consumidor,Recoleta,CABA
+2931,consumidor,Tigre,Buenos Aires
+1239,consumidor,Recoleta,CABA
+375,consumidor,Reconquista,Santa Fe
+2169,consumidor,San Isidro,Buenos Aires
+2355,consumidor,Almagro,CABA
+1863,consumidor,Morón,Buenos Aires
+4126,consumidor,Guaymallén,Mendoza
+1700,consumidor,Recoleta,CABA
+1923,consumidor,San Isidro,Buenos Aires
+2850,consumidor,Quilmes,Buenos Aires
+1466,consumidor,San Isidro,Buenos Aires
+2536,consumidor,Palermo,CABA
+883,consumidor,San Isidro,Buenos Aires
+251,consumidor,San Isidro,Buenos Aires
+4056,consumidor,Almagro,CABA
+359,consumidor,Tigre,Buenos Aires
+1785,consumidor,San Isidro,Buenos Aires
+2074,consumidor,Quilmes,Buenos Aires
+3567,consumidor,Palermo,CABA
+4154,consumidor,Rafaela,Santa Fe
+983,consumidor,Villa María,Córdoba
+4324,consumidor,Quilmes,Buenos Aires
+4346,consumidor,Quilmes,Buenos Aires
+3968,consumidor,Recoleta,CABA
+832,consumidor,Recoleta,CABA
+2478,consumidor,San Isidro,Buenos Aires
+3070,consumidor,Caballito,CABA
+3869,consumidor,San Isidro,Buenos Aires
+2126,consumidor,Belgrano,CABA
+2716,consumidor,Morón,Buenos Aires
+2871,consumidor,Almagro,CABA
+3831,consumidor,Quilmes,Buenos Aires
+3882,consumidor,Almagro,CABA
+1603,consumidor,Morón,Buenos Aires
+1385,consumidor,Río Cuarto,Córdoba
+4407,consumidor,Avellaneda,Buenos Aires
+646,consumidor,Rosario,Santa Fe
+540,consumidor,San Isidro,Buenos Aires
+485,consumidor,Rafaela,Santa Fe
+237,consumidor,Guaymallén,Mendoza
+3521,consumidor,Tigre,Buenos Aires
+296,consumidor,Palermo,CABA
+1067,consumidor,Caballito,CABA
+2512,consumidor,Rosario,Santa Fe
+2888,consumidor,Morón,Buenos Aires
+3200,consumidor,Recoleta,CABA
+3371,consumidor,Recoleta,CABA
+886,consumidor,Tigre,Buenos Aires
+1257,consumidor,Quilmes,Buenos Aires
+502,consumidor,Tigre,Buenos Aires
+4276,consumidor,Recoleta,CABA
+1918,consumidor,Recoleta,CABA
+3975,consumidor,Caballito,CABA
+3936,consumidor,Palermo,CABA
+3437,consumidor,Belgrano,CABA
+2190,consumidor,Almagro,CABA
+3415,consumidor,Recoleta,CABA
+2552,consumidor,Caballito,CABA
+869,consumidor,Palermo,CABA
+4271,consumidor,Recoleta,CABA
+2728,consumidor,Recoleta,CABA
+4564,consumidor,Caballito,CABA
+3061,consumidor,Caballito,CABA
+2016,consumidor,Belgrano,CABA
+61,comercio,San Isidro,Buenos Aires
+4376,consumidor,Belgrano,CABA
+2152,consumidor,Río Cuarto,Córdoba
+106,consumidor,Tigre,Buenos Aires
+4092,consumidor,Rosario,Santa Fe
+1000,consumidor,Santa Fe,Santa Fe
+3358,consumidor,Morón,Buenos Aires
+3385,consumidor,Palermo,CABA
+2100,consumidor,Quilmes,Buenos Aires
+1907,consumidor,Avellaneda,Buenos Aires
+3557,consumidor,Quilmes,Buenos Aires
+1312,consumidor,Morón,Buenos Aires
+788,consumidor,San Isidro,Buenos Aires
+2438,consumidor,San Isidro,Buenos Aires
+274,consumidor,Concordia,Entre Ríos
+3547,consumidor,Quilmes,Buenos Aires
+1063,consumidor,Caballito,CABA
+3227,consumidor,Río Cuarto,Córdoba
+1259,consumidor,Neuquén,Neuquén
+3837,consumidor,Quilmes,Buenos Aires
+4443,consumidor,Villa Carlos Paz,Córdoba
+3595,consumidor,Villa María,Córdoba
+201,consumidor,Avellaneda,Buenos Aires
+4514,consumidor,Recoleta,CABA
+273,consumidor,Palermo,CABA
+753,consumidor,Tigre,Buenos Aires
+3287,consumidor,Rafaela,Santa Fe
+998,consumidor,San Rafael,Mendoza
+4618,consumidor,Avellaneda,Buenos Aires
+1026,consumidor,Palermo,CABA
+1133,consumidor,Quilmes,Buenos Aires
+187,consumidor,Godoy Cruz,Mendoza
+3250,consumidor,Reconquista,Santa Fe
+3756,consumidor,Concordia,Entre Ríos
+529,consumidor,Recoleta,CABA
+3350,consumidor,Palermo,CABA
+166,consumidor,Avellaneda,Buenos Aires
+3814,consumidor,Quilmes,Buenos Aires
+4327,consumidor,Almagro,CABA
+3815,consumidor,Libertador,Jujuy
+1856,consumidor,Caballito,CABA
+1579,consumidor,Avellaneda,Buenos Aires
+3599,consumidor,Belgrano,CABA
+2703,consumidor,Caballito,CABA
+2434,consumidor,Belgrano,CABA
+123,consumidor,Morón,Buenos Aires
+2359,consumidor,Belgrano,CABA
+2614,consumidor,San Rafael,Mendoza
+3646,consumidor,Morón,Buenos Aires
+3554,consumidor,Tigre,Buenos Aires
+287,consumidor,Palermo,CABA
+2444,consumidor,San Isidro,Buenos Aires
+1035,consumidor,Tigre,Buenos Aires
+3277,consumidor,Tigre,Buenos Aires
+1583,consumidor,Recoleta,CABA
+3197,consumidor,Caballito,CABA
+1602,consumidor,San Isidro,Buenos Aires
+4642,consumidor,Belgrano,CABA
+3112,consumidor,Quilmes,Buenos Aires
+977,consumidor,Avellaneda,Buenos Aires
+1871,consumidor,San Isidro,Buenos Aires
+4672,consumidor,Quilmes,Buenos Aires
+4245,consumidor,San Isidro,Buenos Aires
+124,consumidor,Almagro,CABA
+1736,consumidor,Quilmes,Buenos Aires
+638,consumidor,Morón,Buenos Aires
+374,consumidor,Belgrano,CABA
+3966,consumidor,Rafaela,Santa Fe
+4744,consumidor,Quilmes,Buenos Aires
+1592,consumidor,San Rafael,Mendoza
+767,consumidor,San Isidro,Buenos Aires
+1200,consumidor,Tigre,Buenos Aires
+4285,consumidor,Avellaneda,Buenos Aires
+2970,consumidor,Quilmes,Buenos Aires
+1049,consumidor,San Isidro,Buenos Aires
+3467,consumidor,Morón,Buenos Aires
+800,consumidor,San Isidro,Buenos Aires
+3757,consumidor,Villa Carlos Paz,Córdoba
+3517,consumidor,Eldorado,Misiones
+3694,consumidor,Avellaneda,Buenos Aires
+1921,consumidor,Tigre,Buenos Aires
+4277,consumidor,Almagro,CABA
+3044,consumidor,Belgrano,CABA
+4569,consumidor,Quilmes,Buenos Aires
+3284,consumidor,Belgrano,CABA
+1452,consumidor,Recoleta,CABA
+369,consumidor,Belgrano,CABA
+764,consumidor,Quilmes,Buenos Aires
+89,consumidor,Morón,Buenos Aires
+4274,consumidor,Mendoza,Mendoza
+1626,consumidor,San Rafael,Mendoza
+2996,consumidor,Avellaneda,Buenos Aires
+4323,consumidor,Quilmes,Buenos Aires
+4379,consumidor,San Isidro,Buenos Aires
+736,consumidor,Caballito,CABA
+1875,consumidor,Oberá,Misiones
+2290,consumidor,Belgrano,CABA
+2083,consumidor,Belgrano,CABA
+1352,consumidor,Belgrano,CABA
+4192,consumidor,Tigre,Buenos Aires
+4648,consumidor,Morón,Buenos Aires
+4685,consumidor,San Isidro,Buenos Aires
+3773,consumidor,Villa Carlos Paz,Córdoba
+775,consumidor,Villa María,Córdoba
+55,comercio,Almagro,CABA
+2349,consumidor,San Isidro,Buenos Aires
+2375,consumidor,San Isidro,Buenos Aires
+724,consumidor,Villa Carlos Paz,Córdoba
+3823,consumidor,Paraná,Entre Ríos
+1301,consumidor,Avellaneda,Buenos Aires
+2594,consumidor,Santa Fe,Santa Fe
+629,consumidor,Córdoba,Córdoba
+1268,consumidor,Tigre,Buenos Aires
+2401,consumidor,Rafaela,Santa Fe
+3850,consumidor,San Isidro,Buenos Aires
+1649,consumidor,Palermo,CABA
+549,consumidor,Recoleta,CABA
+1784,consumidor,Avellaneda,Buenos Aires
+3642,consumidor,Almagro,CABA
+1034,consumidor,Rafaela,Santa Fe
+1970,consumidor,Villa Carlos Paz,Córdoba
+3319,consumidor,Avellaneda,Buenos Aires
+119,consumidor,Palermo,CABA
+3736,consumidor,San Rafael,Mendoza
+4563,consumidor,Belgrano,CABA
+1295,consumidor,Quilmes,Buenos Aires
+1724,consumidor,Palermo,CABA
+3603,consumidor,Recoleta,CABA
+83,consumidor,Caballito,CABA
+1241,consumidor,Córdoba,Córdoba
+1362,consumidor,Palermo,CABA
+2420,consumidor,Palermo,CABA
+527,consumidor,Caballito,CABA
+3720,consumidor,Belgrano,CABA
+4736,consumidor,Caballito,CABA
+234,consumidor,Palermo,CABA
+1424,consumidor,San Rafael,Mendoza
+1623,consumidor,Guaymallén,Mendoza
+1902,consumidor,San Isidro,Buenos Aires
+4321,consumidor,San Miguel de Tucumán,Tucumán
+986,consumidor,Belgrano,CABA
+885,consumidor,Belgrano,CABA
+3302,consumidor,Belgrano,CABA
+1206,consumidor,Palermo,CABA
+1102,consumidor,San Rafael,Mendoza
+4387,consumidor,Recoleta,CABA
+2605,consumidor,Mendoza,Mendoza
+601,consumidor,Rafaela,Santa Fe
+4539,consumidor,Quilmes,Buenos Aires
+1325,consumidor,Recoleta,CABA
+2893,consumidor,Villa Carlos Paz,Córdoba
+3502,consumidor,Rosario,Santa Fe
+2150,consumidor,Río Cuarto,Córdoba
+4572,consumidor,Caballito,CABA
+2490,consumidor,Quilmes,Buenos Aires
+628,consumidor,Eldorado,Misiones
+4158,consumidor,Almagro,CABA
+1521,consumidor,Sáenz Peña,Chaco
+718,consumidor,Caballito,CABA
+4579,consumidor,San Isidro,Buenos Aires
+1934,consumidor,Morón,Buenos Aires
+4273,consumidor,Tigre,Buenos Aires
+1101,consumidor,Tigre,Buenos Aires
+1065,consumidor,Belgrano,CABA
+2808,consumidor,Caballito,CABA
+3540,consumidor,San Isidro,Buenos Aires
+2635,consumidor,Tigre,Buenos Aires
+205,consumidor,Belgrano,CABA
+4025,consumidor,Sáenz Peña,Chaco
+3507,consumidor,Avellaneda,Buenos Aires
+4049,consumidor,Avellaneda,Buenos Aires
+1811,consumidor,Recoleta,CABA
+2761,consumidor,San Isidro,Buenos Aires
+4155,consumidor,Avellaneda,Buenos Aires
+2431,consumidor,Santa Fe,Santa Fe
+1750,consumidor,Villa Carlos Paz,Córdoba
+149,consumidor,Santa Fe,Santa Fe
+923,consumidor,San Isidro,Buenos Aires
+2700,consumidor,Tigre,Buenos Aires
+2186,consumidor,Quilmes,Buenos Aires
+2505,consumidor,Quilmes,Buenos Aires
+2018,consumidor,Villa María,Córdoba
+286,consumidor,San Isidro,Buenos Aires
+2175,consumidor,Morón,Buenos Aires
+3494,consumidor,Almagro,CABA
+855,consumidor,Avellaneda,Buenos Aires
+1916,consumidor,San Isidro,Buenos Aires
+4307,consumidor,Almagro,CABA
+1120,consumidor,Morón,Buenos Aires
+828,consumidor,Tartagal,Salta
+3339,consumidor,Palermo,CABA
+1191,consumidor,Belgrano,CABA
+3677,consumidor,Belgrano,CABA
+824,consumidor,Morón,Buenos Aires
+3185,consumidor,Almagro,CABA
+1001,consumidor,Avellaneda,Buenos Aires
+1781,consumidor,Quilmes,Buenos Aires
+1338,consumidor,Godoy Cruz,Mendoza
+3559,consumidor,Almagro,CABA
+2767,consumidor,Quilmes,Buenos Aires
+1038,consumidor,Reconquista,Santa Fe
+1457,consumidor,Morón,Buenos Aires
+313,consumidor,Avellaneda,Buenos Aires
+501,consumidor,Belgrano,CABA
+2742,consumidor,Almagro,CABA
+2979,consumidor,Concordia,Entre Ríos
+3000,consumidor,Viedma,Río Negro
+648,consumidor,Recoleta,CABA
+2587,consumidor,Recoleta,CABA
+3282,consumidor,Recoleta,CABA
+2354,consumidor,San Isidro,Buenos Aires
+3672,consumidor,Mendoza,Mendoza
+3939,consumidor,Recoleta,CABA
+338,consumidor,Caballito,CABA
+3859,consumidor,Avellaneda,Buenos Aires
+4640,consumidor,Belgrano,CABA
+3622,consumidor,San Isidro,Buenos Aires
+3693,consumidor,Tigre,Buenos Aires
+554,consumidor,Villa María,Córdoba
+2973,consumidor,Tigre,Buenos Aires
+2446,consumidor,Belgrano,CABA
+4215,consumidor,Córdoba,Córdoba
+4484,consumidor,Villa María,Córdoba
+1664,consumidor,Morón,Buenos Aires
+565,consumidor,Recoleta,CABA
+1031,consumidor,Tigre,Buenos Aires
+2800,consumidor,Avellaneda,Buenos Aires
+383,consumidor,Caballito,CABA
+3335,consumidor,Belgrano,CABA
+1092,consumidor,Avellaneda,Buenos Aires
+1150,consumidor,Caballito,CABA
+1763,consumidor,Recoleta,CABA
+787,consumidor,Salta,Salta
+4253,consumidor,Recoleta,CABA
+138,consumidor,Rosario,Santa Fe
+4129,consumidor,Caballito,CABA
+2212,consumidor,Belgrano,CABA
+657,consumidor,Recoleta,CABA
+2567,consumidor,Tigre,Buenos Aires
+2890,consumidor,Quilmes,Buenos Aires
+3381,consumidor,Almagro,CABA
+2059,consumidor,Tigre,Buenos Aires
+47,comercio,Morón,Buenos Aires
+595,consumidor,Belgrano,CABA
+2263,consumidor,Palpalá,Jujuy
+2969,consumidor,Palermo,CABA
+3592,consumidor,Córdoba,Córdoba
+3497,consumidor,Avellaneda,Buenos Aires
+995,consumidor,Rosario,Santa Fe
+3170,consumidor,Avellaneda,Buenos Aires
+811,consumidor,San Isidro,Buenos Aires
+2514,consumidor,Villa María,Córdoba
+2978,consumidor,Quilmes,Buenos Aires
+1075,consumidor,Recoleta,CABA
+2680,consumidor,Palermo,CABA
+460,consumidor,Quilmes,Buenos Aires
+1978,consumidor,Córdoba,Córdoba
+3474,consumidor,Palermo,CABA
+488,consumidor,Tigre,Buenos Aires
+102,consumidor,Godoy Cruz,Mendoza
+342,consumidor,San Isidro,Buenos Aires
+482,consumidor,Avellaneda,Buenos Aires
+952,consumidor,Caballito,CABA
+1428,consumidor,Quilmes,Buenos Aires
+2380,consumidor,Recoleta,CABA
+3822,consumidor,Rafaela,Santa Fe
+2160,consumidor,Belgrano,CABA
+4096,consumidor,San Isidro,Buenos Aires
+3953,consumidor,Concordia,Entre Ríos
+1310,consumidor,Palermo,CABA
+40,comercio,Avellaneda,Buenos Aires
+4578,consumidor,Oberá,Misiones
+4708,consumidor,Avellaneda,Buenos Aires
+2965,consumidor,Avellaneda,Buenos Aires
+3695,consumidor,Tigre,Buenos Aires
+225,consumidor,Caballito,CABA
+1831,consumidor,Tigre,Buenos Aires
+1867,consumidor,Guaymallén,Mendoza
+3020,consumidor,Belgrano,CABA
+59,comercio,Palermo,CABA
+823,consumidor,Santa Fe,Santa Fe
+4405,consumidor,Avellaneda,Buenos Aires
+4559,consumidor,Quilmes,Buenos Aires
+320,consumidor,Eldorado,Misiones
+4051,consumidor,San Isidro,Buenos Aires
+3300,consumidor,Tigre,Buenos Aires
+2192,consumidor,Caballito,CABA
+3275,consumidor,Belgrano,CABA
+2513,consumidor,Almagro,CABA
+4163,consumidor,Avellaneda,Buenos Aires
+2697,consumidor,San Rafael,Mendoza
+476,consumidor,Córdoba,Córdoba
+4189,consumidor,Villa María,Córdoba
+2036,consumidor,Morón,Buenos Aires
+2874,consumidor,Caballito,CABA
+4183,consumidor,Morón,Buenos Aires
+314,consumidor,Recoleta,CABA
+1998,consumidor,Quilmes,Buenos Aires
+3183,consumidor,Avellaneda,Buenos Aires
+246,consumidor,Almagro,CABA
+484,consumidor,Tartagal,Salta
+1678,consumidor,Morón,Buenos Aires
+861,consumidor,Rosario,Santa Fe
+4033,consumidor,San Isidro,Buenos Aires
+4116,consumidor,Recoleta,CABA
+3608,consumidor,Morón,Buenos Aires
+339,consumidor,Quilmes,Buenos Aires
+2334,consumidor,Eldorado,Misiones
+447,consumidor,Caballito,CABA
+585,consumidor,Avellaneda,Buenos Aires
+1593,consumidor,San Isidro,Buenos Aires
+4086,consumidor,Villa María,Córdoba
+1470,consumidor,Godoy Cruz,Mendoza
+4687,consumidor,Morón,Buenos Aires
+1744,consumidor,Avellaneda,Buenos Aires
+4498,consumidor,Morón,Buenos Aires
+857,consumidor,Caballito,CABA
+1658,consumidor,Godoy Cruz,Mendoza
+1631,consumidor,Belgrano,CABA
+4739,consumidor,Rafaela,Santa Fe
+2436,consumidor,Reconquista,Santa Fe
+780,consumidor,Tigre,Buenos Aires
+4254,consumidor,Tigre,Buenos Aires
+553,consumidor,Córdoba,Córdoba
+2482,consumidor,Villa Ángela,Chaco
+4620,consumidor,Caballito,CABA
+3270,consumidor,San Isidro,Buenos Aires
+2992,consumidor,Tigre,Buenos Aires
+3659,consumidor,Avellaneda,Buenos Aires
+2352,consumidor,Quilmes,Buenos Aires
+1009,consumidor,Tafí Viejo,Tucumán
+4135,consumidor,Palermo,CABA
+1659,consumidor,Yerba Buena,Tucumán
+1801,consumidor,Neuquén,Neuquén
+3460,consumidor,Tigre,Buenos Aires
+3664,consumidor,Belgrano,CABA
+654,consumidor,Santa Fe,Santa Fe
+4502,consumidor,Tigre,Buenos Aires
+3175,consumidor,Recoleta,CABA
+3900,consumidor,Avellaneda,Buenos Aires
+2301,consumidor,San Isidro,Buenos Aires
+4607,consumidor,Rafaela,Santa Fe
+2671,consumidor,Quilmes,Buenos Aires
+589,consumidor,Morón,Buenos Aires
+3457,consumidor,Quilmes,Buenos Aires
+3272,consumidor,Avellaneda,Buenos Aires
+4313,consumidor,Mendoza,Mendoza
+4359,consumidor,Palermo,CABA
+2248,consumidor,Caballito,CABA
+908,consumidor,Cipolletti,Río Negro
+1322,consumidor,Belgrano,CABA
+1047,consumidor,Villa María,Córdoba
+4238,consumidor,Tigre,Buenos Aires
+1674,consumidor,Avellaneda,Buenos Aires
+1691,consumidor,Morón,Buenos Aires
+54,comercio,Quilmes,Buenos Aires
+2249,consumidor,Recoleta,CABA
+4063,consumidor,Almagro,CABA
+438,consumidor,Avellaneda,Buenos Aires
+2922,consumidor,Recoleta,CABA
+4718,consumidor,Belgrano,CABA
+3105,consumidor,Villa María,Córdoba
+3870,consumidor,Palermo,CABA
+2422,consumidor,Quilmes,Buenos Aires
+3871,consumidor,Avellaneda,Buenos Aires
+423,consumidor,Almagro,CABA
+1091,consumidor,Tigre,Buenos Aires
+2475,consumidor,Quilmes,Buenos Aires
+4374,consumidor,Avellaneda,Buenos Aires
+3135,consumidor,Almagro,CABA
+4658,consumidor,Morón,Buenos Aires
+2378,consumidor,Avellaneda,Buenos Aires
+3839,consumidor,Palermo,CABA
+285,consumidor,Belgrano,CABA
+2891,consumidor,Paraná,Entre Ríos
+3478,consumidor,Oberá,Misiones
+4417,consumidor,Avellaneda,Buenos Aires
+1471,consumidor,Avellaneda,Buenos Aires
+2260,consumidor,Palermo,CABA
+1969,consumidor,Palermo,CABA
+1081,consumidor,Palermo,CABA
+1915,consumidor,Avellaneda,Buenos Aires
+3097,consumidor,Morón,Buenos Aires
+3418,consumidor,Caballito,CABA
+67,comercio,Morón,Buenos Aires
+3193,consumidor,Tigre,Buenos Aires
+1016,consumidor,Godoy Cruz,Mendoza
+3308,consumidor,Morón,Buenos Aires
+1884,consumidor,San Isidro,Buenos Aires
+126,consumidor,Recoleta,CABA
+1161,consumidor,San Isidro,Buenos Aires
+693,consumidor,San Rafael,Mendoza
+4608,consumidor,San Rafael,Mendoza
+3041,consumidor,Palermo,CABA
+4758,consumidor,Quilmes,Buenos Aires
+1712,consumidor,Córdoba,Córdoba
+592,consumidor,Belgrano,CABA
+1159,consumidor,Tigre,Buenos Aires
+3085,consumidor,Belgrano,CABA
+3154,consumidor,Córdoba,Córdoba
+722,consumidor,Morón,Buenos Aires
+3063,consumidor,Morón,Buenos Aires
+2149,consumidor,Posadas,Misiones
+2959,consumidor,San Isidro,Buenos Aires
+3885,consumidor,Recoleta,CABA
+3288,consumidor,Villa Carlos Paz,Córdoba
+144,consumidor,Caballito,CABA
+84,consumidor,Caballito,CABA
+3124,consumidor,Morón,Buenos Aires
+121,consumidor,Neuquén,Neuquén
+1939,consumidor,San Isidro,Buenos Aires
+3912,consumidor,San Isidro,Buenos Aires
+615,consumidor,Almagro,CABA
+3469,consumidor,San Isidro,Buenos Aires
+1662,consumidor,Belgrano,CABA
+3631,consumidor,Recoleta,CABA
+4431,consumidor,Almagro,CABA
+4689,consumidor,Palermo,CABA
+3179,consumidor,Caballito,CABA
+746,consumidor,Caballito,CABA
+726,consumidor,Morón,Buenos Aires
+2790,consumidor,Morón,Buenos Aires
+4701,consumidor,Córdoba,Córdoba
+4103,consumidor,San Rafael,Mendoza
+1748,consumidor,Villa María,Córdoba
+2517,consumidor,Rafaela,Santa Fe
+3886,consumidor,Almagro,CABA
+1128,consumidor,Villa Carlos Paz,Córdoba
+588,consumidor,Quilmes,Buenos Aires
+2259,consumidor,Avellaneda,Buenos Aires
+3476,consumidor,Palermo,CABA
+4144,consumidor,San Isidro,Buenos Aires
+4350,consumidor,Caballito,CABA
+142,consumidor,Recoleta,CABA
+2636,consumidor,Avellaneda,Buenos Aires
+3195,consumidor,Morón,Buenos Aires
+3516,consumidor,Palermo,CABA
+1854,consumidor,Paraná,Entre Ríos
+2980,consumidor,Tigre,Buenos Aires
+631,consumidor,Rosario,Santa Fe
+4714,consumidor,Avellaneda,Buenos Aires
+48,comercio,Villa María,Córdoba
+24,comercio,Quilmes,Buenos Aires
+849,consumidor,Quilmes,Buenos Aires
+3855,consumidor,Libertador,Jujuy
+1847,consumidor,Palermo,CABA
+3735,consumidor,Córdoba,Córdoba
+57,comercio,Palermo,CABA
+4251,consumidor,Libertador,Jujuy
+3267,consumidor,Belgrano,CABA
+1445,consumidor,Rosario,Santa Fe
+1337,consumidor,Belgrano,CABA
+671,consumidor,Caballito,CABA
+1967,consumidor,Godoy Cruz,Mendoza
+3344,consumidor,Caballito,CABA
+4719,consumidor,Morón,Buenos Aires
+4342,consumidor,Morón,Buenos Aires
+4444,consumidor,Belgrano,CABA
+1379,consumidor,Córdoba,Córdoba
+4698,consumidor,Córdoba,Córdoba
+1044,consumidor,Caballito,CABA
+1881,consumidor,Avellaneda,Buenos Aires
+2453,consumidor,Morón,Buenos Aires
+2533,consumidor,Caballito,CABA
+316,consumidor,Tigre,Buenos Aires
+567,consumidor,Recoleta,CABA
+2462,consumidor,Morón,Buenos Aires
+4029,consumidor,Palermo,CABA
+1315,consumidor,Villa Carlos Paz,Córdoba
+3796,consumidor,Avellaneda,Buenos Aires
+4264,consumidor,Almagro,CABA
+3258,consumidor,Quilmes,Buenos Aires
+3255,consumidor,Belgrano,CABA
+4483,consumidor,Morón,Buenos Aires
+656,consumidor,Mendoza,Mendoza
+1576,consumidor,Almagro,CABA
+25,comercio,Río Cuarto,Córdoba
+1326,consumidor,Tigre,Buenos Aires
+4554,consumidor,San Rafael,Mendoza
+135,consumidor,Avellaneda,Buenos Aires
+1410,consumidor,Avellaneda,Buenos Aires
+3072,consumidor,San Isidro,Buenos Aires
+503,consumidor,Tafí Viejo,Tucumán
+3679,consumidor,Recoleta,CABA
+2557,consumidor,Gualeguaychú,Entre Ríos
+785,consumidor,Belgrano,CABA
+749,consumidor,Tigre,Buenos Aires
+581,consumidor,Villa Carlos Paz,Córdoba
+3165,consumidor,Reconquista,Santa Fe
+3363,consumidor,Quilmes,Buenos Aires
+199,consumidor,Villa Carlos Paz,Córdoba
+2474,consumidor,San Salvador de Jujuy,Jujuy
+3128,consumidor,San Isidro,Buenos Aires
+3568,consumidor,Rosario,Santa Fe
+1807,consumidor,Caballito,CABA
+2362,consumidor,Palermo,CABA
+1117,consumidor,Caballito,CABA
+1676,consumidor,Caballito,CABA
+477,consumidor,Almagro,CABA
+509,consumidor,Tigre,Buenos Aires
+1996,consumidor,Villa María,Córdoba
+1493,consumidor,Yerba Buena,Tucumán
+1430,consumidor,Quilmes,Buenos Aires
+750,consumidor,Avellaneda,Buenos Aires
+3485,consumidor,Río Cuarto,Córdoba
+2449,consumidor,Morón,Buenos Aires
+3915,consumidor,Palermo,CABA
+943,consumidor,San Isidro,Buenos Aires
+3982,consumidor,Villa Ángela,Chaco
+3444,consumidor,Belgrano,CABA
+3078,consumidor,Palermo,CABA
+224,consumidor,Palermo,CABA
+3420,consumidor,Almagro,CABA
+346,consumidor,Avellaneda,Buenos Aires
+3439,consumidor,Morón,Buenos Aires
+3888,consumidor,Morón,Buenos Aires
+2039,consumidor,Morón,Buenos Aires
+1127,consumidor,Palermo,CABA
+1689,consumidor,San Isidro,Buenos Aires
+777,consumidor,Recoleta,CABA
+2522,consumidor,San Isidro,Buenos Aires
+284,consumidor,Recoleta,CABA
+3475,consumidor,Quilmes,Buenos Aires
+2966,consumidor,San Isidro,Buenos Aires
+3534,consumidor,Avellaneda,Buenos Aires
+2287,consumidor,Morón,Buenos Aires
+1897,consumidor,Godoy Cruz,Mendoza
+607,consumidor,Morón,Buenos Aires
+3835,consumidor,Morón,Buenos Aires
+2913,consumidor,Tigre,Buenos Aires
+582,consumidor,Almagro,CABA
+2916,consumidor,San Miguel de Tucumán,Tucumán
+939,consumidor,Villa Carlos Paz,Córdoba
+1450,consumidor,San Isidro,Buenos Aires
+56,comercio,Avellaneda,Buenos Aires
+960,consumidor,Almagro,CABA
+1959,consumidor,San Rafael,Mendoza
+3014,consumidor,Almagro,CABA
+1331,consumidor,Villa Ángela,Chaco
+4231,consumidor,Avellaneda,Buenos Aires
+819,consumidor,Quilmes,Buenos Aires
+2116,consumidor,Avellaneda,Buenos Aires
+1590,consumidor,Avellaneda,Buenos Aires
+4623,consumidor,San Isidro,Buenos Aires
+4184,consumidor,Recoleta,CABA
+4147,consumidor,Yerba Buena,Tucumán
+2254,consumidor,Rafaela,Santa Fe
+4531,consumidor,Morón,Buenos Aires
+1999,consumidor,Godoy Cruz,Mendoza
+1557,consumidor,Tigre,Buenos Aires
+675,consumidor,San Isidro,Buenos Aires
+2619,consumidor,Morón,Buenos Aires
+3705,consumidor,Almagro,CABA
+4410,consumidor,Almagro,CABA
+4165,consumidor,Tigre,Buenos Aires
+4526,consumidor,Santa Fe,Santa Fe
+1510,consumidor,Quilmes,Buenos Aires
+1083,consumidor,Palermo,CABA
+2158,consumidor,Morón,Buenos Aires
+2102,consumidor,Tigre,Buenos Aires
+352,consumidor,Belgrano,CABA
+1463,consumidor,Paraná,Entre Ríos
+1422,consumidor,Tigre,Buenos Aires
+443,consumidor,Recoleta,CABA
+1261,consumidor,Tigre,Buenos Aires
+525,consumidor,Posadas,Misiones
+3875,consumidor,Quilmes,Buenos Aires
+1399,consumidor,Caballito,CABA
+4448,consumidor,Godoy Cruz,Mendoza
+4071,consumidor,Morón,Buenos Aires
+2760,consumidor,Tigre,Buenos Aires
+3959,consumidor,Avellaneda,Buenos Aires
+2624,consumidor,Recoleta,CABA
+4710,consumidor,Tigre,Buenos Aires
+2547,consumidor,Recoleta,CABA
+2631,consumidor,Quilmes,Buenos Aires
+1525,consumidor,Palpalá,Jujuy
+3779,consumidor,Rosario,Santa Fe
+3036,consumidor,Tigre,Buenos Aires
+903,consumidor,San Isidro,Buenos Aires
+4645,consumidor,Almagro,CABA
+3062,consumidor,Caballito,CABA
+1861,consumidor,Rafaela,Santa Fe
+3558,consumidor,Belgrano,CABA
+3503,consumidor,Tafí Viejo,Tucumán
+3107,consumidor,Rafaela,Santa Fe
+4002,consumidor,Villa Carlos Paz,Córdoba
+878,consumidor,Belgrano,CABA
+3152,consumidor,Belgrano,CABA
+2737,consumidor,Avellaneda,Buenos Aires
+1369,consumidor,Sáenz Peña,Chaco
+87,consumidor,Quilmes,Buenos Aires
+2632,consumidor,San Isidro,Buenos Aires
+295,consumidor,Almagro,CABA
+3522,consumidor,Almagro,CABA
+2768,consumidor,Morón,Buenos Aires
+3390,consumidor,Quilmes,Buenos Aires
+805,consumidor,Palermo,CABA
+3699,consumidor,Tigre,Buenos Aires
+765,consumidor,Almagro,CABA
+2681,consumidor,Recoleta,CABA
+1994,consumidor,Guaymallén,Mendoza
+3022,consumidor,Quilmes,Buenos Aires
+198,consumidor,Yerba Buena,Tucumán
+4496,consumidor,Almagro,CABA
+4222,consumidor,Avellaneda,Buenos Aires
+3817,consumidor,Belgrano,CABA
+1517,consumidor,Tigre,Buenos Aires
+1738,consumidor,Tigre,Buenos Aires
+3058,consumidor,Avellaneda,Buenos Aires
+4228,consumidor,Almagro,CABA
+3481,consumidor,Quilmes,Buenos Aires
+3890,consumidor,Belgrano,CABA
+349,consumidor,Rafaela,Santa Fe
+1872,consumidor,Quilmes,Buenos Aires
+4330,consumidor,Caballito,CABA
+1710,consumidor,Villa Carlos Paz,Córdoba
+2101,consumidor,Gualeguaychú,Entre Ríos
+1766,consumidor,Villa Ángela,Chaco
+2217,consumidor,Belgrano,CABA
+268,consumidor,Tigre,Buenos Aires
+4440,consumidor,Tigre,Buenos Aires
+3235,consumidor,Godoy Cruz,Mendoza
+3249,consumidor,Avellaneda,Buenos Aires
+137,consumidor,Reconquista,Santa Fe
+4166,consumidor,Palermo,CABA
+3530,consumidor,Quilmes,Buenos Aires
+1459,consumidor,San Isidro,Buenos Aires
+4537,consumidor,Almagro,CABA
+3242,consumidor,Morón,Buenos Aires
+3236,consumidor,Belgrano,CABA
+1598,consumidor,San Isidro,Buenos Aires
+4636,consumidor,Palermo,CABA
+4451,consumidor,Morón,Buenos Aires
+889,consumidor,Guaymallén,Mendoza
+879,consumidor,Morón,Buenos Aires
+4027,consumidor,Belgrano,CABA
+1154,consumidor,San Martín de los Andes,Neuquén
+2345,consumidor,Almagro,CABA
+2196,consumidor,Belgrano,CABA
+644,consumidor,Cipolletti,Río Negro
+4152,consumidor,Avellaneda,Buenos Aires
+1066,consumidor,Cipolletti,Río Negro
+3311,consumidor,Palermo,CABA
+1145,consumidor,Cutral Có,Neuquén
+2363,consumidor,Palermo,CABA
+2210,consumidor,Salta,Salta
+2882,consumidor,Belgrano,CABA
+74,consumidor,Belgrano,CABA
+3539,consumidor,San Isidro,Buenos Aires
+4266,consumidor,Quilmes,Buenos Aires
+2601,consumidor,Almagro,CABA
+3199,consumidor,Villa Ángela,Chaco
+577,consumidor,Mendoza,Mendoza
+3686,consumidor,Tartagal,Salta
+413,consumidor,Quilmes,Buenos Aires
+510,consumidor,Palermo,CABA
+3394,consumidor,Morón,Buenos Aires
+108,consumidor,Quilmes,Buenos Aires
+968,consumidor,Quilmes,Buenos Aires
+4583,consumidor,Almagro,CABA
+451,consumidor,Avellaneda,Buenos Aires
+1374,consumidor,Tigre,Buenos Aires
+3144,consumidor,Villa Carlos Paz,Córdoba
+1360,consumidor,Palermo,CABA
+4604,consumidor,Palermo,CABA
+3778,consumidor,Morón,Buenos Aires
+2121,consumidor,Avellaneda,Buenos Aires
+1666,consumidor,Quilmes,Buenos Aires
+3033,consumidor,Villa Ángela,Chaco
+744,consumidor,Mendoza,Mendoza
+4722,consumidor,Rafaela,Santa Fe
+3643,consumidor,Tigre,Buenos Aires
+2725,consumidor,Almagro,CABA
+3626,consumidor,San Rafael,Mendoza
+2568,consumidor,Cutral Có,Neuquén
+1324,consumidor,Reconquista,Santa Fe
+546,consumidor,Almagro,CABA
+1681,consumidor,Río Cuarto,Córdoba
+1705,consumidor,Palermo,CABA
+877,consumidor,Tigre,Buenos Aires
+3924,consumidor,Almagro,CABA
+1160,consumidor,Paraná,Entre Ríos
+4338,consumidor,Belgrano,CABA
+1713,consumidor,Belgrano,CABA
+384,consumidor,Tigre,Buenos Aires
+4236,consumidor,Morón,Buenos Aires
+1425,consumidor,Belgrano,CABA
+1054,consumidor,Palermo,CABA
+2623,consumidor,Recoleta,CABA
+2856,consumidor,Gualeguaychú,Entre Ríos
+3397,consumidor,Almagro,CABA
+2971,consumidor,Recoleta,CABA
+2271,consumidor,Rafaela,Santa Fe
+2450,consumidor,Palermo,CABA
+500,consumidor,Avellaneda,Buenos Aires
+698,consumidor,Caballito,CABA
+3326,consumidor,Villa Carlos Paz,Córdoba
+2723,consumidor,Quilmes,Buenos Aires
+4415,consumidor,San Isidro,Buenos Aires
+3896,consumidor,Tigre,Buenos Aires
+213,consumidor,Tigre,Buenos Aires
+218,consumidor,San Isidro,Buenos Aires
+3040,consumidor,Caballito,CABA
+2386,consumidor,Palermo,CABA
+1375,consumidor,Belgrano,CABA
+4695,consumidor,Caballito,CABA
+4351,consumidor,Villa María,Córdoba
+911,consumidor,Avellaneda,Buenos Aires
+4402,consumidor,Caballito,CABA
+3706,consumidor,Tigre,Buenos Aires
+1597,consumidor,Santa Fe,Santa Fe
+4471,consumidor,Quilmes,Buenos Aires
+2558,consumidor,Río Cuarto,Córdoba
+275,consumidor,Belgrano,CABA
+4492,consumidor,Santa Fe,Santa Fe
+1069,consumidor,Palermo,CABA
+52,comercio,Tigre,Buenos Aires
+4226,consumidor,Reconquista,Santa Fe
+3052,consumidor,Quilmes,Buenos Aires
+2696,consumidor,Orán,Salta
+858,consumidor,Caballito,CABA
+1221,consumidor,Córdoba,Córdoba
+570,consumidor,Palermo,CABA
+3725,consumidor,Morón,Buenos Aires
+1058,consumidor,Río Cuarto,Córdoba
+2257,consumidor,Río Cuarto,Córdoba
+4024,consumidor,Cutral Có,Neuquén
+283,consumidor,Yerba Buena,Tucumán
+103,consumidor,Recoleta,CABA
+2732,consumidor,Quilmes,Buenos Aires
+2075,consumidor,Rafaela,Santa Fe
+1004,consumidor,Viedma,Río Negro
+2142,consumidor,San Isidro,Buenos Aires
+3008,consumidor,Avellaneda,Buenos Aires
+2299,consumidor,Avellaneda,Buenos Aires
+1060,consumidor,San Rafael,Mendoza
+4169,consumidor,Río Cuarto,Córdoba
+1342,consumidor,Santa Fe,Santa Fe
+3389,consumidor,Almagro,CABA
+3161,consumidor,Quilmes,Buenos Aires
+888,consumidor,San Isidro,Buenos Aires
+1962,consumidor,Palermo,CABA
+1319,consumidor,Tigre,Buenos Aires
+3748,consumidor,Belgrano,CABA
+1043,consumidor,San Salvador de Jujuy,Jujuy
+1833,consumidor,Almagro,CABA
+3459,consumidor,Villa Carlos Paz,Córdoba
+2288,consumidor,San Isidro,Buenos Aires
+568,consumidor,Quilmes,Buenos Aires
+4735,consumidor,Caballito,CABA
+2427,consumidor,Tigre,Buenos Aires
+4289,consumidor,Belgrano,CABA
+716,consumidor,Río Cuarto,Córdoba
+3636,consumidor,Avellaneda,Buenos Aires
+1594,consumidor,Rafaela,Santa Fe
+2839,consumidor,Rosario,Santa Fe
+4151,consumidor,Avellaneda,Buenos Aires
+395,consumidor,Gualeguaychú,Entre Ríos
+3619,consumidor,Caballito,CABA
+2591,consumidor,San Isidro,Buenos Aires
+2114,consumidor,Palermo,CABA
+4501,consumidor,Quilmes,Buenos Aires
+2220,consumidor,Belgrano,CABA
+4045,consumidor,Morón,Buenos Aires
+3573,consumidor,Palermo,CABA
+4517,consumidor,Rosario,Santa Fe
+4491,consumidor,Quilmes,Buenos Aires
+1816,consumidor,San Isidro,Buenos Aires
+1540,consumidor,Córdoba,Córdoba
+2866,consumidor,Villa María,Córdoba
+212,consumidor,Villa María,Córdoba
+3629,consumidor,Santa Fe,Santa Fe
+1151,consumidor,Caballito,CABA
+912,consumidor,Belgrano,CABA
+235,consumidor,Caballito,CABA
+948,consumidor,Avellaneda,Buenos Aires
+1184,consumidor,Caballito,CABA
+2047,consumidor,San Isidro,Buenos Aires
+1989,consumidor,Córdoba,Córdoba
+4595,consumidor,San Isidro,Buenos Aires
+4706,consumidor,Recoleta,CABA
+812,consumidor,Avellaneda,Buenos Aires
+3742,consumidor,Salta,Salta
+1941,consumidor,San Isidro,Buenos Aires
+4540,consumidor,Palermo,CABA
+3919,consumidor,Recoleta,CABA
+4030,consumidor,Avellaneda,Buenos Aires
+3305,consumidor,Santa Fe,Santa Fe
+1287,consumidor,Tigre,Buenos Aires
+521,consumidor,Belgrano,CABA
+668,consumidor,Quilmes,Buenos Aires
+2628,consumidor,San Isidro,Buenos Aires
+2127,consumidor,Quilmes,Buenos Aires
+1562,consumidor,Caballito,CABA
+4316,consumidor,Belgrano,CABA
+4036,consumidor,Villa Ángela,Chaco
+3407,consumidor,Palermo,CABA
+2309,consumidor,Quilmes,Buenos Aires
+620,consumidor,Avellaneda,Buenos Aires
+1327,consumidor,Belgrano,CABA
+2119,consumidor,Avellaneda,Buenos Aires
+129,consumidor,Palermo,CABA
+2308,consumidor,Tartagal,Salta
+358,consumidor,Santa Fe,Santa Fe
+3744,consumidor,Avellaneda,Buenos Aires
+2535,consumidor,Belgrano,CABA
+875,consumidor,Avellaneda,Buenos Aires
+2421,consumidor,Caballito,CABA
+4084,consumidor,Rafaela,Santa Fe
+4428,consumidor,Río Cuarto,Córdoba
+3829,consumidor,Belgrano,CABA
+1568,consumidor,Caballito,CABA
+387,consumidor,Almagro,CABA
+4482,consumidor,Palermo,CABA
+3025,consumidor,Palermo,CABA
+196,consumidor,San Rafael,Mendoza
+1535,consumidor,Tigre,Buenos Aires
+2269,consumidor,Palpalá,Jujuy
+4069,consumidor,Recoleta,CABA
+770,consumidor,Córdoba,Córdoba
+3429,consumidor,Santa Fe,Santa Fe
+1505,consumidor,Avellaneda,Buenos Aires
+2738,consumidor,Godoy Cruz,Mendoza
+2999,consumidor,Almagro,CABA
+1898,consumidor,Recoleta,CABA
+3252,consumidor,Palermo,CABA
+4508,consumidor,San Isidro,Buenos Aires
+4070,consumidor,Villa María,Córdoba
+4221,consumidor,Morón,Buenos Aires
+131,consumidor,Palermo,CABA
+1045,consumidor,San Isidro,Buenos Aires
+2812,consumidor,Morón,Buenos Aires
+1522,consumidor,Recoleta,CABA
+3487,consumidor,Mendoza,Mendoza
+2731,consumidor,Recoleta,CABA
+141,consumidor,Rafaela,Santa Fe
+3935,consumidor,Rosario,Santa Fe
+2172,consumidor,Santa Fe,Santa Fe
+4100,consumidor,Avellaneda,Buenos Aires
+4312,consumidor,San Isidro,Buenos Aires
+2178,consumidor,Quilmes,Buenos Aires
+3697,consumidor,Eldorado,Misiones
+3638,consumidor,Quilmes,Buenos Aires
+3514,consumidor,Morón,Buenos Aires
+747,consumidor,Santa Fe,Santa Fe
+1651,consumidor,Río Cuarto,Córdoba
+940,consumidor,Palermo,CABA
+3887,consumidor,Villa María,Córdoba
+1866,consumidor,Quilmes,Buenos Aires
+388,consumidor,Belgrano,CABA
+463,consumidor,Caballito,CABA
+4453,consumidor,Morón,Buenos Aires
+2915,consumidor,Almagro,CABA
+4372,consumidor,Tigre,Buenos Aires
+3526,consumidor,Avellaneda,Buenos Aires
+854,consumidor,Avellaneda,Buenos Aires
+2403,consumidor,Godoy Cruz,Mendoza
+495,consumidor,Tigre,Buenos Aires
+4446,consumidor,Córdoba,Córdoba
+4082,consumidor,Reconquista,Santa Fe
+4167,consumidor,Caballito,CABA
+3669,consumidor,Belgrano,CABA
+2566,consumidor,Rosario,Santa Fe
+1652,consumidor,San Isidro,Buenos Aires
+2526,consumidor,Almagro,CABA
+480,consumidor,General Roca,Río Negro
+3553,consumidor,Palermo,CABA
+2203,consumidor,Reconquista,Santa Fe
+1725,consumidor,Almagro,CABA
+3191,consumidor,San Isidro,Buenos Aires
+4170,consumidor,Santa Fe,Santa Fe
+2333,consumidor,Palermo,CABA
+901,consumidor,Morón,Buenos Aires
+556,consumidor,Caballito,CABA
+4634,consumidor,Resistencia,Chaco
+1743,consumidor,Caballito,CABA
+4009,consumidor,Quilmes,Buenos Aires
+4117,consumidor,Quilmes,Buenos Aires
+3842,consumidor,Morón,Buenos Aires
+1494,consumidor,Recoleta,CABA
+1131,consumidor,Belgrano,CABA
+3783,consumidor,Almagro,CABA
+2604,consumidor,Avellaneda,Buenos Aires
+4432,consumidor,Belgrano,CABA
+2593,consumidor,Villa Ángela,Chaco
+1062,consumidor,Quilmes,Buenos Aires
+3787,consumidor,Morón,Buenos Aires
+4621,consumidor,Avellaneda,Buenos Aires
+3668,consumidor,Avellaneda,Buenos Aires
+3529,consumidor,Avellaneda,Buenos Aires
+2799,consumidor,Tigre,Buenos Aires
+4406,consumidor,Morón,Buenos Aires
+590,consumidor,Belgrano,CABA
+183,consumidor,Morón,Buenos Aires
+3666,consumidor,Neuquén,Neuquén
+1690,consumidor,Almagro,CABA
+479,consumidor,Rafaela,Santa Fe
+3068,consumidor,Córdoba,Córdoba
+634,consumidor,Recoleta,CABA
+364,consumidor,Rafaela,Santa Fe
+2246,consumidor,Belgrano,CABA
+699,consumidor,Villa Carlos Paz,Córdoba
+3928,consumidor,Palermo,CABA
+2392,consumidor,Belgrano,CABA
+4500,consumidor,Quilmes,Buenos Aires
+766,consumidor,Avellaneda,Buenos Aires
+4437,consumidor,Quilmes,Buenos Aires
+2416,consumidor,Caballito,CABA
+3419,consumidor,Viedma,Río Negro
+3723,consumidor,Córdoba,Córdoba
+9,comercio,Mendoza,Mendoza
+2598,consumidor,Tigre,Buenos Aires
+4464,consumidor,Reconquista,Santa Fe
+3535,consumidor,Orán,Salta
+2095,consumidor,Avellaneda,Buenos Aires
+4616,consumidor,Belgrano,CABA
+3952,consumidor,Avellaneda,Buenos Aires
+155,consumidor,Rafaela,Santa Fe
+416,consumidor,Avellaneda,Buenos Aires
+1098,consumidor,Avellaneda,Buenos Aires
+3004,consumidor,Quilmes,Buenos Aires
+4409,consumidor,Avellaneda,Buenos Aires
+1715,consumidor,Quilmes,Buenos Aires
+1055,consumidor,San Isidro,Buenos Aires
+3866,consumidor,Tigre,Buenos Aires
+3648,consumidor,Resistencia,Chaco
+3804,consumidor,Tigre,Buenos Aires
+3354,consumidor,Posadas,Misiones
+2988,consumidor,Recoleta,CABA
+4159,consumidor,Avellaneda,Buenos Aires
+333,consumidor,Recoleta,CABA
+1357,consumidor,Avellaneda,Buenos Aires
+4107,consumidor,Quilmes,Buenos Aires
+1210,consumidor,Avellaneda,Buenos Aires
+3611,consumidor,Morón,Buenos Aires
+3777,consumidor,Almagro,CABA
+1155,consumidor,Reconquista,Santa Fe
+1495,consumidor,Quilmes,Buenos Aires
+2518,consumidor,Palermo,CABA
+461,consumidor,Tigre,Buenos Aires
+1746,consumidor,Quilmes,Buenos Aires
+354,consumidor,Avellaneda,Buenos Aires
+1403,consumidor,Belgrano,CABA
+1078,consumidor,Avellaneda,Buenos Aires
+3297,consumidor,General Roca,Río Negro
+2746,consumidor,San Rafael,Mendoza
+4110,consumidor,Morón,Buenos Aires
+3458,consumidor,Tigre,Buenos Aires
+4091,consumidor,Palermo,CABA
+3013,consumidor,Recoleta,CABA
+1842,consumidor,Villa Ángela,Chaco
+1002,consumidor,Palermo,CABA
+4734,consumidor,Morón,Buenos Aires
+2321,consumidor,Palermo,CABA
+4390,consumidor,Avellaneda,Buenos Aires
+3073,consumidor,Quilmes,Buenos Aires
+4678,consumidor,Villa Carlos Paz,Córdoba
+175,consumidor,Caballito,CABA
+3798,consumidor,Palermo,CABA
+3658,consumidor,Caballito,CABA
+1524,consumidor,Palermo,CABA
+3880,consumidor,San Isidro,Buenos Aires
+2009,consumidor,Viedma,Río Negro
+195,consumidor,Recoleta,CABA
+569,consumidor,San Isidro,Buenos Aires
+1217,consumidor,Villa Carlos Paz,Córdoba
+2275,consumidor,Recoleta,CABA
+979,consumidor,Belgrano,CABA
+976,consumidor,Avellaneda,Buenos Aires
+1138,consumidor,Palermo,CABA
+147,consumidor,Caballito,CABA
+1937,consumidor,Tigre,Buenos Aires
+2541,consumidor,Belgrano,CABA
+3569,consumidor,Recoleta,CABA
+4670,consumidor,Tafí Viejo,Tucumán
+609,consumidor,Villa Carlos Paz,Córdoba
+933,consumidor,Tigre,Buenos Aires
+3769,consumidor,Rosario,Santa Fe
+2113,consumidor,Tigre,Buenos Aires
+310,consumidor,Palermo,CABA
+3349,consumidor,Recoleta,CABA
+1270,consumidor,Caballito,CABA
+4034,consumidor,Palermo,CABA
+2494,consumidor,Belgrano,CABA
+2280,consumidor,Caballito,CABA
+745,consumidor,Tigre,Buenos Aires
+4615,consumidor,Salta,Salta
+655,consumidor,Mendoza,Mendoza
+1431,consumidor,San Rafael,Mendoza
+2357,consumidor,Belgrano,CABA
+3600,consumidor,San Isidro,Buenos Aires
+1481,consumidor,Tigre,Buenos Aires
+2878,consumidor,Caballito,CABA
+4499,consumidor,Caballito,CABA
+3435,consumidor,Avellaneda,Buenos Aires
+2399,consumidor,Santa Fe,Santa Fe
+2663,consumidor,Morón,Buenos Aires
+1960,consumidor,San Isidro,Buenos Aires
+2056,consumidor,Quilmes,Buenos Aires
+2814,consumidor,Gualeguaychú,Entre Ríos
+2307,consumidor,Almagro,CABA
+4047,consumidor,Rafaela,Santa Fe
+4104,consumidor,Belgrano,CABA
+4647,consumidor,Caballito,CABA
+2200,consumidor,Villa María,Córdoba
+1910,consumidor,Rosario,Santa Fe
+2001,consumidor,Tigre,Buenos Aires
+4311,consumidor,San Isidro,Buenos Aires
+603,consumidor,Caballito,CABA
+2870,consumidor,Palermo,CABA
+2803,consumidor,Recoleta,CABA
+4127,consumidor,Villa María,Córdoba
+3549,consumidor,Morón,Buenos Aires
+2919,consumidor,Avellaneda,Buenos Aires
+3243,consumidor,Rafaela,Santa Fe
+530,consumidor,Palermo,CABA
+2643,consumidor,Tigre,Buenos Aires
+2589,consumidor,Recoleta,CABA
+2229,consumidor,Palermo,CABA
+3395,consumidor,Rafaela,Santa Fe
+4657,consumidor,San Isidro,Buenos Aires
+4304,consumidor,Rafaela,Santa Fe
+4391,consumidor,Avellaneda,Buenos Aires
+1306,consumidor,Recoleta,CABA
+4369,consumidor,General Roca,Río Negro
+1330,consumidor,Almagro,CABA
+881,consumidor,San Miguel de Tucumán,Tucumán
+803,consumidor,Palermo,CABA
+2540,consumidor,San Isidro,Buenos Aires
+1396,consumidor,Palermo,CABA
+1014,consumidor,Caballito,CABA
+39,comercio,Avellaneda,Buenos Aires
+4244,consumidor,Avellaneda,Buenos Aires
+2651,consumidor,Caballito,CABA
+1933,consumidor,Tigre,Buenos Aires
+711,consumidor,Caballito,CABA
+1935,consumidor,Caballito,CABA
+4161,consumidor,Córdoba,Córdoba
+1443,consumidor,Villa Ángela,Chaco
+1235,consumidor,Avellaneda,Buenos Aires
+3556,consumidor,San Isidro,Buenos Aires
+462,consumidor,Almagro,CABA
+70,consumidor,Tafí Viejo,Tucumán
+3489,consumidor,Quilmes,Buenos Aires
+2520,consumidor,Avellaneda,Buenos Aires
+842,consumidor,Tigre,Buenos Aires
+250,consumidor,Rosario,Santa Fe
+3059,consumidor,Palermo,CABA
+3630,consumidor,Palermo,CABA
+417,consumidor,Caballito,CABA
+22,comercio,Almagro,CABA
+3528,consumidor,Tafí Viejo,Tucumán
+802,consumidor,Mendoza,Mendoza
+2258,consumidor,Morón,Buenos Aires
+836,consumidor,Tigre,Buenos Aires
+4275,consumidor,Villa Ángela,Chaco
+1439,consumidor,San Isidro,Buenos Aires
+859,consumidor,Tigre,Buenos Aires
+1087,consumidor,San Isidro,Buenos Aires
+3045,consumidor,San Isidro,Buenos Aires
+62,comercio,Mendoza,Mendoza
+801,consumidor,San Isidro,Buenos Aires
+1345,consumidor,Recoleta,CABA
+1274,consumidor,Tigre,Buenos Aires
+4026,consumidor,Caballito,CABA
+3274,consumidor,Quilmes,Buenos Aires
+133,consumidor,Avellaneda,Buenos Aires
+1670,consumidor,Villa Ángela,Chaco
+3707,consumidor,Rafaela,Santa Fe
+4368,consumidor,Guaymallén,Mendoza
+1447,consumidor,Libertador,Jujuy
+594,consumidor,Avellaneda,Buenos Aires
+2109,consumidor,Palermo,CABA
+2079,consumidor,Morón,Buenos Aires
+165,consumidor,Palermo,CABA
+3421,consumidor,Avellaneda,Buenos Aires
+2548,consumidor,Morón,Buenos Aires
+1446,consumidor,Quilmes,Buenos Aires
+2675,consumidor,Villa María,Córdoba
+2553,consumidor,Recoleta,CABA
+3730,consumidor,Palermo,CABA
+4340,consumidor,Avellaneda,Buenos Aires
+4279,consumidor,San Isidro,Buenos Aires
+967,consumidor,Caballito,CABA
+1668,consumidor,San Isidro,Buenos Aires
+1383,consumidor,Avellaneda,Buenos Aires
+4010,consumidor,Morón,Buenos Aires
+1688,consumidor,Palermo,CABA
+3872,consumidor,Belgrano,CABA
+1981,consumidor,Rosario,Santa Fe
+1844,consumidor,Reconquista,Santa Fe
+1157,consumidor,Mendoza,Mendoza
+1617,consumidor,Palermo,CABA
+813,consumidor,Quilmes,Buenos Aires
+1339,consumidor,Quilmes,Buenos Aires
+3588,consumidor,Caballito,CABA
+3691,consumidor,Morón,Buenos Aires
+4747,consumidor,Quilmes,Buenos Aires
+1922,consumidor,Sáenz Peña,Chaco
+223,consumidor,Tigre,Buenos Aires
+2917,consumidor,Palermo,CABA
+4522,consumidor,Almagro,CABA
+1068,consumidor,Quilmes,Buenos Aires
+3718,consumidor,Salta,Salta
+4426,consumidor,Almagro,CABA
+2862,consumidor,San Isidro,Buenos Aires
+3878,consumidor,General Roca,Río Negro
+4587,consumidor,Morón,Buenos Aires
+3264,consumidor,Salta,Salta
+1635,consumidor,Belgrano,CABA
+2084,consumidor,Tigre,Buenos Aires
+3781,consumidor,Belgrano,CABA
+2596,consumidor,Río Cuarto,Córdoba
+559,consumidor,Almagro,CABA
+1179,consumidor,Avellaneda,Buenos Aires
+3826,consumidor,Quilmes,Buenos Aires
+2298,consumidor,Viedma,Río Negro
+398,consumidor,San Isidro,Buenos Aires
+710,consumidor,Caballito,CABA
+2360,consumidor,Almagro,CABA
+1323,consumidor,Avellaneda,Buenos Aires
+2685,consumidor,Quilmes,Buenos Aires
+2235,consumidor,Almagro,CABA
+2765,consumidor,Guaymallén,Mendoza
+3187,consumidor,Avellaneda,Buenos Aires
+3218,consumidor,Tigre,Buenos Aires
+2303,consumidor,Río Cuarto,Córdoba
+1118,consumidor,Palermo,CABA
+4669,consumidor,Morón,Buenos Aires
+591,consumidor,San Isidro,Buenos Aires
+2766,consumidor,Reconquista,Santa Fe
+520,consumidor,Recoleta,CABA
+3713,consumidor,Quilmes,Buenos Aires
+1156,consumidor,Mendoza,Mendoza
+3662,consumidor,Quilmes,Buenos Aires
+2448,consumidor,San Rafael,Mendoza
+328,consumidor,Guaymallén,Mendoza
+1501,consumidor,Villa María,Córdoba
+4624,consumidor,Recoleta,CABA
+970,consumidor,Belgrano,CABA
+3511,consumidor,Río Cuarto,Córdoba
+2576,consumidor,Quilmes,Buenos Aires
+36,comercio,Caballito,CABA
+3263,consumidor,Salta,Salta
+707,consumidor,Almagro,CABA
+1718,consumidor,Recoleta,CABA
+1798,consumidor,Quilmes,Buenos Aires
+2281,consumidor,Quilmes,Buenos Aires
+2532,consumidor,San Isidro,Buenos Aires
+1030,consumidor,Almagro,CABA
+2383,consumidor,Río Cuarto,Córdoba
+3383,consumidor,Reconquista,Santa Fe
+3917,consumidor,Oberá,Misiones
+1661,consumidor,San Rafael,Mendoza
+1384,consumidor,Rafaela,Santa Fe
+1126,consumidor,Caballito,CABA
+3151,consumidor,Santa Fe,Santa Fe
+1380,consumidor,Almagro,CABA
+4487,consumidor,Palermo,CABA
+50,comercio,Tigre,Buenos Aires
+2788,consumidor,Quilmes,Buenos Aires
+1186,consumidor,Morón,Buenos Aires
+2719,consumidor,Sáenz Peña,Chaco
+4421,consumidor,Caballito,CABA
+3992,consumidor,Avellaneda,Buenos Aires
+3513,consumidor,Almagro,CABA
+545,consumidor,Morón,Buenos Aires
+456,consumidor,Tigre,Buenos Aires
+3733,consumidor,Tigre,Buenos Aires
+3391,consumidor,Tafí Viejo,Tucumán
+414,consumidor,Rosario,Santa Fe
+3387,consumidor,Morón,Buenos Aires
+1660,consumidor,Córdoba,Córdoba
+3811,consumidor,Morón,Buenos Aires
+924,consumidor,Caballito,CABA
+1400,consumidor,Rosario,Santa Fe
+2353,consumidor,Posadas,Misiones
+1262,consumidor,Tigre,Buenos Aires
+4108,consumidor,Belgrano,CABA
+600,consumidor,Tigre,Buenos Aires
+3614,consumidor,Caballito,CABA
+643,consumidor,Recoleta,CABA
+2282,consumidor,Almagro,CABA
+4206,consumidor,Tigre,Buenos Aires
+1080,consumidor,Neuquén,Neuquén
+3075,consumidor,San Martín de los Andes,Neuquén
+1838,consumidor,Córdoba,Córdoba
+3206,consumidor,Caballito,CABA
+1376,consumidor,Villa Carlos Paz,Córdoba
+743,consumidor,Reconquista,Santa Fe
+3874,consumidor,Belgrano,CABA
+2408,consumidor,Morón,Buenos Aires
+3133,consumidor,Recoleta,CABA
+2133,consumidor,Santa Fe,Santa Fe
+260,consumidor,Almagro,CABA
+2923,consumidor,Morón,Buenos Aires
+4332,consumidor,Quilmes,Buenos Aires
+2818,consumidor,Recoleta,CABA
+2021,consumidor,Belgrano,CABA
+4058,consumidor,Neuquén,Neuquén
+4310,consumidor,Villa María,Córdoba
+4095,consumidor,Quilmes,Buenos Aires
+3907,consumidor,Godoy Cruz,Mendoza
+694,consumidor,Quilmes,Buenos Aires
+4720,consumidor,Santa Fe,Santa Fe
+1008,consumidor,Avellaneda,Buenos Aires
+2784,consumidor,Cipolletti,Río Negro
+4673,consumidor,Almagro,CABA
+3357,consumidor,Belgrano,CABA
+380,consumidor,Santa Fe,Santa Fe
+1170,consumidor,Tafí Viejo,Tucumán
+2146,consumidor,Belgrano,CABA
+2227,consumidor,Salta,Salta
+2963,consumidor,Recoleta,CABA
+1488,consumidor,Almagro,CABA
+1412,consumidor,Río Cuarto,Córdoba
+712,consumidor,San Isidro,Buenos Aires
+2277,consumidor,Morón,Buenos Aires
+4363,consumidor,Almagro,CABA
+3174,consumidor,Villa Carlos Paz,Córdoba
+1912,consumidor,San Isidro,Buenos Aires
+1059,consumidor,Almagro,CABA
+1135,consumidor,Belgrano,CABA
+2884,consumidor,Recoleta,CABA
+2179,consumidor,Quilmes,Buenos Aires
+2046,consumidor,Morón,Buenos Aires
+1474,consumidor,Villa María,Córdoba
+942,consumidor,Belgrano,CABA
+686,consumidor,Rosario,Santa Fe
+4697,consumidor,Recoleta,CABA
+4362,consumidor,Caballito,CABA
+2876,consumidor,Villa María,Córdoba
+4553,consumidor,Recoleta,CABA
+3980,consumidor,Tigre,Buenos Aires
+4210,consumidor,Belgrano,CABA
+4062,consumidor,Avellaneda,Buenos Aires
+3894,consumidor,San Isidro,Buenos Aires
+2588,consumidor,Rosario,Santa Fe
+1646,consumidor,Morón,Buenos Aires
+2852,consumidor,San Isidro,Buenos Aires
+563,consumidor,Caballito,CABA
+4012,consumidor,Recoleta,CABA
+1394,consumidor,Tigre,Buenos Aires
+2509,consumidor,Recoleta,CABA
+2117,consumidor,Recoleta,CABA
+3181,consumidor,Avellaneda,Buenos Aires
+1667,consumidor,Morón,Buenos Aires
+1971,consumidor,San Miguel de Tucumán,Tucumán
+1640,consumidor,Tigre,Buenos Aires
+1173,consumidor,Avellaneda,Buenos Aires
+1955,consumidor,Avellaneda,Buenos Aires
+864,consumidor,Neuquén,Neuquén
+4089,consumidor,Orán,Salta
+3423,consumidor,Morón,Buenos Aires
+190,consumidor,Rosario,Santa Fe
+4555,consumidor,Caballito,CABA
+2953,consumidor,Rafaela,Santa Fe
+4438,consumidor,San Isidro,Buenos Aires
+2062,consumidor,Belgrano,CABA
+1600,consumidor,Belgrano,CABA
+2612,consumidor,Río Cuarto,Córdoba
+3997,consumidor,Belgrano,CABA
+209,consumidor,San Isidro,Buenos Aires
+3771,consumidor,Almagro,CABA
+1687,consumidor,Recoleta,CABA
+4745,consumidor,Villa Carlos Paz,Córdoba
+4680,consumidor,Palermo,CABA
+633,consumidor,Almagro,CABA
+772,consumidor,Godoy Cruz,Mendoza
+3913,consumidor,Palermo,CABA
+4590,consumidor,Quilmes,Buenos Aires
+450,consumidor,Rosario,Santa Fe
+23,comercio,Recoleta,CABA
+714,consumidor,Orán,Salta
+2423,consumidor,Belgrano,CABA
+345,consumidor,Morón,Buenos Aires
+4064,consumidor,Caballito,CABA
+355,consumidor,Villa Carlos Paz,Córdoba
+4488,consumidor,Río Cuarto,Córdoba
+3719,consumidor,Quilmes,Buenos Aires
+1042,consumidor,Cutral Có,Neuquén
+2017,consumidor,Morón,Buenos Aires
+3750,consumidor,San Isidro,Buenos Aires
+3053,consumidor,Mendoza,Mendoza
+1482,consumidor,Morón,Buenos Aires
+4028,consumidor,Libertador,Jujuy
+735,consumidor,Morón,Buenos Aires
+454,consumidor,Morón,Buenos Aires
+4429,consumidor,Quilmes,Buenos Aires
+4649,consumidor,Almagro,CABA
+2660,consumidor,Morón,Buenos Aires
+4105,consumidor,Salta,Salta
+2967,consumidor,Quilmes,Buenos Aires
+2411,consumidor,Reconquista,Santa Fe
+4168,consumidor,Guaymallén,Mendoza
+1143,consumidor,Río Cuarto,Córdoba
+2901,consumidor,San Miguel de Tucumán,Tucumán
+12,comercio,Recoleta,CABA
+796,consumidor,Tigre,Buenos Aires
+4355,consumidor,Almagro,CABA
+2096,consumidor,San Isidro,Buenos Aires
+1924,consumidor,Santa Fe,Santa Fe
+969,consumidor,Sáenz Peña,Chaco
+2300,consumidor,Caballito,CABA
+427,consumidor,Caballito,CABA
+1669,consumidor,Caballito,CABA
+28,comercio,San Isidro,Buenos Aires
+4423,consumidor,Quilmes,Buenos Aires
+2053,consumidor,Guaymallén,Mendoza
+391,consumidor,Palermo,CABA
+4530,consumidor,Morón,Buenos Aires
+2145,consumidor,Recoleta,CABA
+1947,consumidor,Almagro,CABA
+4301,consumidor,San Isidro,Buenos Aires
+3510,consumidor,Quilmes,Buenos Aires
+2857,consumidor,San Salvador de Jujuy,Jujuy
+892,consumidor,Palermo,CABA
+4445,consumidor,Recoleta,CABA
+4683,consumidor,Resistencia,Chaco
+690,consumidor,Palermo,CABA
+876,consumidor,Recoleta,CABA
+2002,consumidor,Belgrano,CABA
+4651,consumidor,Córdoba,Córdoba
+993,consumidor,Villa María,Córdoba
+2939,consumidor,Yerba Buena,Tucumán
+1455,consumidor,San Isidro,Buenos Aires
+1949,consumidor,Quilmes,Buenos Aires
+4637,consumidor,Almagro,CABA
+3168,consumidor,Belgrano,CABA
+4333,consumidor,San Isidro,Buenos Aires
+151,consumidor,Tigre,Buenos Aires
+114,consumidor,Tigre,Buenos Aires
+2322,consumidor,Avellaneda,Buenos Aires
+3037,consumidor,Villa Carlos Paz,Córdoba
+173,consumidor,Rafaela,Santa Fe
+965,consumidor,Caballito,CABA
+822,consumidor,Avellaneda,Buenos Aires
+2310,consumidor,Quilmes,Buenos Aires
+3178,consumidor,Morón,Buenos Aires
+513,consumidor,Villa Carlos Paz,Córdoba
+179,consumidor,Belgrano,CABA
+3827,consumidor,Tigre,Buenos Aires
+1694,consumidor,Recoleta,CABA
+360,consumidor,Reconquista,Santa Fe
+687,consumidor,Guaymallén,Mendoza
+910,consumidor,Morón,Buenos Aires
+3093,consumidor,San Miguel de Tucumán,Tucumán
+4418,consumidor,Quilmes,Buenos Aires
+1930,consumidor,Godoy Cruz,Mendoza
+4398,consumidor,Palpalá,Jujuy
+2634,consumidor,Tigre,Buenos Aires
+3993,consumidor,Tigre,Buenos Aires
+2530,consumidor,Caballito,CABA
+3086,consumidor,Villa María,Córdoba
+1968,consumidor,Tigre,Buenos Aires
+2181,consumidor,San Isidro,Buenos Aires
+2346,consumidor,Avellaneda,Buenos Aires
+3212,consumidor,Caballito,CABA
+906,consumidor,Palpalá,Jujuy
+2373,consumidor,Villa Carlos Paz,Córdoba
+2426,consumidor,Avellaneda,Buenos Aires
+715,consumidor,San Salvador de Jujuy,Jujuy
+4413,consumidor,San Isidro,Buenos Aires
+649,consumidor,Tigre,Buenos Aires
+132,consumidor,Mendoza,Mendoza
+3095,consumidor,Caballito,CABA
+3132,consumidor,Tafí Viejo,Tucumán
+4436,consumidor,Reconquista,Santa Fe
+612,consumidor,Villa María,Córdoba
+2261,consumidor,Morón,Buenos Aires
+4730,consumidor,Godoy Cruz,Mendoza
+2620,consumidor,Palermo,CABA
+4240,consumidor,Palermo,CABA
+1757,consumidor,Quilmes,Buenos Aires
+2067,consumidor,Morón,Buenos Aires
+1645,consumidor,Río Cuarto,Córdoba
+4512,consumidor,Palermo,CABA
+3237,consumidor,Quilmes,Buenos Aires
+220,consumidor,Almagro,CABA
+3765,consumidor,Avellaneda,Buenos Aires
+3828,consumidor,San Isidro,Buenos Aires
+1281,consumidor,Palermo,CABA
+618,consumidor,Viedma,Río Negro
+1108,consumidor,Quilmes,Buenos Aires
+1961,consumidor,Morón,Buenos Aires
+1007,consumidor,Avellaneda,Buenos Aires
+3575,consumidor,Villa María,Córdoba
+356,consumidor,Avellaneda,Buenos Aires
+4560,consumidor,Morón,Buenos Aires
+4644,consumidor,Tigre,Buenos Aires
+4741,consumidor,Caballito,CABA
+3843,consumidor,Caballito,CABA
+2232,consumidor,Almagro,CABA
+3455,consumidor,Tigre,Buenos Aires
+1276,consumidor,Quilmes,Buenos Aires
+4662,consumidor,Quilmes,Buenos Aires
+3927,consumidor,San Isidro,Buenos Aires
+3637,consumidor,Concordia,Entre Ríos
+4220,consumidor,San Isidro,Buenos Aires
+4422,consumidor,Recoleta,CABA
+936,consumidor,Recoleta,CABA
+4643,consumidor,Almagro,CABA
+2125,consumidor,Río Cuarto,Córdoba
+277,consumidor,Tigre,Buenos Aires
+1041,consumidor,Oberá,Misiones
+2464,consumidor,Avellaneda,Buenos Aires
+1975,consumidor,Caballito,CABA
+2844,consumidor,Rafaela,Santa Fe
+3944,consumidor,San Isidro,Buenos Aires
+3233,consumidor,Recoleta,CABA
+926,consumidor,Palermo,CABA
+4461,consumidor,Quilmes,Buenos Aires
+326,consumidor,Belgrano,CABA
+3131,consumidor,Almagro,CABA
+539,consumidor,Córdoba,Córdoba
+3711,consumidor,Quilmes,Buenos Aires
+2338,consumidor,Mendoza,Mendoza
+2348,consumidor,Morón,Buenos Aires
+363,consumidor,San Isidro,Buenos Aires
+3241,consumidor,Morón,Buenos Aires
+3279,consumidor,San Isidro,Buenos Aires
+2266,consumidor,Tartagal,Salta
+4692,consumidor,Morón,Buenos Aires
+2580,consumidor,Mendoza,Mendoza
+104,consumidor,Quilmes,Buenos Aires
+997,consumidor,Tigre,Buenos Aires
+2384,consumidor,Recoleta,CABA
+437,consumidor,Orán,Salta
+2668,consumidor,Belgrano,CABA
+572,consumidor,Morón,Buenos Aires
+2130,consumidor,Santa Fe,Santa Fe
+4515,consumidor,Almagro,CABA
+1350,consumidor,Avellaneda,Buenos Aires
+1679,consumidor,Tigre,Buenos Aires
+4375,consumidor,Almagro,CABA
+902,consumidor,Sáenz Peña,Chaco
+228,consumidor,Reconquista,Santa Fe
+2945,consumidor,Caballito,CABA
+1696,consumidor,Palermo,CABA
+1805,consumidor,San Isidro,Buenos Aires
+2055,consumidor,Palermo,CABA
+340,consumidor,Tigre,Buenos Aires
+216,consumidor,Santa Fe,Santa Fe
+3291,consumidor,Yerba Buena,Tucumán
+1419,consumidor,Tigre,Buenos Aires
+1685,consumidor,San Isidro,Buenos Aires
+1113,consumidor,Reconquista,Santa Fe
+2131,consumidor,San Rafael,Mendoza
+46,comercio,Quilmes,Buenos Aires
+3956,consumidor,Caballito,CABA
+4743,consumidor,Quilmes,Buenos Aires
+2930,consumidor,Río Cuarto,Córdoba
+2163,consumidor,San Isidro,Buenos Aires
+1216,consumidor,San Isidro,Buenos Aires
+4019,consumidor,Libertador,Jujuy
+304,consumidor,Morón,Buenos Aires
+3613,consumidor,Recoleta,CABA
+2138,consumidor,Recoleta,CABA
+2597,consumidor,Palermo,CABA
+2402,consumidor,Caballito,CABA
+2339,consumidor,San Isidro,Buenos Aires
+4629,consumidor,Rafaela,Santa Fe
+2653,consumidor,Morón,Buenos Aires
+2430,consumidor,Avellaneda,Buenos Aires
+1911,consumidor,Quilmes,Buenos Aires
+3544,consumidor,Belgrano,CABA
+1558,consumidor,Tigre,Buenos Aires
+2947,consumidor,San Isidro,Buenos Aires
+1508,consumidor,Recoleta,CABA
+719,consumidor,Tafí Viejo,Tucumán
+4447,consumidor,Avellaneda,Buenos Aires
+1228,consumidor,Villa Carlos Paz,Córdoba
+2789,consumidor,Almagro,CABA
+1782,consumidor,San Isidro,Buenos Aires
+2184,consumidor,Palermo,CABA
+3361,consumidor,Yerba Buena,Tucumán
+2488,consumidor,Rafaela,Santa Fe
+4632,consumidor,Avellaneda,Buenos Aires
+3447,consumidor,Recoleta,CABA
+946,consumidor,Tigre,Buenos Aires
+2556,consumidor,Guaymallén,Mendoza
+2099,consumidor,General Roca,Río Negro
+4211,consumidor,San Isidro,Buenos Aires
+265,consumidor,San Isidro,Buenos Aires
+2134,consumidor,Almagro,CABA
+472,consumidor,Tigre,Buenos Aires
+2903,consumidor,San Isidro,Buenos Aires
+3101,consumidor,Tigre,Buenos Aires
+3380,consumidor,San Isidro,Buenos Aires
+4551,consumidor,Godoy Cruz,Mendoza
+3774,consumidor,Avellaneda,Buenos Aires
+1174,consumidor,Tigre,Buenos Aires
+1703,consumidor,Belgrano,CABA
+3618,consumidor,Avellaneda,Buenos Aires
+950,consumidor,Palermo,CABA
+3860,consumidor,Morón,Buenos Aires
+3433,consumidor,Reconquista,Santa Fe
+264,consumidor,Palermo,CABA
+4705,consumidor,Reconquista,Santa Fe
+1397,consumidor,Reconquista,Santa Fe
+2946,consumidor,Palermo,CABA
+2751,consumidor,Santa Fe,Santa Fe
+335,consumidor,San Isidro,Buenos Aires
+442,consumidor,Tigre,Buenos Aires
+3805,consumidor,Concordia,Entre Ríos
+916,consumidor,Tigre,Buenos Aires
+1680,consumidor,San Isidro,Buenos Aires
+4287,consumidor,Belgrano,CABA
+1019,consumidor,Santa Fe,Santa Fe
+4257,consumidor,Caballito,CABA
+2717,consumidor,Rosario,Santa Fe
+2156,consumidor,Quilmes,Buenos Aires
+755,consumidor,San Miguel de Tucumán,Tucumán
+2840,consumidor,Quilmes,Buenos Aires
+2899,consumidor,Villa Carlos Paz,Córdoba
+3790,consumidor,Córdoba,Córdoba
+3109,consumidor,Quilmes,Buenos Aires
+378,consumidor,Rosario,Santa Fe
+1612,consumidor,Tigre,Buenos Aires
+1109,consumidor,Avellaneda,Buenos Aires
+2284,consumidor,Villa Carlos Paz,Córdoba
+1033,consumidor,Belgrano,CABA
+2304,consumidor,Villa María,Córdoba
+1388,consumidor,Tigre,Buenos Aires
+3685,consumidor,Almagro,CABA
+3883,consumidor,Avellaneda,Buenos Aires
+1226,consumidor,Caballito,CABA
+2809,consumidor,Recoleta,CABA
+1886,consumidor,Palpalá,Jujuy
+1728,consumidor,Palermo,CABA
+2068,consumidor,Caballito,CABA
+1948,consumidor,Avellaneda,Buenos Aires
+1723,consumidor,Almagro,CABA
+1197,consumidor,Tigre,Buenos Aires
+670,consumidor,Tigre,Buenos Aires
+203,consumidor,Tigre,Buenos Aires
+1821,consumidor,Almagro,CABA
+3955,consumidor,San Isidro,Buenos Aires
+4373,consumidor,Villa Ángela,Chaco
+276,consumidor,Quilmes,Buenos Aires
+4592,consumidor,Avellaneda,Buenos Aires
+4473,consumidor,Almagro,CABA
+2443,consumidor,San Martín de los Andes,Neuquén
+2608,consumidor,San Isidro,Buenos Aires
+2215,consumidor,Morón,Buenos Aires
+4237,consumidor,Morón,Buenos Aires
+4194,consumidor,Caballito,CABA
+2366,consumidor,Avellaneda,Buenos Aires
+2611,consumidor,San Martín de los Andes,Neuquén
+1553,consumidor,Cipolletti,Río Negro
+4467,consumidor,Morón,Buenos Aires
+371,consumidor,Morón,Buenos Aires
+1721,consumidor,Rafaela,Santa Fe
+4041,consumidor,Quilmes,Buenos Aires
+77,consumidor,Villa María,Córdoba
+1460,consumidor,Reconquista,Santa Fe
+2005,consumidor,Caballito,CABA
+458,consumidor,Morón,Buenos Aires
+4141,consumidor,Palermo,CABA
+1730,consumidor,Posadas,Misiones
+1794,consumidor,Santa Fe,Santa Fe
+2370,consumidor,Morón,Buenos Aires
+2369,consumidor,Almagro,CABA
+2273,consumidor,Caballito,CABA
+2486,consumidor,Recoleta,CABA
+1529,consumidor,Recoleta,CABA
+1634,consumidor,Almagro,CABA
+3230,consumidor,Quilmes,Buenos Aires
+2715,consumidor,Caballito,CABA
+4217,consumidor,Morón,Buenos Aires
+439,consumidor,Avellaneda,Buenos Aires
+1638,consumidor,Reconquista,Santa Fe
+4094,consumidor,Tigre,Buenos Aires
+2199,consumidor,San Isidro,Buenos Aires
+2111,consumidor,Recoleta,CABA
+3755,consumidor,Morón,Buenos Aires
+4177,consumidor,Palermo,CABA
+768,consumidor,Mendoza,Mendoza
+4617,consumidor,Belgrano,CABA
+400,consumidor,San Isidro,Buenos Aires
+804,consumidor,Villa María,Córdoba
+4606,consumidor,Recoleta,CABA
+4475,consumidor,Morón,Buenos Aires
+4334,consumidor,Palermo,CABA
+3441,consumidor,Cutral Có,Neuquén
+3015,consumidor,Palermo,CABA
+4181,consumidor,Avellaneda,Buenos Aires
+3378,consumidor,Recoleta,CABA
+2869,consumidor,Santa Fe,Santa Fe
+3205,consumidor,Almagro,CABA
+4660,consumidor,San Isidro,Buenos Aires
+3362,consumidor,Quilmes,Buenos Aires
+393,consumidor,Belgrano,CABA
+4098,consumidor,Yerba Buena,Tucumán
+963,consumidor,Morón,Buenos Aires
+71,consumidor,Río Cuarto,Córdoba
+4339,consumidor,Belgrano,CABA
+3812,consumidor,San Isidro,Buenos Aires
+1313,consumidor,Palermo,CABA
+2003,consumidor,Tigre,Buenos Aires
+3257,consumidor,Villa Carlos Paz,Córdoba
+3327,consumidor,Palermo,CABA
+2822,consumidor,Belgrano,CABA
+3080,consumidor,Eldorado,Misiones
+2045,consumidor,Belgrano,CABA
+1988,consumidor,Salta,Salta
+2000,consumidor,Córdoba,Córdoba
+3916,consumidor,Caballito,CABA
+1953,consumidor,San Isidro,Buenos Aires
+292,consumidor,Avellaneda,Buenos Aires
+619,consumidor,Tigre,Buenos Aires
+1,comercio,Belgrano,CABA
+4195,consumidor,Caballito,CABA
+4737,consumidor,Recoleta,CABA
+3443,consumidor,Almagro,CABA
+3809,consumidor,Quilmes,Buenos Aires
+3784,consumidor,Caballito,CABA
+2940,consumidor,San Isidro,Buenos Aires
+2794,consumidor,Rosario,Santa Fe
+617,consumidor,Palermo,CABA
+3640,consumidor,Belgrano,CABA
+3941,consumidor,Villa María,Córdoba
+1123,consumidor,Guaymallén,Mendoza
+2791,consumidor,Salta,Salta
+4677,consumidor,Córdoba,Córdoba
+4344,consumidor,San Isidro,Buenos Aires
+4565,consumidor,Tigre,Buenos Aires
+2507,consumidor,Avellaneda,Buenos Aires
+1802,consumidor,Almagro,CABA
+397,consumidor,Reconquista,Santa Fe
+1615,consumidor,Almagro,CABA
+4018,consumidor,Caballito,CABA
+1830,consumidor,San Rafael,Mendoza
+1790,consumidor,Yerba Buena,Tucumán
+3114,consumidor,Palermo,CABA
+4319,consumidor,Caballito,CABA
+3366,consumidor,Recoleta,CABA
+731,consumidor,Libertador,Jujuy
+3571,consumidor,Río Cuarto,Córdoba
+2583,consumidor,Rafaela,Santa Fe
+3649,consumidor,Tigre,Buenos Aires
+10,comercio,Tigre,Buenos Aires
+1796,consumidor,Belgrano,CABA
+1835,consumidor,Rafaela,Santa Fe
+3979,consumidor,Morón,Buenos Aires
+3374,consumidor,Avellaneda,Buenos Aires
+4150,consumidor,Almagro,CABA
+3110,consumidor,Almagro,CABA
+3902,consumidor,Avellaneda,Buenos Aires
+3602,consumidor,Eldorado,Misiones
+426,consumidor,Almagro,CABA
+1564,consumidor,Rafaela,Santa Fe
+3047,consumidor,Recoleta,CABA
+2816,consumidor,Reconquista,Santa Fe
+2004,consumidor,Rosario,Santa Fe
+2562,consumidor,Recoleta,CABA
+3703,consumidor,Avellaneda,Buenos Aires
+3978,consumidor,Almagro,CABA
+1297,consumidor,San Isidro,Buenos Aires
+4229,consumidor,Quilmes,Buenos Aires
+2076,consumidor,Caballito,CABA
+2252,consumidor,Morón,Buenos Aires
+4489,consumidor,Morón,Buenos Aires
+2864,consumidor,Tigre,Buenos Aires
+4258,consumidor,Tigre,Buenos Aires
+4157,consumidor,San Isidro,Buenos Aires
+420,consumidor,San Isidro,Buenos Aires
+3115,consumidor,Villa Carlos Paz,Córdoba
+4641,consumidor,Quilmes,Buenos Aires
+1036,consumidor,Río Cuarto,Córdoba
+1386,consumidor,San Isidro,Buenos Aires
+2250,consumidor,Almagro,CABA
+3813,consumidor,San Isidro,Buenos Aires
+323,consumidor,Recoleta,CABA
+3027,consumidor,Reconquista,Santa Fe
+4524,consumidor,Rosario,Santa Fe
+1367,consumidor,Avellaneda,Buenos Aires
+1677,consumidor,Reconquista,Santa Fe
+2613,consumidor,Recoleta,CABA
+2797,consumidor,Quilmes,Buenos Aires
+1134,consumidor,San Miguel de Tucumán,Tucumán
+3147,consumidor,Villa María,Córdoba
+1845,consumidor,Quilmes,Buenos Aires
+3856,consumidor,Villa Carlos Paz,Córdoba
+4597,consumidor,Quilmes,Buenos Aires
+1139,consumidor,Yerba Buena,Tucumán
+3722,consumidor,Avellaneda,Buenos Aires
+2325,consumidor,Avellaneda,Buenos Aires
+3247,consumidor,Tigre,Buenos Aires
+1390,consumidor,Almagro,CABA
+1946,consumidor,Palermo,CABA
+4653,consumidor,Godoy Cruz,Mendoza
+2921,consumidor,Quilmes,Buenos Aires
+3336,consumidor,Avellaneda,Buenos Aires
+3173,consumidor,Almagro,CABA
+4068,consumidor,Reconquista,Santa Fe
+252,consumidor,Sáenz Peña,Chaco
+3572,consumidor,Río Cuarto,Córdoba
+945,consumidor,Quilmes,Buenos Aires
+4193,consumidor,Eldorado,Misiones
+1894,consumidor,Recoleta,CABA
+3995,consumidor,Avellaneda,Buenos Aires
+904,consumidor,General Roca,Río Negro
+3731,consumidor,Almagro,CABA
+2648,consumidor,Palermo,CABA
+4635,consumidor,San Isidro,Buenos Aires
+2590,consumidor,Paraná,Entre Ríos
+3222,consumidor,Almagro,CABA
+951,consumidor,San Miguel de Tucumán,Tucumán
+2404,consumidor,Villa Carlos Paz,Córdoba
+3802,consumidor,San Isidro,Buenos Aires
+3159,consumidor,Tigre,Buenos Aires
+2340,consumidor,Morón,Buenos Aires
+3491,consumidor,San Isidro,Buenos Aires
+4314,consumidor,Morón,Buenos Aires
+2396,consumidor,Recoleta,CABA
+336,consumidor,Quilmes,Buenos Aires
+3461,consumidor,Mendoza,Mendoza
+4160,consumidor,Caballito,CABA
+3576,consumidor,Quilmes,Buenos Aires
+3285,consumidor,Tigre,Buenos Aires
+1889,consumidor,Quilmes,Buenos Aires
+4493,consumidor,Resistencia,Chaco
+1307,consumidor,Almagro,CABA
+4674,consumidor,Avellaneda,Buenos Aires
+2811,consumidor,Quilmes,Buenos Aires
+1234,consumidor,Quilmes,Buenos Aires
+3104,consumidor,Avellaneda,Buenos Aires
+2936,consumidor,Avellaneda,Buenos Aires
+874,consumidor,Almagro,CABA
+1591,consumidor,Córdoba,Córdoba
+351,consumidor,Avellaneda,Buenos Aires
+227,consumidor,Avellaneda,Buenos Aires
+2831,consumidor,Villa María,Córdoba
+3555,consumidor,Belgrano,CABA
+1556,consumidor,Tigre,Buenos Aires
+3079,consumidor,Quilmes,Buenos Aires
+466,consumidor,Recoleta,CABA
+989,consumidor,Recoleta,CABA
+2098,consumidor,Tigre,Buenos Aires
+905,consumidor,Avellaneda,Buenos Aires
+3315,consumidor,San Isidro,Buenos Aires
+578,consumidor,Belgrano,CABA
+1814,consumidor,Belgrano,CABA
+6,comercio,Quilmes,Buenos Aires
+3251,consumidor,Avellaneda,Buenos Aires
+3031,consumidor,Morón,Buenos Aires
+337,consumidor,Morón,Buenos Aires
+498,consumidor,Tigre,Buenos Aires
+3465,consumidor,Tigre,Buenos Aires
+3276,consumidor,Santa Fe,Santa Fe
+1349,consumidor,San Salvador de Jujuy,Jujuy
+3225,consumidor,Quilmes,Buenos Aires
+96,consumidor,Tigre,Buenos Aires
+3260,consumidor,Caballito,CABA
+3863,consumidor,San Isidro,Buenos Aires
+134,consumidor,Santa Fe,Santa Fe
+846,consumidor,Morón,Buenos Aires
+2485,consumidor,Recoleta,CABA
+4666,consumidor,Almagro,CABA
+2286,consumidor,Caballito,CABA
+471,consumidor,San Isidro,Buenos Aires
+3396,consumidor,Avellaneda,Buenos Aires
+1877,consumidor,Rosario,Santa Fe
+2907,consumidor,Palermo,CABA
+3409,consumidor,Mendoza,Mendoza
+2853,consumidor,San Isidro,Buenos Aires
+4040,consumidor,Rosario,Santa Fe
+4571,consumidor,Rafaela,Santa Fe
+658,consumidor,Recoleta,CABA
+315,consumidor,Recoleta,CABA
+158,consumidor,San Isidro,Buenos Aires
+390,consumidor,Morón,Buenos Aires
+4306,consumidor,Almagro,CABA
+3254,consumidor,Tigre,Buenos Aires
+4749,consumidor,Avellaneda,Buenos Aires
+4509,consumidor,Rafaela,Santa Fe
+2262,consumidor,Tigre,Buenos Aires
+1806,consumidor,Palermo,CABA
+4505,consumidor,Posadas,Misiones
+4016,consumidor,Avellaneda,Buenos Aires
+1190,consumidor,Rosario,Santa Fe
+1890,consumidor,Caballito,CABA
+431,consumidor,San Isidro,Buenos Aires
+880,consumidor,Palermo,CABA
+4000,consumidor,Godoy Cruz,Mendoza
+1899,consumidor,Rosario,Santa Fe
+153,consumidor,Palermo,CABA
+3,comercio,Caballito,CABA
+1489,consumidor,Quilmes,Buenos Aires
+4750,consumidor,Avellaneda,Buenos Aires
+2676,consumidor,Tigre,Buenos Aires
+2332,consumidor,Tigre,Buenos Aires
+1895,consumidor,Quilmes,Buenos Aires
+2489,consumidor,Recoleta,CABA
+4366,consumidor,Morón,Buenos Aires
+2051,consumidor,Recoleta,CABA
+2563,consumidor,Recoleta,CABA
+2684,consumidor,Avellaneda,Buenos Aires
+13,comercio,Caballito,CABA
+2174,consumidor,San Isidro,Buenos Aires
+1292,consumidor,Santa Fe,Santa Fe
+2265,consumidor,Belgrano,CABA
+411,consumidor,Belgrano,CABA
+1416,consumidor,Tafí Viejo,Tucumán
+3283,consumidor,San Isidro,Buenos Aires
+3462,consumidor,Quilmes,Buenos Aires
+1788,consumidor,Tigre,Buenos Aires
+4485,consumidor,Quilmes,Buenos Aires
+727,consumidor,Quilmes,Buenos Aires
+3294,consumidor,Caballito,CABA
+2609,consumidor,Cipolletti,Río Negro
+2555,consumidor,Avellaneda,Buenos Aires
+1094,consumidor,Villa María,Córdoba
+4628,consumidor,Quilmes,Buenos Aires
+3728,consumidor,Mendoza,Mendoza
+676,consumidor,Tigre,Buenos Aires
+2938,consumidor,Morón,Buenos Aires
+739,consumidor,Morón,Buenos Aires
+2974,consumidor,Rafaela,Santa Fe
+2617,consumidor,Morón,Buenos Aires
+3219,consumidor,Guaymallén,Mendoza
+2641,consumidor,Avellaneda,Buenos Aires
+3785,consumidor,Morón,Buenos Aires
+4106,consumidor,Avellaneda,Buenos Aires
+263,consumidor,San Isidro,Buenos Aires
+1314,consumidor,San Isidro,Buenos Aires
+3498,consumidor,Palermo,CABA
+552,consumidor,Córdoba,Córdoba
+3854,consumidor,San Isidro,Buenos Aires
+1928,consumidor,Quilmes,Buenos Aires
+2407,consumidor,Palermo,CABA
+1609,consumidor,Avellaneda,Buenos Aires
+1862,consumidor,Quilmes,Buenos Aires
+3208,consumidor,San Isidro,Buenos Aires
+3384,consumidor,Tigre,Buenos Aires
+3759,consumidor,Caballito,CABA
+2037,consumidor,Palermo,CABA
+1316,consumidor,Morón,Buenos Aires
+4516,consumidor,Morón,Buenos Aires
+555,consumidor,Caballito,CABA
+627,consumidor,Avellaneda,Buenos Aires
+1618,consumidor,Villa Carlos Paz,Córdoba
+3203,consumidor,Rosario,Santa Fe
+2218,consumidor,Río Cuarto,Córdoba
+678,consumidor,Morón,Buenos Aires
+4506,consumidor,Avellaneda,Buenos Aires
+1346,consumidor,General Roca,Río Negro
+2515,consumidor,Palermo,CABA
+1880,consumidor,Reconquista,Santa Fe
+3473,consumidor,Belgrano,CABA
+2665,consumidor,Tigre,Buenos Aires
+2574,consumidor,Avellaneda,Buenos Aires
+2846,consumidor,Reconquista,Santa Fe
+2089,consumidor,Morón,Buenos Aires
+2412,consumidor,Palermo,CABA
+1237,consumidor,Tigre,Buenos Aires
+53,comercio,Morón,Buenos Aires
+2054,consumidor,Quilmes,Buenos Aires
+4207,consumidor,Tartagal,Salta
+1372,consumidor,Avellaneda,Buenos Aires
+3490,consumidor,Rosario,Santa Fe
+2983,consumidor,Palermo,CABA
+3775,consumidor,Palermo,CABA
+3561,consumidor,Quilmes,Buenos Aires
+791,consumidor,Sáenz Peña,Chaco
+1486,consumidor,Tigre,Buenos Aires
+3579,consumidor,Quilmes,Buenos Aires
+4761,consumidor,Palermo,CABA
+3591,consumidor,Tigre,Buenos Aires
+2957,consumidor,Rafaela,Santa Fe
+4580,consumidor,Quilmes,Buenos Aires
+3123,consumidor,Palermo,CABA
+511,consumidor,Recoleta,CABA
+2245,consumidor,Morón,Buenos Aires
+4198,consumidor,Mendoza,Mendoza
+4377,consumidor,Tigre,Buenos Aires
+3309,consumidor,San Rafael,Mendoza
+3621,consumidor,Quilmes,Buenos Aires
+1395,consumidor,Belgrano,CABA
+302,consumidor,Palermo,CABA
+453,consumidor,Palermo,CABA
+4046,consumidor,Villa Ángela,Chaco
+4460,consumidor,Avellaneda,Buenos Aires
+4261,consumidor,Tigre,Buenos Aires
+4401,consumidor,Almagro,CABA
+1620,consumidor,Palermo,CABA
+4525,consumidor,Recoleta,CABA
+4149,consumidor,Córdoba,Córdoba
+112,consumidor,Almagro,CABA
+3788,consumidor,Morón,Buenos Aires
+3834,consumidor,Villa Carlos Paz,Córdoba
+3142,consumidor,Belgrano,CABA
+3960,consumidor,Belgrano,CABA
+282,consumidor,Morón,Buenos Aires
+1168,consumidor,Palermo,CABA
+1209,consumidor,Belgrano,CABA
+985,consumidor,Caballito,CABA
+659,consumidor,Morón,Buenos Aires
+410,consumidor,Tigre,Buenos Aires
+1271,consumidor,Recoleta,CABA
+688,consumidor,San Isidro,Buenos Aires
+258,consumidor,San Isidro,Buenos Aires
+1057,consumidor,Recoleta,CABA
+3414,consumidor,Palermo,CABA
+3231,consumidor,Caballito,CABA
+4052,consumidor,Morón,Buenos Aires
+4076,consumidor,Rosario,Santa Fe
+1247,consumidor,Tigre,Buenos Aires
+2452,consumidor,Almagro,CABA
+3967,consumidor,Caballito,CABA
+1294,consumidor,Villa María,Córdoba
+1519,consumidor,Quilmes,Buenos Aires
+3628,consumidor,Reconquista,Santa Fe
+3353,consumidor,Rosario,Santa Fe
+4395,consumidor,Almagro,CABA
+3060,consumidor,Belgrano,CABA
+1318,consumidor,Córdoba,Córdoba
+3974,consumidor,Tigre,Buenos Aires
+1559,consumidor,Palermo,CABA
+1454,consumidor,Salta,Salta
+833,consumidor,Tigre,Buenos Aires
+1770,consumidor,Córdoba,Córdoba
+1987,consumidor,Morón,Buenos Aires
+999,consumidor,Caballito,CABA
+3150,consumidor,Santa Fe,Santa Fe
+1507,consumidor,San Isidro,Buenos Aires
+4361,consumidor,San Rafael,Mendoza
+4536,consumidor,Villa María,Córdoba
+3166,consumidor,Cipolletti,Río Negro
+2400,consumidor,Tigre,Buenos Aires
+1509,consumidor,San Isidro,Buenos Aires
+1082,consumidor,San Salvador de Jujuy,Jujuy
+3768,consumidor,Santa Fe,Santa Fe
+1589,consumidor,Avellaneda,Buenos Aires
+481,consumidor,Recoleta,CABA
+4212,consumidor,Paraná,Entre Ríos
+4043,consumidor,Tigre,Buenos Aires
+2941,consumidor,Quilmes,Buenos Aires
+606,consumidor,Avellaneda,Buenos Aires
+2854,consumidor,Villa María,Córdoba
+4178,consumidor,San Isidro,Buenos Aires
+2570,consumidor,Río Cuarto,Córdoba
+3404,consumidor,Caballito,CABA
+4625,consumidor,Morón,Buenos Aires
+4690,consumidor,Recoleta,CABA
+1283,consumidor,Almagro,CABA
+3810,consumidor,Tigre,Buenos Aires
+3056,consumidor,Quilmes,Buenos Aires
+3905,consumidor,Recoleta,CABA
+2367,consumidor,Viedma,Río Negro
+3405,consumidor,Tigre,Buenos Aires
+2244,consumidor,Caballito,CABA
+663,consumidor,Belgrano,CABA
+3745,consumidor,San Martín de los Andes,Neuquén
+3431,consumidor,General Roca,Río Negro
+2226,consumidor,Almagro,CABA
+2961,consumidor,Caballito,CABA
+233,consumidor,Avellaneda,Buenos Aires
+2664,consumidor,Avellaneda,Buenos Aires
+118,consumidor,Recoleta,CABA
+574,consumidor,Rosario,Santa Fe
+4042,consumidor,Morón,Buenos Aires
+1277,consumidor,Morón,Buenos Aires
+409,consumidor,Quilmes,Buenos Aires
+3117,consumidor,Belgrano,CABA
+2176,consumidor,Sáenz Peña,Chaco
+4298,consumidor,Palermo,CABA
+2194,consumidor,Caballito,CABA
+2463,consumidor,Córdoba,Córdoba
+695,consumidor,Quilmes,Buenos Aires
+564,consumidor,Quilmes,Buenos Aires
+200,consumidor,Villa Ángela,Chaco
+1050,consumidor,Villa María,Córdoba
+1980,consumidor,San Salvador de Jujuy,Jujuy
+3065,consumidor,Rafaela,Santa Fe
+226,consumidor,Quilmes,Buenos Aires
+3586,consumidor,Almagro,CABA
+1106,consumidor,San Isidro,Buenos Aires
+367,consumidor,San Isidro,Buenos Aires
+890,consumidor,Rosario,Santa Fe
+3369,consumidor,Belgrano,CABA
+1543,consumidor,Belgrano,CABA
+560,consumidor,Quilmes,Buenos Aires
+2238,consumidor,Reconquista,Santa Fe
+3364,consumidor,Almagro,CABA
+1868,consumidor,San Isidro,Buenos Aires
+4759,consumidor,Avellaneda,Buenos Aires
+3471,consumidor,San Isidro,Buenos Aires
+2255,consumidor,San Miguel de Tucumán,Tucumán
+319,consumidor,Almagro,CABA
+1434,consumidor,Palermo,CABA
+1220,consumidor,San Isidro,Buenos Aires
+2843,consumidor,Avellaneda,Buenos Aires
+1828,consumidor,Guaymallén,Mendoza
+821,consumidor,Tigre,Buenos Aires
+584,consumidor,Tigre,Buenos Aires
+230,consumidor,Río Cuarto,Córdoba
+2776,consumidor,Tigre,Buenos Aires
+2523,consumidor,Godoy Cruz,Mendoza
+4582,consumidor,Belgrano,CABA
+2213,consumidor,Orán,Salta
+1006,consumidor,Almagro,CABA
+2829,consumidor,Palermo,CABA
+66,comercio,Almagro,CABA
+2775,consumidor,Recoleta,CABA
+757,consumidor,Quilmes,Buenos Aires
+3738,consumidor,Rosario,Santa Fe
+4322,consumidor,Libertador,Jujuy
+3028,consumidor,Villa Ángela,Chaco
+2153,consumidor,Almagro,CABA
+4533,consumidor,Avellaneda,Buenos Aires
+514,consumidor,Morón,Buenos Aires
+4594,consumidor,Caballito,CABA
+3616,consumidor,Morón,Buenos Aires
+4581,consumidor,San Rafael,Mendoza
+3312,consumidor,Villa María,Córdoba
+3125,consumidor,Palermo,CABA
+3340,consumidor,Santa Fe,Santa Fe
+4732,consumidor,Santa Fe,Santa Fe
+4003,consumidor,Almagro,CABA
+2894,consumidor,Río Cuarto,Córdoba
+4523,consumidor,Avellaneda,Buenos Aires
+1207,consumidor,Eldorado,Misiones
+738,consumidor,Caballito,CABA
+362,consumidor,Belgrano,CABA
+3392,consumidor,Quilmes,Buenos Aires
+1280,consumidor,Morón,Buenos Aires
+1140,consumidor,Tigre,Buenos Aires
+2236,consumidor,Tigre,Buenos Aires
+622,consumidor,Río Cuarto,Córdoba
+128,consumidor,Tigre,Buenos Aires
+1100,consumidor,Palpalá,Jujuy
+1636,consumidor,Caballito,CABA
+2926,consumidor,Avellaneda,Buenos Aires
+4281,consumidor,Almagro,CABA
+3424,consumidor,Avellaneda,Buenos Aires
+2204,consumidor,Avellaneda,Buenos Aires
+3674,consumidor,Morón,Buenos Aires
+4384,consumidor,Tigre,Buenos Aires
+2143,consumidor,Mendoza,Mendoza
+3122,consumidor,Almagro,CABA
+2859,consumidor,Avellaneda,Buenos Aires
+705,consumidor,San Rafael,Mendoza
+1364,consumidor,Godoy Cruz,Mendoza
+971,consumidor,Tigre,Buenos Aires
+3753,consumidor,Recoleta,CABA
+2395,consumidor,Caballito,CABA
+2242,consumidor,Tigre,Buenos Aires
+487,consumidor,Avellaneda,Buenos Aires
+1537,consumidor,Almagro,CABA
+3074,consumidor,Villa Carlos Paz,Córdoba
+432,consumidor,Villa María,Córdoba
+499,consumidor,Palermo,CABA
+1853,consumidor,Quilmes,Buenos Aires
+1734,consumidor,Caballito,CABA
+1549,consumidor,Reconquista,Santa Fe
+2293,consumidor,Córdoba,Córdoba
+626,consumidor,Rosario,Santa Fe
+3359,consumidor,Morón,Buenos Aires
+635,consumidor,Recoleta,CABA
+1291,consumidor,Quilmes,Buenos Aires
+1991,consumidor,Tigre,Buenos Aires
+1567,consumidor,Avellaneda,Buenos Aires
+2516,consumidor,Godoy Cruz,Mendoza
+613,consumidor,Almagro,CABA
+2554,consumidor,Palermo,CABA
+3087,consumidor,Palermo,CABA
+4626,consumidor,San Isidro,Buenos Aires
+4667,consumidor,Belgrano,CABA
+3410,consumidor,Quilmes,Buenos Aires
+3970,consumidor,Palermo,CABA
+783,consumidor,San Isidro,Buenos Aires
+3893,consumidor,Morón,Buenos Aires
+1423,consumidor,Palermo,CABA
+4329,consumidor,Quilmes,Buenos Aires
+1820,consumidor,Quilmes,Buenos Aires
+4075,consumidor,Avellaneda,Buenos Aires
+3776,consumidor,Belgrano,CABA
+4038,consumidor,Avellaneda,Buenos Aires
+742,consumidor,Morón,Buenos Aires
+468,consumidor,Quilmes,Buenos Aires
+1335,consumidor,Quilmes,Buenos Aires
+740,consumidor,Rosario,Santa Fe
+2683,consumidor,San Isidro,Buenos Aires
+2007,consumidor,Quilmes,Buenos Aires
+236,consumidor,Quilmes,Buenos Aires
+2317,consumidor,Reconquista,Santa Fe
+4521,consumidor,Villa Carlos Paz,Córdoba
+4504,consumidor,Palermo,CABA
+4707,consumidor,Almagro,CABA
+1570,consumidor,Palermo,CABA
+1698,consumidor,Recoleta,CABA
+2500,consumidor,Morón,Buenos Aires
+4171,consumidor,Caballito,CABA
+1783,consumidor,Quilmes,Buenos Aires
+1288,consumidor,Almagro,CABA
+2455,consumidor,Morón,Buenos Aires
+860,consumidor,San Isidro,Buenos Aires
+2801,consumidor,Palermo,CABA
+3877,consumidor,Recoleta,CABA
+2887,consumidor,Morón,Buenos Aires
+3508,consumidor,Recoleta,CABA
+3314,consumidor,Tigre,Buenos Aires
+2225,consumidor,Morón,Buenos Aires
+2904,consumidor,Quilmes,Buenos Aires
+1565,consumidor,Recoleta,CABA
+1182,consumidor,San Rafael,Mendoza
+376,consumidor,Paraná,Entre Ríos
+1188,consumidor,Recoleta,CABA
+1244,consumidor,Palermo,CABA
+1298,consumidor,Almagro,CABA
+2713,consumidor,Caballito,CABA
+508,consumidor,Belgrano,CABA
+3292,consumidor,Rosario,Santa Fe
+4481,consumidor,Quilmes,Buenos Aires
+2457,consumidor,Quilmes,Buenos Aires
+78,consumidor,Caballito,CABA
+11,comercio,Almagro,CABA
+3140,consumidor,Caballito,CABA
+1778,consumidor,Belgrano,CABA
+1914,consumidor,San Isidro,Buenos Aires
+3463,consumidor,Belgrano,CABA
+3680,consumidor,Mendoza,Mendoza
+1982,consumidor,Almagro,CABA
+2851,consumidor,San Isidro,Buenos Aires
+2686,consumidor,Belgrano,CABA
+440,consumidor,Santa Fe,Santa Fe
+2674,consumidor,Caballito,CABA
+3909,consumidor,Recoleta,CABA
+537,consumidor,Belgrano,CABA
+3749,consumidor,Almagro,CABA
+3704,consumidor,Avellaneda,Buenos Aires
+871,consumidor,Morón,Buenos Aires
+1371,consumidor,Avellaneda,Buenos Aires
+164,consumidor,Córdoba,Córdoba
+2638,consumidor,Quilmes,Buenos Aires
+4200,consumidor,Morón,Buenos Aires
+3690,consumidor,Caballito,CABA
+3751,consumidor,San Martín de los Andes,Neuquén
+1286,consumidor,Morón,Buenos Aires
+3029,consumidor,Caballito,CABA
+3665,consumidor,Quilmes,Buenos Aires
+2858,consumidor,Belgrano,CABA
+2962,consumidor,Morón,Buenos Aires
+1824,consumidor,Rafaela,Santa Fe
+2070,consumidor,Rosario,Santa Fe
+3071,consumidor,Quilmes,Buenos Aires
+2823,consumidor,Córdoba,Córdoba
+3515,consumidor,Tigre,Buenos Aires
+3635,consumidor,Caballito,CABA
+3334,consumidor,Tigre,Buenos Aires
+312,consumidor,Tigre,Buenos Aires
+3653,consumidor,Palermo,CABA
+4684,consumidor,Caballito,CABA
+4542,consumidor,Villa Carlos Paz,Córdoba
+2211,consumidor,Belgrano,CABA
+1588,consumidor,Villa Carlos Paz,Córdoba
+3734,consumidor,Rafaela,Santa Fe
+3226,consumidor,Villa María,Córdoba
+4389,consumidor,San Salvador de Jujuy,Jujuy
+2020,consumidor,Rafaela,Santa Fe
+3584,consumidor,Avellaneda,Buenos Aires
+3228,consumidor,Caballito,CABA
+3597,consumidor,San Isidro,Buenos Aires
+1039,consumidor,Caballito,CABA
+984,consumidor,Quilmes,Buenos Aires
+2569,consumidor,Tigre,Buenos Aires
+1630,consumidor,Río Cuarto,Córdoba
+1478,consumidor,Recoleta,CABA
+2744,consumidor,Córdoba,Córdoba
+3518,consumidor,Recoleta,CABA
+4760,consumidor,Morón,Buenos Aires
+2615,consumidor,Caballito,CABA
+3840,consumidor,Quilmes,Buenos Aires
+2103,consumidor,Concordia,Entre Ríos
+641,consumidor,Tigre,Buenos Aires
+1857,consumidor,Belgrano,CABA
+972,consumidor,Río Cuarto,Córdoba
+2193,consumidor,San Isidro,Buenos Aires
+3786,consumidor,Avellaneda,Buenos Aires
+65,comercio,Rosario,Santa Fe
+4538,consumidor,San Isidro,Buenos Aires
+2754,consumidor,Morón,Buenos Aires
+4702,consumidor,Tigre,Buenos Aires
+3278,consumidor,Tigre,Buenos Aires
+4430,consumidor,Tigre,Buenos Aires
+4343,consumidor,Recoleta,CABA
+3096,consumidor,Palermo,CABA
+3221,consumidor,Quilmes,Buenos Aires
+2711,consumidor,Tigre,Buenos Aires
+82,consumidor,Tartagal,Salta
+418,consumidor,Guaymallén,Mendoza
+232,consumidor,Córdoba,Córdoba
+2710,consumidor,Recoleta,CABA
+3021,consumidor,Tigre,Buenos Aires
+43,comercio,Almagro,CABA
+773,consumidor,Villa María,Córdoba
+4230,consumidor,Tartagal,Salta
+1826,consumidor,Palpalá,Jujuy
+4688,consumidor,Río Cuarto,Córdoba
+2780,consumidor,Avellaneda,Buenos Aires
+1472,consumidor,Avellaneda,Buenos Aires
+2374,consumidor,Rosario,Santa Fe
+4039,consumidor,San Isidro,Buenos Aires
+3331,consumidor,Avellaneda,Buenos Aires
+146,consumidor,Posadas,Misiones
+2272,consumidor,Quilmes,Buenos Aires
+1972,consumidor,Caballito,CABA
+1329,consumidor,Palermo,CABA
+2289,consumidor,Palermo,CABA
+1859,consumidor,Avellaneda,Buenos Aires
+3011,consumidor,Morón,Buenos Aires
+2337,consumidor,San Isidro,Buenos Aires
+839,consumidor,Resistencia,Chaco
+1024,consumidor,Almagro,CABA
+1965,consumidor,Resistencia,Chaco
+3807,consumidor,Avellaneda,Buenos Aires
+1632,consumidor,San Isidro,Buenos Aires
+611,consumidor,Quilmes,Buenos Aires
+1304,consumidor,Tigre,Buenos Aires
+932,consumidor,Tigre,Buenos Aires
+2132,consumidor,Morón,Buenos Aires
+381,consumidor,Quilmes,Buenos Aires
+2140,consumidor,Quilmes,Buenos Aires
+4115,consumidor,San Isidro,Buenos Aires
+3847,consumidor,San Isidro,Buenos Aires
+2529,consumidor,San Isidro,Buenos Aires
+3138,consumidor,Recoleta,CABA
+1542,consumidor,Tigre,Buenos Aires
+4664,consumidor,Córdoba,Córdoba
+1172,consumidor,Viedma,Río Negro
+680,consumidor,Rosario,Santa Fe
+1052,consumidor,Recoleta,CABA
+467,consumidor,Guaymallén,Mendoza
+550,consumidor,Palermo,CABA
+717,consumidor,Morón,Buenos Aires
+2049,consumidor,Eldorado,Misiones
+2312,consumidor,San Isidro,Buenos Aires
+4646,consumidor,Caballito,CABA
+1793,consumidor,Belgrano,CABA
+428,consumidor,Tigre,Buenos Aires
+1320,consumidor,Resistencia,Chaco
+3146,consumidor,San Isidro,Buenos Aires
+298,consumidor,Santa Fe,Santa Fe
+347,consumidor,Palermo,CABA
+18,comercio,Almagro,CABA
+3715,consumidor,Rosario,Santa Fe
+2652,consumidor,Morón,Buenos Aires
+1904,consumidor,Quilmes,Buenos Aires
+1436,consumidor,San Martín de los Andes,Neuquén
+3207,consumidor,San Isidro,Buenos Aires
+4462,consumidor,Tigre,Buenos Aires
+991,consumidor,Almagro,CABA
+1526,consumidor,Palermo,CABA
+288,consumidor,Rosario,Santa Fe
+1240,consumidor,Avellaneda,Buenos Aires
+269,consumidor,Caballito,CABA
+3201,consumidor,Caballito,CABA
+3851,consumidor,Eldorado,Misiones
+3042,consumidor,General Roca,Río Negro
+1391,consumidor,Almagro,CABA
+3532,consumidor,Avellaneda,Buenos Aires
+1675,consumidor,San Rafael,Mendoza
+255,consumidor,Rosario,Santa Fe
+1365,consumidor,Resistencia,Chaco
+1595,consumidor,San Isidro,Buenos Aires
+3709,consumidor,San Isidro,Buenos Aires
+206,consumidor,Quilmes,Buenos Aires
+1596,consumidor,Recoleta,CABA
+75,consumidor,Avellaneda,Buenos Aires
+3372,consumidor,Avellaneda,Buenos Aires
+379,consumidor,Palermo,CABA
+111,consumidor,Belgrano,CABA
+3477,consumidor,Paraná,Entre Ríos
+808,consumidor,Córdoba,Córdoba
+1499,consumidor,San Miguel de Tucumán,Tucumán
+1116,consumidor,Villa Carlos Paz,Córdoba
+3422,consumidor,Villa Ángela,Chaco
+1755,consumidor,Almagro,CABA
+682,consumidor,Recoleta,CABA
+4364,consumidor,Tigre,Buenos Aires
+303,consumidor,Almagro,CABA
+3213,consumidor,Belgrano,CABA
+1344,consumidor,Godoy Cruz,Mendoza
+2773,consumidor,Palermo,CABA
+4679,consumidor,Caballito,CABA
+3954,consumidor,Córdoba,Córdoba
+4548,consumidor,Morón,Buenos Aires
+3654,consumidor,Reconquista,Santa Fe
+4085,consumidor,Avellaneda,Buenos Aires
+2527,consumidor,San Isidro,Buenos Aires
+623,consumidor,Quilmes,Buenos Aires
+2837,consumidor,Palermo,CABA
+3969,consumidor,Morón,Buenos Aires
+2774,consumidor,Tigre,Buenos Aires
+1527,consumidor,Morón,Buenos Aires
+664,consumidor,Morón,Buenos Aires
+3450,consumidor,Oberá,Misiones
+449,consumidor,Almagro,CABA
+3268,consumidor,San Isidro,Buenos Aires
+1940,consumidor,Belgrano,CABA
+4208,consumidor,Morón,Buenos Aires
+3192,consumidor,Almagro,CABA
+176,consumidor,Quilmes,Buenos Aires
+1122,consumidor,Quilmes,Buenos Aires
+2508,consumidor,Quilmes,Buenos Aires
+2014,consumidor,Avellaneda,Buenos Aires
+1774,consumidor,Morón,Buenos Aires
+1269,consumidor,Resistencia,Chaco
+3676,consumidor,Avellaneda,Buenos Aires
+2306,consumidor,Almagro,CABA
+3832,consumidor,Godoy Cruz,Mendoza
+2727,consumidor,Tigre,Buenos Aires
+614,consumidor,Tigre,Buenos Aires
+873,consumidor,Almagro,CABA
+3583,consumidor,Morón,Buenos Aires
+2626,consumidor,Tigre,Buenos Aires
+311,consumidor,Recoleta,CABA
+1954,consumidor,Tigre,Buenos Aires
+1010,consumidor,Caballito,CABA
+3678,consumidor,Tigre,Buenos Aires
+2642,consumidor,Caballito,CABA
+3256,consumidor,Morón,Buenos Aires
+2981,consumidor,Avellaneda,Buenos Aires
+4435,consumidor,Río Cuarto,Córdoba
+3229,consumidor,Tigre,Buenos Aires
+535,consumidor,Río Cuarto,Córdoba
+489,consumidor,Río Cuarto,Córdoba
+949,consumidor,General Roca,Río Negro
+1003,consumidor,San Salvador de Jujuy,Jujuy
+3038,consumidor,Avellaneda,Buenos Aires
+4288,consumidor,Morón,Buenos Aires
+647,consumidor,Belgrano,CABA
+2740,consumidor,Sáenz Peña,Chaco
+1936,consumidor,San Isidro,Buenos Aires
+752,consumidor,Almagro,CABA
+909,consumidor,Palermo,CABA
+2034,consumidor,Rosario,Santa Fe
+446,consumidor,Avellaneda,Buenos Aires
+673,consumidor,Córdoba,Córdoba
+406,consumidor,Rosario,Santa Fe
+3017,consumidor,Palermo,CABA
+4497,consumidor,San Isidro,Buenos Aires
+270,consumidor,Morón,Buenos Aires
+3343,consumidor,Tigre,Buenos Aires
+3560,consumidor,Rafaela,Santa Fe
+4121,consumidor,Tigre,Buenos Aires
+934,consumidor,Morón,Buenos Aires
+3486,consumidor,Avellaneda,Buenos Aires
+1420,consumidor,Belgrano,CABA
+4112,consumidor,San Salvador de Jujuy,Jujuy
+1791,consumidor,San Isidro,Buenos Aires
+3940,consumidor,Belgrano,CABA
+4337,consumidor,Gualeguaychú,Entre Ríos
+2585,consumidor,Avellaneda,Buenos Aires
+1735,consumidor,Quilmes,Buenos Aires
+3650,consumidor,Quilmes,Buenos Aires
+2578,consumidor,Morón,Buenos Aires
+4731,consumidor,Tigre,Buenos Aires
+4463,consumidor,Caballito,CABA
+732,consumidor,Almagro,CABA
+300,consumidor,Quilmes,Buenos Aires
+1227,consumidor,Morón,Buenos Aires
+3962,consumidor,Tigre,Buenos Aires
+2753,consumidor,Recoleta,CABA
+3740,consumidor,Morón,Buenos Aires
+3035,consumidor,San Isidro,Buenos Aires
+3386,consumidor,Recoleta,CABA
+3625,consumidor,Quilmes,Buenos Aires
+1104,consumidor,Río Cuarto,Córdoba
+4190,consumidor,Quilmes,Buenos Aires
+4179,consumidor,Avellaneda,Buenos Aires
+3106,consumidor,Quilmes,Buenos Aires
+1809,consumidor,Reconquista,Santa Fe
+2836,consumidor,Palermo,CABA
+4472,consumidor,Salta,Salta
+4353,consumidor,Sáenz Peña,Chaco
+494,consumidor,Resistencia,Chaco
+630,consumidor,Recoleta,CABA
+2372,consumidor,Recoleta,CABA
+2900,consumidor,Avellaneda,Buenos Aires
+1500,consumidor,San Isidro,Buenos Aires
+3393,consumidor,Almagro,CABA
+3103,consumidor,Rafaela,Santa Fe
+4712,consumidor,Avellaneda,Buenos Aires
+279,consumidor,Almagro,CABA
+1426,consumidor,Almagro,CABA
+1707,consumidor,Recoleta,CABA
+2479,consumidor,Río Cuarto,Córdoba
+1167,consumidor,Palermo,CABA
+1491,consumidor,Almagro,CABA
+1945,consumidor,Morón,Buenos Aires
+3137,consumidor,Río Cuarto,Córdoba
+2942,consumidor,Avellaneda,Buenos Aires
+2739,consumidor,Recoleta,CABA
+1800,consumidor,Almagro,CABA
+1299,consumidor,Almagro,CABA
+2813,consumidor,Palermo,CABA
+2551,consumidor,Palermo,CABA
+1097,consumidor,Belgrano,CABA
+1264,consumidor,Belgrano,CABA
+2546,consumidor,Avellaneda,Buenos Aires
+4724,consumidor,San Isidro,Buenos Aires
+2560,consumidor,Santa Fe,Santa Fe
+3604,consumidor,Quilmes,Buenos Aires
+645,consumidor,Río Cuarto,Córdoba
+3482,consumidor,Tigre,Buenos Aires
+3158,consumidor,Morón,Buenos Aires
+2506,consumidor,Belgrano,CABA
+2845,consumidor,Morón,Buenos Aires
+1787,consumidor,Rafaela,Santa Fe
+1103,consumidor,Tigre,Buenos Aires
+2881,consumidor,Santa Fe,Santa Fe
+2433,consumidor,Avellaneda,Buenos Aires
+30,comercio,Almagro,CABA
+840,consumidor,Belgrano,CABA
+2223,consumidor,Almagro,CABA
+2065,consumidor,Gualeguaychú,Entre Ríos
+2015,consumidor,Belgrano,CABA
+3067,consumidor,Tigre,Buenos Aires
+3981,consumidor,Avellaneda,Buenos Aires
+1751,consumidor,Cipolletti,Río Negro
+3066,consumidor,Avellaneda,Buenos Aires
+238,consumidor,Recoleta,CABA
+272,consumidor,San Isidro,Buenos Aires
+605,consumidor,Almagro,CABA
+1769,consumidor,Neuquén,Neuquén
+1672,consumidor,Río Cuarto,Córdoba
+2437,consumidor,Avellaneda,Buenos Aires
+3675,consumidor,Recoleta,CABA
+2329,consumidor,Reconquista,Santa Fe
+4242,consumidor,Belgrano,CABA
+3610,consumidor,Rosario,Santa Fe
+2106,consumidor,Recoleta,CABA
+3593,consumidor,San Isidro,Buenos Aires
+2918,consumidor,Reconquista,Santa Fe
+2968,consumidor,San Isidro,Buenos Aires
+1983,consumidor,Quilmes,Buenos Aires
+754,consumidor,Caballito,CABA
+4528,consumidor,Almagro,CABA
+90,consumidor,Morón,Buenos Aires
+1213,consumidor,Avellaneda,Buenos Aires
+1290,consumidor,Tigre,Buenos Aires
+1789,consumidor,Tigre,Buenos Aires
+4234,consumidor,San Rafael,Mendoza
+1219,consumidor,Quilmes,Buenos Aires
+3180,consumidor,Morón,Buenos Aires
+4148,consumidor,Quilmes,Buenos Aires
+1650,consumidor,Tigre,Buenos Aires
+3186,consumidor,Avellaneda,Buenos Aires
+1073,consumidor,Almagro,CABA
+1692,consumidor,Palermo,CABA
+3545,consumidor,Palermo,CABA
+2078,consumidor,Godoy Cruz,Mendoza
+532,consumidor,Avellaneda,Buenos Aires
+4544,consumidor,Godoy Cruz,Mendoza
+1415,consumidor,Quilmes,Buenos Aires
+150,consumidor,Villa Carlos Paz,Córdoba
+1843,consumidor,Belgrano,CABA
+1530,consumidor,Morón,Buenos Aires
+1719,consumidor,Tigre,Buenos Aires
+3280,consumidor,Belgrano,CABA
+492,consumidor,San Salvador de Jujuy,Jujuy
+4598,consumidor,Almagro,CABA
+996,consumidor,San Isidro,Buenos Aires
+214,consumidor,Quilmes,Buenos Aires
+294,consumidor,Belgrano,CABA
+4584,consumidor,Quilmes,Buenos Aires
+1926,consumidor,Palermo,CABA
+3289,consumidor,Morón,Buenos Aires
+2022,consumidor,Quilmes,Buenos Aires
+899,consumidor,Avellaneda,Buenos Aires
+3411,consumidor,Quilmes,Buenos Aires
+2897,consumidor,Morón,Buenos Aires
+516,consumidor,Almagro,CABA
+2224,consumidor,Avellaneda,Buenos Aires
+507,consumidor,Villa María,Córdoba
+26,comercio,Morón,Buenos Aires
+721,consumidor,Mendoza,Mendoza
+3920,consumidor,Palermo,CABA
+1849,consumidor,Morón,Buenos Aires
+3552,consumidor,San Isidro,Buenos Aires
+5,comercio,Recoleta,CABA
+3019,consumidor,Rosario,Santa Fe
+2616,consumidor,Villa Carlos Paz,Córdoba
+1119,consumidor,Palermo,CABA
+927,consumidor,Avellaneda,Buenos Aires
+4139,consumidor,Tigre,Buenos Aires
+2689,consumidor,Córdoba,Córdoba
+583,consumidor,Avellaneda,Buenos Aires
+1808,consumidor,San Isidro,Buenos Aires
+3470,consumidor,San Isidro,Buenos Aires
+2006,consumidor,Mendoza,Mendoza
+3762,consumidor,Almagro,CABA
+109,consumidor,Tigre,Buenos Aires
+3792,consumidor,Tigre,Buenos Aires
+3533,consumidor,Tafí Viejo,Tucumán
+4331,consumidor,Palpalá,Jujuy
+3761,consumidor,Almagro,CABA
+1333,consumidor,Avellaneda,Buenos Aires
+327,consumidor,San Isidro,Buenos Aires
+31,comercio,Morón,Buenos Aires
+928,consumidor,Recoleta,CABA
+127,consumidor,Rafaela,Santa Fe
+2052,consumidor,Palermo,CABA
+898,consumidor,Río Cuarto,Córdoba
+2086,consumidor,Godoy Cruz,Mendoza
+3259,consumidor,Salta,Salta
+1578,consumidor,Almagro,CABA
+2581,consumidor,Tigre,Buenos Aires
+3024,consumidor,Tigre,Buenos Aires
+4073,consumidor,Rosario,Santa Fe
+239,consumidor,Recoleta,CABA
+534,consumidor,Tigre,Buenos Aires
+531,consumidor,Caballito,CABA
+1017,consumidor,Avellaneda,Buenos Aires
+1997,consumidor,Avellaneda,Buenos Aires
+2107,consumidor,San Isidro,Buenos Aires
+3322,consumidor,Palermo,CABA
+1885,consumidor,Guaymallén,Mendoza
+2432,consumidor,San Miguel de Tucumán,Tucumán
+1852,consumidor,San Rafael,Mendoza
+2748,consumidor,Cipolletti,Río Negro
+4630,consumidor,Almagro,CABA
+935,consumidor,Villa María,Córdoba
+4097,consumidor,Reconquista,Santa Fe
+4433,consumidor,Resistencia,Chaco
+1599,consumidor,Belgrano,CABA
+593,consumidor,Recoleta,CABA
+2406,consumidor,Quilmes,Buenos Aires
+959,consumidor,Recoleta,CABA
+2090,consumidor,Recoleta,CABA
+586,consumidor,Tafí Viejo,Tucumán
+1779,consumidor,Viedma,Río Negro
+3355,consumidor,Belgrano,CABA
+389,consumidor,Caballito,CABA
+37,comercio,Santa Fe,Santa Fe
+2187,consumidor,Quilmes,Buenos Aires
+2123,consumidor,Recoleta,CABA
+720,consumidor,Morón,Buenos Aires
+1099,consumidor,Almagro,CABA
+3157,consumidor,Almagro,CABA
+4187,consumidor,Villa Carlos Paz,Córdoba
+2170,consumidor,San Isidro,Buenos Aires
+1332,consumidor,San Isidro,Buenos Aires
+3313,consumidor,Avellaneda,Buenos Aires
+2935,consumidor,Tigre,Buenos Aires
+3223,consumidor,Avellaneda,Buenos Aires
+3873,consumidor,Quilmes,Buenos Aires
+422,consumidor,Morón,Buenos Aires
+3794,consumidor,Morón,Buenos Aires
+1625,consumidor,Quilmes,Buenos Aires
+2976,consumidor,Tigre,Buenos Aires
+3064,consumidor,Río Cuarto,Córdoba
+3845,consumidor,Palermo,CABA
+1249,consumidor,Avellaneda,Buenos Aires
+1441,consumidor,Tigre,Buenos Aires
+3612,consumidor,Paraná,Entre Ríos
+1839,consumidor,Villa Carlos Paz,Córdoba
+1251,consumidor,Concordia,Entre Ríos
+2879,consumidor,Córdoba,Córdoba
+2451,consumidor,Oberá,Misiones
+3438,consumidor,Morón,Buenos Aires
+3054,consumidor,Recoleta,CABA
+551,consumidor,Recoleta,CABA
+4365,consumidor,Mendoza,Mendoza
+1232,consumidor,Recoleta,CABA
+3914,consumidor,Tigre,Buenos Aires
+4044,consumidor,San Rafael,Mendoza
+1086,consumidor,Quilmes,Buenos Aires
+4452,consumidor,Morón,Buenos Aires
+2167,consumidor,Avellaneda,Buenos Aires
+2510,consumidor,Yerba Buena,Tucumán
+2934,consumidor,Tigre,Buenos Aires
+1776,consumidor,San Isidro,Buenos Aires
+2722,consumidor,Avellaneda,Buenos Aires
+330,consumidor,Quilmes,Buenos Aires
+4185,consumidor,Morón,Buenos Aires
+1538,consumidor,Villa María,Córdoba
+3495,consumidor,Almagro,CABA
+741,consumidor,Almagro,CABA
+1777,consumidor,Recoleta,CABA
+810,consumidor,Belgrano,CABA
+1643,consumidor,Palermo,CABA
+4035,consumidor,Rosario,Santa Fe
+3897,consumidor,Reconquista,Santa Fe
+1864,consumidor,Quilmes,Buenos Aires
+2708,consumidor,Rosario,Santa Fe
+402,consumidor,Morón,Buenos Aires
+177,consumidor,Palermo,CABA
+2428,consumidor,Reconquista,Santa Fe
+1402,consumidor,Recoleta,CABA
+987,consumidor,Caballito,CABA
+1025,consumidor,Avellaneda,Buenos Aires
+2694,consumidor,Villa Ángela,Chaco
+3645,consumidor,Morón,Buenos Aires
+4022,consumidor,Belgrano,CABA
+1309,consumidor,Recoleta,CABA
+2545,consumidor,Villa Carlos Paz,Córdoba
+2549,consumidor,Villa Carlos Paz,Córdoba
+4414,consumidor,Belgrano,CABA
+2771,consumidor,Villa María,Córdoba
+1581,consumidor,Morón,Buenos Aires
+2571,consumidor,Morón,Buenos Aires
+3307,consumidor,Paraná,Entre Ríos
+3973,consumidor,San Isidro,Buenos Aires
+1514,consumidor,Quilmes,Buenos Aires
+931,consumidor,Caballito,CABA
+2849,consumidor,Caballito,CABA
+2877,consumidor,Avellaneda,Buenos Aires
+1361,consumidor,Recoleta,CABA
+2796,consumidor,Río Cuarto,Córdoba
+1606,consumidor,Belgrano,CABA
+2214,consumidor,Avellaneda,Buenos Aires
+1767,consumidor,Tigre,Buenos Aires
+1409,consumidor,Recoleta,CABA
+188,consumidor,Rafaela,Santa Fe
+1511,consumidor,Palermo,CABA
+2330,consumidor,Palermo,CABA
+4250,consumidor,San Salvador de Jujuy,Jujuy
+587,consumidor,San Isidro,Buenos Aires
+4320,consumidor,Tigre,Buenos Aires
+3656,consumidor,Tigre,Buenos Aires
+2495,consumidor,Quilmes,Buenos Aires
+4,comercio,Belgrano,CABA
+1176,consumidor,Caballito,CABA
+2023,consumidor,Belgrano,CABA
+1418,consumidor,San Isidro,Buenos Aires
+1223,consumidor,Reconquista,Santa Fe
+1768,consumidor,San Isidro,Buenos Aires
+3615,consumidor,Tigre,Buenos Aires
+797,consumidor,San Isidro,Buenos Aires
+430,consumidor,Villa María,Córdoba
+4742,consumidor,Morón,Buenos Aires
+4450,consumidor,Almagro,CABA
+4593,consumidor,Caballito,CABA
+1503,consumidor,Avellaneda,Buenos Aires
+774,consumidor,Reconquista,Santa Fe
+1252,consumidor,Tafí Viejo,Tucumán
+3523,consumidor,San Isidro,Buenos Aires
+2670,consumidor,Tigre,Buenos Aires
+1726,consumidor,Avellaneda,Buenos Aires
+1070,consumidor,Rosario,Santa Fe
+1368,consumidor,Palpalá,Jujuy
+3400,consumidor,Santa Fe,Santa Fe
+1107,consumidor,Palpalá,Jujuy
+853,consumidor,Belgrano,CABA
+281,consumidor,Río Cuarto,Córdoba
+2157,consumidor,San Isidro,Buenos Aires
+1255,consumidor,Río Cuarto,Córdoba
+1555,consumidor,Villa María,Córdoba
+4494,consumidor,Quilmes,Buenos Aires
+3906,consumidor,Córdoba,Córdoba
+3202,consumidor,Morón,Buenos Aires
+3055,consumidor,Avellaneda,Buenos Aires
+1771,consumidor,Rafaela,Santa Fe
+329,consumidor,Palermo,CABA
+2206,consumidor,San Isidro,Buenos Aires
+3926,consumidor,Avellaneda,Buenos Aires
+2480,consumidor,Tigre,Buenos Aires
+1370,consumidor,Villa María,Córdoba
+2112,consumidor,Palermo,CABA
+2104,consumidor,Córdoba,Córdoba
+3030,consumidor,Caballito,CABA
+2770,consumidor,Palermo,CABA
+4080,consumidor,Tigre,Buenos Aires
+3049,consumidor,Recoleta,CABA
+624,consumidor,Córdoba,Córdoba
+3667,consumidor,Río Cuarto,Córdoba
+1992,consumidor,Belgrano,CABA
+2382,consumidor,Palermo,CABA
+2385,consumidor,Palermo,CABA
+1952,consumidor,Palermo,CABA
+2483,consumidor,Belgrano,CABA
+3548,consumidor,Almagro,CABA
+3752,consumidor,Palermo,CABA
+2497,consumidor,Tigre,Buenos Aires
+2108,consumidor,Morón,Buenos Aires
+3864,consumidor,San Isidro,Buenos Aires
+3399,consumidor,Quilmes,Buenos Aires
+3156,consumidor,Avellaneda,Buenos Aires
+3130,consumidor,Sáenz Peña,Chaco
+3081,consumidor,Rosario,Santa Fe
+730,consumidor,Reconquista,Santa Fe
+3985,consumidor,Almagro,CABA
+672,consumidor,Quilmes,Buenos Aires
+2838,consumidor,Avellaneda,Buenos Aires
+1215,consumidor,Recoleta,CABA
+1353,consumidor,Palermo,CABA
+3727,consumidor,Palermo,CABA
+2750,consumidor,Villa Carlos Paz,Córdoba
+3724,consumidor,San Rafael,Mendoza
+2863,consumidor,Guaymallén,Mendoza
+3108,consumidor,Paraná,Entre Ríos
+2466,consumidor,San Isidro,Buenos Aires
+4078,consumidor,Belgrano,CABA
+2024,consumidor,Morón,Buenos Aires
+1695,consumidor,Almagro,CABA
+3963,consumidor,San Isidro,Buenos Aires
+538,consumidor,Palermo,CABA
+4682,consumidor,Avellaneda,Buenos Aires
+3209,consumidor,Caballito,CABA
+2622,consumidor,San Rafael,Mendoza
+2898,consumidor,Almagro,CABA
+1132,consumidor,Tigre,Buenos Aires
+506,consumidor,Tigre,Buenos Aires
+178,consumidor,Rafaela,Santa Fe
+3972,consumidor,Almagro,CABA
+3216,consumidor,Almagro,CABA
+2414,consumidor,Belgrano,CABA
+4302,consumidor,Avellaneda,Buenos Aires
+4057,consumidor,Almagro,CABA
+122,consumidor,Palermo,CABA
+3876,consumidor,Palermo,CABA
+1878,consumidor,San Miguel de Tucumán,Tucumán
+3961,consumidor,Guaymallén,Mendoza
+826,consumidor,Tigre,Buenos Aires
+1865,consumidor,Rafaela,Santa Fe
+2080,consumidor,Almagro,CABA
+394,consumidor,Belgrano,CABA
+596,consumidor,Guaymallén,Mendoza
+4005,consumidor,San Rafael,Mendoza
+2342,consumidor,Río Cuarto,Córdoba
+771,consumidor,Río Cuarto,Córdoba
+1373,consumidor,Rafaela,Santa Fe
+4465,consumidor,Quilmes,Buenos Aires
+709,consumidor,San Isidro,Buenos Aires
+2951,consumidor,Quilmes,Buenos Aires
+321,consumidor,Caballito,CABA
+2253,consumidor,Palermo,CABA
+1958,consumidor,San Isidro,Buenos Aires
+4060,consumidor,Morón,Buenos Aires
+3741,consumidor,Palermo,CABA
+157,consumidor,Tigre,Buenos Aires
+3868,consumidor,Belgrano,CABA
+4693,consumidor,Tigre,Buenos Aires
+2097,consumidor,Palermo,CABA
+576,consumidor,San Isidro,Buenos Aires
+1699,consumidor,Almagro,CABA
+1393,consumidor,Caballito,CABA
+2415,consumidor,San Rafael,Mendoza
+3551,consumidor,San Isidro,Buenos Aires
+1115,consumidor,Neuquén,Neuquén
+2944,consumidor,Palermo,CABA
+2418,consumidor,San Isidro,Buenos Aires
+4382,consumidor,Tigre,Buenos Aires
+2115,consumidor,Quilmes,Buenos Aires
+407,consumidor,Godoy Cruz,Mendoza
+3076,consumidor,Belgrano,CABA
+3304,consumidor,Río Cuarto,Córdoba
+3958,consumidor,Almagro,CABA
+763,consumidor,Morón,Buenos Aires
+3891,consumidor,Recoleta,CABA
+1284,consumidor,Recoleta,CABA
+3717,consumidor,Quilmes,Buenos Aires
+3211,consumidor,Palermo,CABA
+4439,consumidor,Recoleta,CABA
+4519,consumidor,Avellaneda,Buenos Aires
+3084,consumidor,San Isidro,Buenos Aires
+4294,consumidor,Palermo,CABA
+751,consumidor,Belgrano,CABA
+1308,consumidor,Palermo,CABA
+1311,consumidor,San Isidro,Buenos Aires
+4728,consumidor,Caballito,CABA
+1479,consumidor,Recoleta,CABA
+4480,consumidor,Almagro,CABA
+837,consumidor,Recoleta,CABA
+3265,consumidor,Godoy Cruz,Mendoza
+3754,consumidor,Palermo,CABA
+98,consumidor,Rafaela,Santa Fe
+2069,consumidor,Quilmes,Buenos Aires
+1231,consumidor,San Isidro,Buenos Aires
+2960,consumidor,San Isidro,Buenos Aires
+3932,consumidor,Quilmes,Buenos Aires
+792,consumidor,Recoleta,CABA
+1110,consumidor,Avellaneda,Buenos Aires
+4552,consumidor,Yerba Buena,Tucumán
+2885,consumidor,Recoleta,CABA
+1198,consumidor,Belgrano,CABA
+4059,consumidor,Morón,Buenos Aires
+723,consumidor,San Isidro,Buenos Aires
+1451,consumidor,Reconquista,Santa Fe
+4725,consumidor,Reconquista,Santa Fe
+3598,consumidor,Recoleta,CABA
+1275,consumidor,Caballito,CABA
+280,consumidor,Recoleta,CABA
+3585,consumidor,Caballito,CABA
+3852,consumidor,Tigre,Buenos Aires
+1305,consumidor,Mendoza,Mendoza
+1973,consumidor,San Salvador de Jujuy,Jujuy
+807,consumidor,Recoleta,CABA
+4282,consumidor,San Isidro,Buenos Aires
+1125,consumidor,Recoleta,CABA
+2376,consumidor,Río Cuarto,Córdoba
+401,consumidor,Almagro,CABA
+1772,consumidor,Villa María,Córdoba
+1701,consumidor,Córdoba,Córdoba
+4248,consumidor,Morón,Buenos Aires
+211,consumidor,Caballito,CABA
+483,consumidor,Santa Fe,Santa Fe
+4180,consumidor,Palermo,CABA
+3949,consumidor,San Isidro,Buenos Aires
+1944,consumidor,San Isidro,Buenos Aires
+3466,consumidor,Recoleta,CABA
+2164,consumidor,Belgrano,CABA
+1141,consumidor,Palermo,CABA
+3879,consumidor,Avellaneda,Buenos Aires
+1732,consumidor,Guaymallén,Mendoza
+3596,consumidor,Tigre,Buenos Aires
+4153,consumidor,Palermo,CABA
+2161,consumidor,Belgrano,CABA
+2409,consumidor,Avellaneda,Buenos Aires
+3881,consumidor,Morón,Buenos Aires
+368,consumidor,Rosario,Santa Fe
+4549,consumidor,Tigre,Buenos Aires
+3821,consumidor,Belgrano,CABA
+3994,consumidor,Quilmes,Buenos Aires
+1064,consumidor,Tigre,Buenos Aires
+424,consumidor,San Rafael,Mendoza
+4589,consumidor,Rosario,Santa Fe
+2842,consumidor,Caballito,CABA
+4224,consumidor,Tigre,Buenos Aires
+3512,consumidor,San Salvador de Jujuy,Jujuy
+324,consumidor,Tigre,Buenos Aires
+1175,consumidor,Rafaela,Santa Fe
+2343,consumidor,Morón,Buenos Aires
+243,consumidor,Córdoba,Córdoba
+1819,consumidor,Quilmes,Buenos Aires
+992,consumidor,Rosario,Santa Fe
+2815,consumidor,Avellaneda,Buenos Aires
+1166,consumidor,Belgrano,CABA
+2278,consumidor,Avellaneda,Buenos Aires
+2031,consumidor,San Isidro,Buenos Aires
+3505,consumidor,Villa María,Córdoba
+4459,consumidor,Caballito,CABA
+2487,consumidor,Palermo,CABA
+1541,consumidor,Viedma,Río Negro
+2726,consumidor,Rafaela,Santa Fe
+3189,consumidor,San Martín de los Andes,Neuquén
+1263,consumidor,Villa Carlos Paz,Córdoba
+3519,consumidor,Yerba Buena,Tucumán
+981,consumidor,Caballito,CABA
+4614,consumidor,Quilmes,Buenos Aires
+907,consumidor,San Isidro,Buenos Aires
+1614,consumidor,San Isidro,Buenos Aires
+3224,consumidor,Morón,Buenos Aires
+1673,consumidor,San Isidro,Buenos Aires
+4202,consumidor,Morón,Buenos Aires
+4596,consumidor,San Isidro,Buenos Aires
+2162,consumidor,Quilmes,Buenos Aires
+433,consumidor,Recoleta,CABA
+1340,consumidor,Almagro,CABA
+1512,consumidor,Rafaela,Santa Fe
+3126,consumidor,Mendoza,Mendoza
+4748,consumidor,Palpalá,Jujuy
+4280,consumidor,San Isidro,Buenos Aires
+4055,consumidor,Rosario,Santa Fe
+2274,consumidor,Belgrano,CABA
+2524,consumidor,Villa María,Córdoba
+2148,consumidor,Caballito,CABA
+526,consumidor,San Isidro,Buenos Aires
+4511,consumidor,Morón,Buenos Aires
+3950,consumidor,Quilmes,Buenos Aires
+2241,consumidor,San Isidro,Buenos Aires
+4335,consumidor,Recoleta,CABA
+3541,consumidor,Quilmes,Buenos Aires
+1468,consumidor,Villa María,Córdoba
+3620,consumidor,Villa María,Córdoba
+3261,consumidor,San Isidro,Buenos Aires
+2937,consumidor,Palermo,CABA
+3367,consumidor,Almagro,CABA
+1545,consumidor,Quilmes,Buenos Aires
+120,consumidor,San Rafael,Mendoza
+3701,consumidor,Avellaneda,Buenos Aires
+1925,consumidor,Rosario,Santa Fe
+1401,consumidor,Palermo,CABA
+1414,consumidor,Reconquista,Santa Fe
+4478,consumidor,Tigre,Buenos Aires
+2749,consumidor,Avellaneda,Buenos Aires
+2166,consumidor,Avellaneda,Buenos Aires
+4268,consumidor,Mendoza,Mendoza
+1611,consumidor,Recoleta,CABA
+4726,consumidor,Villa María,Córdoba
+973,consumidor,Cipolletti,Río Negro
+1267,consumidor,Caballito,CABA
+1387,consumidor,Godoy Cruz,Mendoza
+2180,consumidor,Recoleta,CABA
+4074,consumidor,Gualeguaychú,Entre Ríos
+1366,consumidor,Recoleta,CABA
+2650,consumidor,Belgrano,CABA
+34,comercio,Villa María,Córdoba
+2755,consumidor,Reconquista,Santa Fe
+816,consumidor,Morón,Buenos Aires
+1048,consumidor,Godoy Cruz,Mendoza
+4263,consumidor,Quilmes,Buenos Aires
+1754,consumidor,Recoleta,CABA
+2207,consumidor,Caballito,CABA
+1627,consumidor,Avellaneda,Buenos Aires
+3026,consumidor,San Isidro,Buenos Aires
+3345,consumidor,Recoleta,CABA
+1760,consumidor,Rosario,Santa Fe
+866,consumidor,Almagro,CABA
+1153,consumidor,Morón,Buenos Aires
+1089,consumidor,Santa Fe,Santa Fe
+1180,consumidor,San Isidro,Buenos Aires
+3001,consumidor,Morón,Buenos Aires
+3808,consumidor,San Isidro,Buenos Aires
+2841,consumidor,Morón,Buenos Aires
+2639,consumidor,Rosario,Santa Fe
+848,consumidor,Morón,Buenos Aires
+2872,consumidor,Morón,Buenos Aires
+2736,consumidor,San Isidro,Buenos Aires
+2442,consumidor,Morón,Buenos Aires
+548,consumidor,Morón,Buenos Aires
+2110,consumidor,Palermo,CABA
+4755,consumidor,Tigre,Buenos Aires
+2279,consumidor,Morón,Buenos Aires
+3824,consumidor,Almagro,CABA
+782,consumidor,Morón,Buenos Aires
+2435,consumidor,San Isidro,Buenos Aires
+2910,consumidor,Morón,Buenos Aires
+2987,consumidor,Almagro,CABA
+2991,consumidor,Palermo,CABA
+1742,consumidor,Quilmes,Buenos Aires
+4419,consumidor,Oberá,Misiones
+2677,consumidor,Tafí Viejo,Tucumán
+3129,consumidor,Reconquista,Santa Fe
+684,consumidor,Recoleta,CABA
+557,consumidor,Caballito,CABA
+3990,consumidor,Belgrano,CABA
+2577,consumidor,Palermo,CABA
+958,consumidor,Villa Ángela,Chaco
+1177,consumidor,Belgrano,CABA
+1956,consumidor,Morón,Buenos Aires
+504,consumidor,Avellaneda,Buenos Aires
+249,consumidor,Belgrano,CABA
+4550,consumidor,Avellaneda,Buenos Aires
+1906,consumidor,General Roca,Río Negro
+1355,consumidor,Recoleta,CABA
+872,consumidor,Belgrano,CABA
+1456,consumidor,Morón,Buenos Aires
+1550,consumidor,Tigre,Buenos Aires
+140,consumidor,Avellaneda,Buenos Aires
+1022,consumidor,Rosario,Santa Fe
+3286,consumidor,San Isidro,Buenos Aires
+1015,consumidor,Viedma,Río Negro
+3323,consumidor,San Isidro,Buenos Aires
+895,consumidor,Guaymallén,Mendoza
+2313,consumidor,Quilmes,Buenos Aires
+2701,consumidor,Posadas,Misiones
+1850,consumidor,Caballito,CABA
+3627,consumidor,Caballito,CABA
+575,consumidor,Tafí Viejo,Tucumán
+1810,consumidor,Almagro,CABA
+3743,consumidor,Quilmes,Buenos Aires
+3501,consumidor,Santa Fe,Santa Fe
+1682,consumidor,Avellaneda,Buenos Aires
+3089,consumidor,Caballito,CABA
+4356,consumidor,Rosario,Santa Fe
+3570,consumidor,Quilmes,Buenos Aires
+3425,consumidor,Tigre,Buenos Aires
+4203,consumidor,Tigre,Buenos Aires
+4486,consumidor,Viedma,Río Negro
+1613,consumidor,Santa Fe,Santa Fe
+3895,consumidor,Avellaneda,Buenos Aires
+1905,consumidor,Recoleta,CABA
+1709,consumidor,Río Cuarto,Córdoba
+4577,consumidor,Avellaneda,Buenos Aires
+2501,consumidor,Mendoza,Mendoza
+3524,consumidor,Morón,Buenos Aires
+2011,consumidor,Avellaneda,Buenos Aires
+2629,consumidor,Belgrano,CABA
+1354,consumidor,Belgrano,CABA
+3910,consumidor,Recoleta,CABA
+4638,consumidor,Avellaneda,Buenos Aires
+2584,consumidor,Avellaneda,Buenos Aires
+3198,consumidor,Caballito,CABA
+3408,consumidor,Avellaneda,Buenos Aires
+2088,consumidor,Quilmes,Buenos Aires
+2381,consumidor,Avellaneda,Buenos Aires
+882,consumidor,Villa María,Córdoba
+1686,consumidor,Morón,Buenos Aires
+2733,consumidor,San Isidro,Buenos Aires
+4586,consumidor,Caballito,CABA
+2977,consumidor,Morón,Buenos Aires
+597,consumidor,Avellaneda,Buenos Aires
+1260,consumidor,Morón,Buenos Aires
+2297,consumidor,Almagro,CABA
+27,comercio,Recoleta,CABA
+1178,consumidor,Caballito,CABA
+1404,consumidor,San Isidro,Buenos Aires
+1072,consumidor,Rafaela,Santa Fe
+748,consumidor,Almagro,CABA
+2027,consumidor,Villa Carlos Paz,Córdoba
+2040,consumidor,Recoleta,CABA
+130,consumidor,Tigre,Buenos Aires
+94,consumidor,Almagro,CABA
+3937,consumidor,Belgrano,CABA
+2756,consumidor,San Isidro,Buenos Aires
+1840,consumidor,Morón,Buenos Aires
+1169,consumidor,San Rafael,Mendoza
+1551,consumidor,Caballito,CABA
+4347,consumidor,Quilmes,Buenos Aires
+1523,consumidor,Quilmes,Buenos Aires
+2082,consumidor,San Isidro,Buenos Aires
+244,consumidor,Santa Fe,Santa Fe
+4008,consumidor,San Isidro,Buenos Aires
+1892,consumidor,Belgrano,CABA
+3118,consumidor,Caballito,CABA
+3215,consumidor,Almagro,CABA
+4225,consumidor,Tigre,Buenos Aires
+193,consumidor,Almagro,CABA
+1607,consumidor,Recoleta,CABA
+2247,consumidor,Almagro,CABA
+4396,consumidor,Recoleta,CABA
+1749,consumidor,Palermo,CABA
+1644,consumidor,Tartagal,Salta
+4352,consumidor,Recoleta,CABA
+3271,consumidor,San Isidro,Buenos Aires
+1149,consumidor,Río Cuarto,Córdoba
+305,consumidor,Villa Carlos Paz,Córdoba
+4713,consumidor,Libertador,Jujuy
+3623,consumidor,Belgrano,CABA
+1605,consumidor,Belgrano,CABA
+1803,consumidor,Quilmes,Buenos Aires
+2129,consumidor,Quilmes,Buenos Aires
+2470,consumidor,Caballito,CABA
+2747,consumidor,San Isidro,Buenos Aires
+357,consumidor,Almagro,CABA
+3370,consumidor,Morón,Buenos Aires
+1976,consumidor,Almagro,CABA
+2454,consumidor,Morón,Buenos Aires
+317,consumidor,Avellaneda,Buenos Aires
+1536,consumidor,Quilmes,Buenos Aires
+2295,consumidor,Morón,Buenos Aires
+2806,consumidor,Tigre,Buenos Aires
+4468,consumidor,Villa Carlos Paz,Córdoba
+870,consumidor,Orán,Salta
+343,consumidor,Almagro,CABA
+1205,consumidor,Tigre,Buenos Aires
+221,consumidor,Quilmes,Buenos Aires
+929,consumidor,Mendoza,Mendoza
+3652,consumidor,Avellaneda,Buenos Aires
+2391,consumidor,Morón,Buenos Aires
+3933,consumidor,San Isidro,Buenos Aires
+1490,consumidor,Avellaneda,Buenos Aires
+3797,consumidor,Almagro,CABA
+3113,consumidor,Palermo,CABA
+2038,consumidor,Tigre,Buenos Aires
+1429,consumidor,Reconquista,Santa Fe
+2195,consumidor,Quilmes,Buenos Aires
+3899,consumidor,Rafaela,Santa Fe
+637,consumidor,Santa Fe,Santa Fe
+3986,consumidor,Caballito,CABA
+1245,consumidor,Morón,Buenos Aires
+893,consumidor,Morón,Buenos Aires
+475,consumidor,Avellaneda,Buenos Aires
+2484,consumidor,Villa Ángela,Chaco
+1657,consumidor,Palermo,CABA
+4199,consumidor,Río Cuarto,Córdoba
+4272,consumidor,Recoleta,CABA
+3766,consumidor,Caballito,CABA
+4574,consumidor,Quilmes,Buenos Aires
+2188,consumidor,Reconquista,Santa Fe
+2656,consumidor,Palermo,CABA
+2379,consumidor,San Isidro,Buenos Aires
+1943,consumidor,Quilmes,Buenos Aires
+469,consumidor,Tigre,Buenos Aires
+3581,consumidor,Morón,Buenos Aires
+332,consumidor,Quilmes,Buenos Aires
+2371,consumidor,San Isidro,Buenos Aires
+920,consumidor,Caballito,CABA
+3406,consumidor,Rafaela,Santa Fe
+2347,consumidor,Quilmes,Buenos Aires
+2413,consumidor,Libertador,Jujuy
+64,comercio,Tigre,Buenos Aires
+4717,consumidor,Almagro,CABA
+1336,consumidor,Palermo,CABA
+3388,consumidor,Morón,Buenos Aires
+2707,consumidor,Río Cuarto,Córdoba
+2050,consumidor,Rosario,Santa Fe
+1413,consumidor,Rosario,Santa Fe
+3760,consumidor,Morón,Buenos Aires
+4568,consumidor,Santa Fe,Santa Fe
+1616,consumidor,Rosario,Santa Fe
+3746,consumidor,San Isidro,Buenos Aires
+3663,consumidor,Palermo,CABA
+1506,consumidor,Tigre,Buenos Aires
+2137,consumidor,San Isidro,Buenos Aires
+148,consumidor,Quilmes,Buenos Aires
+3996,consumidor,San Isidro,Buenos Aires
+3127,consumidor,Río Cuarto,Córdoba
+4216,consumidor,San Isidro,Buenos Aires
+2390,consumidor,Palermo,CABA
+365,consumidor,Avellaneda,Buenos Aires
+795,consumidor,Villa Carlos Paz,Córdoba
+1841,consumidor,Avellaneda,Buenos Aires
+4746,consumidor,San Isidro,Buenos Aires
+2481,consumidor,Recoleta,CABA
+2865,consumidor,San Isidro,Buenos Aires
+863,consumidor,Avellaneda,Buenos Aires
+4053,consumidor,San Isidro,Buenos Aires
+293,consumidor,Almagro,CABA
+825,consumidor,Quilmes,Buenos Aires
+1074,consumidor,Morón,Buenos Aires
+2071,consumidor,Morón,Buenos Aires
+171,consumidor,Almagro,CABA
+938,consumidor,San Isidro,Buenos Aires
+2013,consumidor,Morón,Buenos Aires
+4122,consumidor,Belgrano,CABA
+3536,consumidor,Villa Carlos Paz,Córdoba
+1929,consumidor,Caballito,CABA
+2472,consumidor,Río Cuarto,Córdoba
+2267,consumidor,Recoleta,CABA
+505,consumidor,Belgrano,CABA
+1957,consumidor,Tigre,Buenos Aires
+3934,consumidor,Almagro,CABA
+2365,consumidor,Río Cuarto,Córdoba
+2264,consumidor,Río Cuarto,Córdoba
+207,consumidor,Belgrano,CABA
+2077,consumidor,Avellaneda,Buenos Aires
+1566,consumidor,Palermo,CABA
+4067,consumidor,Palermo,CABA
+661,consumidor,Belgrano,CABA
+2234,consumidor,Quilmes,Buenos Aires
+2929,consumidor,Morón,Buenos Aires
+3601,consumidor,Caballito,CABA
+1761,consumidor,Mendoza,Mendoza
+2251,consumidor,Quilmes,Buenos Aires
+980,consumidor,Avellaneda,Buenos Aires
+1498,consumidor,Tigre,Buenos Aires
+19,comercio,Almagro,CABA
+3563,consumidor,Córdoba,Córdoba
+1762,consumidor,Morón,Buenos Aires
+1716,consumidor,Córdoba,Córdoba
+841,consumidor,Palermo,CABA
+2094,consumidor,Belgrano,CABA
+542,consumidor,San Salvador de Jujuy,Jujuy
+2256,consumidor,Godoy Cruz,Mendoza
+3918,consumidor,Rafaela,Santa Fe
+3531,consumidor,Yerba Buena,Tucumán
+2889,consumidor,Villa Carlos Paz,Córdoba
+4197,consumidor,Caballito,CABA
+1196,consumidor,San Isidro,Buenos Aires
+478,consumidor,San Isidro,Buenos Aires
+1112,consumidor,Río Cuarto,Córdoba
+3253,consumidor,Godoy Cruz,Mendoza
+3903,consumidor,Quilmes,Buenos Aires
+1795,consumidor,Morón,Buenos Aires
+3245,consumidor,Avellaneda,Buenos Aires
+3449,consumidor,Sáenz Peña,Chaco
+3589,consumidor,Mendoza,Mendoza
+1569,consumidor,San Isidro,Buenos Aires
+3930,consumidor,San Rafael,Mendoza
+4532,consumidor,San Isidro,Buenos Aires
+3238,consumidor,Córdoba,Córdoba
+954,consumidor,Santa Fe,Santa Fe
+3684,consumidor,Neuquén,Neuquén
+1737,consumidor,Belgrano,CABA
+3488,consumidor,Villa María,Córdoba
+990,consumidor,Santa Fe,Santa Fe
+2559,consumidor,Palermo,CABA
+776,consumidor,Belgrano,CABA
+1300,consumidor,Caballito,CABA
+44,comercio,San Isidro,Buenos Aires
+241,consumidor,Quilmes,Buenos Aires
+1382,consumidor,Godoy Cruz,Mendoza
+604,consumidor,Caballito,CABA
+1758,consumidor,Morón,Buenos Aires
+2599,consumidor,Gualeguaychú,Entre Ríos
+4256,consumidor,Tigre,Buenos Aires
+2565,consumidor,Palermo,CABA
+3921,consumidor,Belgrano,CABA
+2177,consumidor,Caballito,CABA
+2820,consumidor,Reconquista,Santa Fe
+518,consumidor,Avellaneda,Buenos Aires
+3862,consumidor,Tigre,Buenos Aires
+194,consumidor,Tigre,Buenos Aires
+599,consumidor,Posadas,Misiones
+2868,consumidor,Avellaneda,Buenos Aires
+4205,consumidor,Caballito,CABA
+708,consumidor,Recoleta,CABA
+2364,consumidor,General Roca,Río Negro
+2875,consumidor,Santa Fe,Santa Fe
+4668,consumidor,San Isidro,Buenos Aires
+3617,consumidor,Caballito,CABA
+73,consumidor,San Isidro,Buenos Aires
+1888,consumidor,San Isidro,Buenos Aires
+2315,consumidor,Tigre,Buenos Aires
+2572,consumidor,Almagro,CABA
+2561,consumidor,Quilmes,Buenos Aires
+1917,consumidor,Tigre,Buenos Aires
+154,consumidor,Morón,Buenos Aires
+1547,consumidor,Morón,Buenos Aires
+455,consumidor,Quilmes,Buenos Aires
+994,consumidor,Neuquén,Neuquén
+1032,consumidor,Caballito,CABA
+1984,consumidor,Tigre,Buenos Aires
+2573,consumidor,Avellaneda,Buenos Aires
+348,consumidor,Villa Carlos Paz,Córdoba
+2429,consumidor,Quilmes,Buenos Aires
+3416,consumidor,Tigre,Buenos Aires
+4317,consumidor,Morón,Buenos Aires
+3865,consumidor,San Isidro,Buenos Aires
+2222,consumidor,Almagro,CABA
+4017,consumidor,San Salvador de Jujuy,Jujuy
+3007,consumidor,Caballito,CABA
+3293,consumidor,Belgrano,CABA
+4137,consumidor,Belgrano,CABA
+3800,consumidor,San Martín de los Andes,Neuquén
+4325,consumidor,Quilmes,Buenos Aires
+3520,consumidor,Tigre,Buenos Aires
+3983,consumidor,Tigre,Buenos Aires
+2763,consumidor,Morón,Buenos Aires
+4650,consumidor,Almagro,CABA
+4061,consumidor,San Isidro,Buenos Aires
+4613,consumidor,Quilmes,Buenos Aires
+2171,consumidor,Tigre,Buenos Aires
+318,consumidor,Córdoba,Córdoba
+493,consumidor,Almagro,CABA
+4233,consumidor,Morón,Buenos Aires
+2311,consumidor,Palermo,CABA
+2458,consumidor,San Isidro,Buenos Aires
+1887,consumidor,San Isidro,Buenos Aires
+1437,consumidor,Río Cuarto,Córdoba
+1293,consumidor,Río Cuarto,Córdoba
+4753,consumidor,Quilmes,Buenos Aires
+204,consumidor,Avellaneda,Buenos Aires
+925,consumidor,Caballito,CABA
+1573,consumidor,Recoleta,CABA
+3048,consumidor,Córdoba,Córdoba
+2424,consumidor,San Isidro,Buenos Aires
+1720,consumidor,Almagro,CABA
+1011,consumidor,Tigre,Buenos Aires
+2997,consumidor,Almagro,CABA
+4013,consumidor,Morón,Buenos Aires
+3352,consumidor,Caballito,CABA
+4290,consumidor,Tigre,Buenos Aires
+966,consumidor,Morón,Buenos Aires
+4054,consumidor,Belgrano,CABA
+3440,consumidor,Recoleta,CABA
+208,consumidor,Belgrano,CABA
+1475,consumidor,Palermo,CABA
+3273,consumidor,San Isidro,Buenos Aires
+523,consumidor,San Isidro,Buenos Aires
+3442,consumidor,Palermo,CABA
+4449,consumidor,Concordia,Entre Ríos
+1303,consumidor,Avellaneda,Buenos Aires
+4109,consumidor,Morón,Buenos Aires
+1832,consumidor,Villa María,Córdoba
+1351,consumidor,Río Cuarto,Córdoba
+4119,consumidor,Palermo,CABA
+3210,consumidor,San Isidro,Buenos Aires
+3849,consumidor,Quilmes,Buenos Aires
+2721,consumidor,Belgrano,CABA
+789,consumidor,Tigre,Buenos Aires
+2525,consumidor,Cipolletti,Río Negro
+2060,consumidor,Recoleta,CABA
+2128,consumidor,Morón,Buenos Aires
+3454,consumidor,Tigre,Buenos Aires
+1282,consumidor,Avellaneda,Buenos Aires
+941,consumidor,Tigre,Buenos Aires
+683,consumidor,Morón,Buenos Aires
+1381,consumidor,Río Cuarto,Córdoba
+3806,consumidor,San Isidro,Buenos Aires
+1163,consumidor,San Isidro,Buenos Aires
+4014,consumidor,San Isidro,Buenos Aires
+2564,consumidor,Santa Fe,Santa Fe
+2828,consumidor,Morón,Buenos Aires
+2920,consumidor,Morón,Buenos Aires
+2672,consumidor,Belgrano,CABA
+2072,consumidor,Tigre,Buenos Aires
+4371,consumidor,Morón,Buenos Aires
+3708,consumidor,San Isidro,Buenos Aires
+306,consumidor,Avellaneda,Buenos Aires
+3716,consumidor,Villa María,Córdoba
+1484,consumidor,Villa Carlos Paz,Córdoba
+1963,consumidor,Avellaneda,Buenos Aires
+1079,consumidor,Avellaneda,Buenos Aires
+1181,consumidor,Neuquén,Neuquén
+691,consumidor,Tigre,Buenos Aires
+3330,consumidor,Belgrano,CABA
+4378,consumidor,Tigre,Buenos Aires
+2758,consumidor,Resistencia,Chaco
+794,consumidor,Belgrano,CABA
+4545,consumidor,Almagro,CABA
+1792,consumidor,Salta,Salta
+2805,consumidor,Santa Fe,Santa Fe
+4656,consumidor,San Isidro,Buenos Aires
+955,consumidor,Recoleta,CABA
+522,consumidor,Tigre,Buenos Aires
+4633,consumidor,Recoleta,CABA
+524,consumidor,Córdoba,Córdoba
+3682,consumidor,Caballito,CABA
+259,consumidor,Sáenz Peña,Chaco
+1765,consumidor,Belgrano,CABA
+4132,consumidor,Belgrano,CABA
+1467,consumidor,Tigre,Buenos Aires
+3943,consumidor,San Isidro,Buenos Aires
+2925,consumidor,Avellaneda,Buenos Aires
+1476,consumidor,San Isidro,Buenos Aires
+2202,consumidor,Rafaela,Santa Fe
+1347,consumidor,Río Cuarto,Córdoba
+3846,consumidor,Guaymallén,Mendoza
+1942,consumidor,Villa Carlos Paz,Córdoba
+2441,consumidor,Avellaneda,Buenos Aires
+2817,consumidor,Tigre,Buenos Aires
+4567,consumidor,Morón,Buenos Aires
+3484,consumidor,Tigre,Buenos Aires
+2793,consumidor,Reconquista,Santa Fe
+415,consumidor,Caballito,CABA
+3346,consumidor,Palermo,CABA
+561,consumidor,Santa Fe,Santa Fe
+3948,consumidor,Río Cuarto,Córdoba
+444,consumidor,Quilmes,Buenos Aires
+4120,consumidor,Villa María,Córdoba
+1580,consumidor,Almagro,CABA
+3094,consumidor,Palpalá,Jujuy
+3721,consumidor,Libertador,Jujuy
+1993,consumidor,Avellaneda,Buenos Aires
+2285,consumidor,Río Cuarto,Córdoba
+4175,consumidor,Almagro,CABA
+2122,consumidor,Belgrano,CABA
+642,consumidor,Recoleta,CABA
+1279,consumidor,San Isidro,Buenos Aires
+1927,consumidor,Resistencia,Chaco
+1739,consumidor,Mendoza,Mendoza
+496,consumidor,Reconquista,Santa Fe
+3318,consumidor,Rosario,Santa Fe
+4383,consumidor,Villa María,Córdoba
+4456,consumidor,Quilmes,Buenos Aires
+1278,consumidor,Godoy Cruz,Mendoza
+1702,consumidor,Orán,Salta
+884,consumidor,Guaymallén,Mendoza
+2958,consumidor,San Isidro,Buenos Aires
+1759,consumidor,Avellaneda,Buenos Aires
+3841,consumidor,Morón,Buenos Aires
+266,consumidor,Tigre,Buenos Aires
+2231,consumidor,Caballito,CABA
+1621,consumidor,Morón,Buenos Aires
+3892,consumidor,Palermo,CABA
+3368,consumidor,Recoleta,CABA
+1647,consumidor,Quilmes,Buenos Aires
+4219,consumidor,San Isidro,Buenos Aires
+1464,consumidor,Quilmes,Buenos Aires
+2028,consumidor,Morón,Buenos Aires
+291,consumidor,Guaymallén,Mendoza
+4557,consumidor,Rafaela,Santa Fe
+2398,consumidor,Almagro,CABA
+2205,consumidor,Belgrano,CABA
+2954,consumidor,Quilmes,Buenos Aires
+1130,consumidor,San Rafael,Mendoza
+434,consumidor,Palermo,CABA
+4659,consumidor,San Salvador de Jujuy,Jujuy
+2460,consumidor,Caballito,CABA
+2326,consumidor,Avellaneda,Buenos Aires
+1195,consumidor,Palermo,CABA
+4004,consumidor,Avellaneda,Buenos Aires
+3102,consumidor,Villa Carlos Paz,Córdoba
+107,consumidor,San Isidro,Buenos Aires
+156,consumidor,Palermo,CABA
+4503,consumidor,Tafí Viejo,Tucumán
+81,consumidor,Villa María,Córdoba
+1088,consumidor,Mendoza,Mendoza
+4050,consumidor,Almagro,CABA
+2498,consumidor,Villa María,Córdoba
+4262,consumidor,San Isidro,Buenos Aires
+2356,consumidor,Almagro,CABA
+4609,consumidor,San Isidro,Buenos Aires
+845,consumidor,Palermo,CABA
+3989,consumidor,Avellaneda,Buenos Aires
+3401,consumidor,Tigre,Buenos Aires
+2502,consumidor,Caballito,CABA
+1848,consumidor,Tigre,Buenos Aires
+2667,consumidor,San Isidro,Buenos Aires
+3819,consumidor,Tigre,Buenos Aires
+3351,consumidor,Palermo,CABA
+4124,consumidor,Palermo,CABA
+3509,consumidor,Villa María,Córdoba
+4037,consumidor,Palermo,CABA
+3683,consumidor,San Rafael,Mendoza
+161,consumidor,Recoleta,CABA
+4573,consumidor,Caballito,CABA
+49,comercio,Quilmes,Buenos Aires
+3587,consumidor,Santa Fe,Santa Fe
+2336,consumidor,Tigre,Buenos Aires
+3657,consumidor,Caballito,CABA
+3172,consumidor,Quilmes,Buenos Aires
+2787,consumidor,Rosario,Santa Fe
+1951,consumidor,Tigre,Buenos Aires
+2647,consumidor,Palpalá,Jujuy
+136,consumidor,Belgrano,CABA
+4146,consumidor,Recoleta,CABA
+3633,consumidor,Neuquén,Neuquén
+669,consumidor,Morón,Buenos Aires
+100,consumidor,Sáenz Peña,Chaco
+1896,consumidor,Recoleta,CABA
+2139,consumidor,San Salvador de Jujuy,Jujuy
+4295,consumidor,Tigre,Buenos Aires
+1085,consumidor,Almagro,CABA
+2964,consumidor,Belgrano,CABA
+4479,consumidor,Villa María,Córdoba
+2826,consumidor,Caballito,CABA
+660,consumidor,Villa María,Córdoba
+79,consumidor,Rosario,Santa Fe
+1037,consumidor,Quilmes,Buenos Aires
+1882,consumidor,San Rafael,Mendoza
+215,consumidor,San Isidro,Buenos Aires
+1773,consumidor,Palermo,CABA
+737,consumidor,Villa Ángela,Chaco
+2932,consumidor,Villa Carlos Paz,Córdoba
+464,consumidor,Avellaneda,Buenos Aires
+2185,consumidor,Resistencia,Chaco
+4191,consumidor,Morón,Buenos Aires
+2706,consumidor,Morón,Buenos Aires
+4600,consumidor,Avellaneda,Buenos Aires
+2654,consumidor,Recoleta,CABA
+182,consumidor,Rafaela,Santa Fe
+2316,consumidor,Avellaneda,Buenos Aires
+1641,consumidor,Quilmes,Buenos Aires
+674,consumidor,Almagro,CABA
+1964,consumidor,Recoleta,CABA
+2985,consumidor,Palermo,CABA
+4561,consumidor,Palermo,CABA
+3182,consumidor,Morón,Buenos Aires
+1639,consumidor,Godoy Cruz,Mendoza
+3825,consumidor,Tigre,Buenos Aires
+894,consumidor,San Isidro,Buenos Aires
+2880,consumidor,Reconquista,Santa Fe
+4585,consumidor,Palermo,CABA
+3347,consumidor,Tigre,Buenos Aires
+2239,consumidor,Godoy Cruz,Mendoza
+2173,consumidor,Godoy Cruz,Mendoza
+1869,consumidor,Avellaneda,Buenos Aires
+3360,consumidor,Neuquén,Neuquén
+1533,consumidor,Caballito,CABA
+2704,consumidor,Caballito,CABA
+2511,consumidor,Tigre,Buenos Aires
+4142,consumidor,Reconquista,Santa Fe
+3922,consumidor,San Isidro,Buenos Aires
+4136,consumidor,Reconquista,Santa Fe
+2769,consumidor,Recoleta,CABA
+3430,consumidor,Rafaela,Santa Fe
+2350,consumidor,Avellaneda,Buenos Aires
+1829,consumidor,Almagro,CABA
+3317,consumidor,Almagro,CABA
+3780,consumidor,Tigre,Buenos Aires
+2630,consumidor,Palermo,CABA
+2575,consumidor,Tigre,Buenos Aires
+1238,consumidor,General Roca,Río Negro
+4385,consumidor,Belgrano,CABA
+734,consumidor,Almagro,CABA
+4214,consumidor,Córdoba,Córdoba
+3290,consumidor,Godoy Cruz,Mendoza
+386,consumidor,Almagro,CABA
+3712,consumidor,Avellaneda,Buenos Aires
+2912,consumidor,Avellaneda,Buenos Aires
+1071,consumidor,Yerba Buena,Tucumán
+3681,consumidor,Villa Carlos Paz,Córdoba
+4209,consumidor,Tigre,Buenos Aires
+86,consumidor,Avellaneda,Buenos Aires
+3795,consumidor,Almagro,CABA
+4303,consumidor,Santa Fe,Santa Fe
+169,consumidor,Tigre,Buenos Aires
+3758,consumidor,Avellaneda,Buenos Aires
+679,consumidor,San Isidro,Buenos Aires
+170,consumidor,Quilmes,Buenos Aires
+2692,consumidor,Belgrano,CABA
+115,consumidor,San Isidro,Buenos Aires
+3220,consumidor,San Isidro,Buenos Aires
+1986,consumidor,San Isidro,Buenos Aires
+729,consumidor,San Rafael,Mendoza
+2305,consumidor,Villa María,Córdoba
+528,consumidor,Avellaneda,Buenos Aires
+3655,consumidor,San Isidro,Buenos Aires
+2,comercio,Avellaneda,Buenos Aires
+3639,consumidor,Almagro,CABA
+4661,consumidor,Morón,Buenos Aires
+3767,consumidor,Córdoba,Córdoba
+834,consumidor,Tigre,Buenos Aires
+470,consumidor,Reconquista,Santa Fe
+4308,consumidor,Caballito,CABA
+2240,consumidor,Belgrano,CABA
+1531,consumidor,Belgrano,CABA
+1090,consumidor,Almagro,CABA
+3214,consumidor,Yerba Buena,Tucumán
+3043,consumidor,Villa María,Córdoba
+4123,consumidor,Tigre,Buenos Aires
+1775,consumidor,Quilmes,Buenos Aires
+4145,consumidor,Recoleta,CABA
+1653,consumidor,Avellaneda,Buenos Aires
+3100,consumidor,Avellaneda,Buenos Aires
+4118,consumidor,Quilmes,Buenos Aires
+3543,consumidor,Quilmes,Buenos Aires
+1440,consumidor,Caballito,CABA
+1900,consumidor,Avellaneda,Buenos Aires
+4218,consumidor,Villa Ángela,Chaco
+4006,consumidor,Palermo,CABA
+63,comercio,Villa Carlos Paz,Córdoba
+2952,consumidor,Tigre,Buenos Aires
+370,consumidor,Almagro,CABA
+937,consumidor,Almagro,CABA
+1518,consumidor,Caballito,CABA
+3155,consumidor,Caballito,CABA
+547,consumidor,Avellaneda,Buenos Aires
+465,consumidor,San Isidro,Buenos Aires
+4721,consumidor,Villa María,Córdoba
+1502,consumidor,Recoleta,CABA
+1363,consumidor,Caballito,CABA
+1671,consumidor,Palermo,CABA
+2468,consumidor,Tigre,Buenos Aires
+262,consumidor,Quilmes,Buenos Aires
+3609,consumidor,Rafaela,Santa Fe
+2928,consumidor,Tigre,Buenos Aires
+4349,consumidor,Caballito,CABA
+3702,consumidor,Rosario,Santa Fe
+2323,consumidor,Tigre,Buenos Aires
+181,consumidor,San Isidro,Buenos Aires
+240,consumidor,Rosario,Santa Fe
+1740,consumidor,Almagro,CABA
+1114,consumidor,Santa Fe,Santa Fe
+650,consumidor,Caballito,CABA
+4671,consumidor,Recoleta,CABA
+4756,consumidor,Palpalá,Jujuy
+167,consumidor,Avellaneda,Buenos Aires
+2873,consumidor,Caballito,CABA
+1938,consumidor,Avellaneda,Buenos Aires
+3149,consumidor,Almagro,CABA
+1546,consumidor,Avellaneda,Buenos Aires
+2783,consumidor,Recoleta,CABA
+4729,consumidor,Almagro,CABA
+3566,consumidor,Avellaneda,Buenos Aires
+798,consumidor,Salta,Salta
+3375,consumidor,Quilmes,Buenos Aires
+2633,consumidor,Recoleta,CABA
+978,consumidor,Avellaneda,Buenos Aires
+33,comercio,San Isidro,Buenos Aires
+184,consumidor,Tigre,Buenos Aires
+3016,consumidor,Río Cuarto,Córdoba
+4510,consumidor,Belgrano,CABA
+1027,consumidor,Río Cuarto,Córdoba
+1786,consumidor,Almagro,CABA
+1628,consumidor,Tigre,Buenos Aires
+3564,consumidor,Paraná,Entre Ríos
+2044,consumidor,Villa Carlos Paz,Córdoba
+790,consumidor,Córdoba,Córdoba
+2136,consumidor,Belgrano,CABA
+2592,consumidor,Villa María,Córdoba
+3938,consumidor,Tigre,Buenos Aires
+1407,consumidor,Villa Carlos Paz,Córdoba
+1013,consumidor,Belgrano,CABA
+1427,consumidor,San Miguel de Tucumán,Tucumán
+1624,consumidor,Quilmes,Buenos Aires
+2714,consumidor,Reconquista,Santa Fe
+1077,consumidor,Almagro,CABA
+2911,consumidor,Avellaneda,Buenos Aires
+4326,consumidor,Villa Carlos Paz,Córdoba
+2331,consumidor,Avellaneda,Buenos Aires
+4348,consumidor,Avellaneda,Buenos Aires
+3303,consumidor,Tigre,Buenos Aires
+636,consumidor,Palermo,CABA
+1813,consumidor,Belgrano,CABA
+3714,consumidor,Caballito,CABA
+4566,consumidor,Palermo,CABA
+2387,consumidor,Tigre,Buenos Aires
+1520,consumidor,Recoleta,CABA
+2394,consumidor,Almagro,CABA
+2469,consumidor,Quilmes,Buenos Aires
+3550,consumidor,Mendoza,Mendoza
+700,consumidor,Quilmes,Buenos Aires
+653,consumidor,Tigre,Buenos Aires
+261,consumidor,Quilmes,Buenos Aires
+3338,consumidor,Rafaela,Santa Fe
+1950,consumidor,Morón,Buenos Aires
+60,comercio,San Isidro,Buenos Aires
+4065,consumidor,Avellaneda,Buenos Aires
+2662,consumidor,Avellaneda,Buenos Aires
+3574,consumidor,Godoy Cruz,Mendoza
+4128,consumidor,Quilmes,Buenos Aires
+1622,consumidor,Morón,Buenos Aires
+4380,consumidor,Almagro,CABA
+4490,consumidor,Caballito,CABA
+1873,consumidor,Quilmes,Buenos Aires
+248,consumidor,San Isidro,Buenos Aires
+2802,consumidor,Quilmes,Buenos Aires
+4622,consumidor,Morón,Buenos Aires
+1348,consumidor,San Isidro,Buenos Aires
+2230,consumidor,Villa María,Córdoba
+267,consumidor,Palermo,CABA
+835,consumidor,Recoleta,CABA
+2984,consumidor,Avellaneda,Buenos Aires
+2118,consumidor,Palermo,CABA
+2467,consumidor,Avellaneda,Buenos Aires
+3464,consumidor,Quilmes,Buenos Aires
+2314,consumidor,Santa Fe,Santa Fe
+1246,consumidor,Santa Fe,Santa Fe
+831,consumidor,Recoleta,CABA
+3398,consumidor,Morón,Buenos Aires
+3145,consumidor,Tigre,Buenos Aires
+4357,consumidor,Belgrano,CABA
+1496,consumidor,Santa Fe,Santa Fe
+3402,consumidor,Recoleta,CABA
+2197,consumidor,Quilmes,Buenos Aires
+4738,consumidor,Morón,Buenos Aires
+689,consumidor,Quilmes,Buenos Aires
+436,consumidor,San Isidro,Buenos Aires
+558,consumidor,Yerba Buena,Tucumán
+651,consumidor,Avellaneda,Buenos Aires
+4652,consumidor,Avellaneda,Buenos Aires
+2091,consumidor,Avellaneda,Buenos Aires
+2807,consumidor,Recoleta,CABA
+2909,consumidor,Recoleta,CABA
+1250,consumidor,Villa Ángela,Chaco
+3244,consumidor,Almagro,CABA
+3164,consumidor,Avellaneda,Buenos Aires
+2729,consumidor,Almagro,CABA
+2447,consumidor,Rosario,Santa Fe
+1040,consumidor,Córdoba,Córdoba
+2025,consumidor,San Isidro,Buenos Aires
+4408,consumidor,Morón,Buenos Aires
+2319,consumidor,Mendoza,Mendoza
+4631,consumidor,Almagro,CABA
+2720,consumidor,Belgrano,CABA
+3320,consumidor,Godoy Cruz,Mendoza
+3337,consumidor,Avellaneda,Buenos Aires
+1146,consumidor,Villa Carlos Paz,Córdoba
+1874,consumidor,Recoleta,CABA
+2825,consumidor,Quilmes,Buenos Aires
+16,comercio,Recoleta,CABA
+1243,consumidor,Palermo,CABA
+4392,consumidor,Belgrano,CABA
+2058,consumidor,Almagro,CABA
+725,consumidor,San Isidro,Buenos Aires
+3801,consumidor,Villa María,Córdoba
+961,consumidor,Morón,Buenos Aires
+2198,consumidor,Reconquista,Santa Fe
+2268,consumidor,Godoy Cruz,Mendoza
+3121,consumidor,Avellaneda,Buenos Aires
+2476,consumidor,Belgrano,CABA
+4267,consumidor,Morón,Buenos Aires
+4603,consumidor,Rafaela,Santa Fe
+2855,consumidor,San Miguel de Tucumán,Tucumán
+815,consumidor,San Isidro,Buenos Aires
+1417,consumidor,Quilmes,Buenos Aires
+850,consumidor,Villa Carlos Paz,Córdoba
+3141,consumidor,Caballito,CABA
+4694,consumidor,Palermo,CABA
+1389,consumidor,San Isidro,Buenos Aires
+1663,consumidor,Caballito,CABA
+1224,consumidor,Rosario,Santa Fe
+1144,consumidor,Rosario,Santa Fe
+1586,consumidor,Villa María,Córdoba
+3818,consumidor,Caballito,CABA
+341,consumidor,Avellaneda,Buenos Aires
+271,consumidor,Belgrano,CABA
+544,consumidor,San Miguel de Tucumán,Tucumán
+2824,consumidor,Morón,Buenos Aires
+3098,consumidor,Morón,Buenos Aires
+4424,consumidor,Tigre,Buenos Aires
+4469,consumidor,San Isidro,Buenos Aires
+3445,consumidor,Oberá,Misiones
+4723,consumidor,Villa María,Córdoba
+1893,consumidor,Neuquén,Neuquén
+914,consumidor,Caballito,CABA
+3671,consumidor,Morón,Buenos Aires
+1913,consumidor,Rosario,Santa Fe
+1296,consumidor,Palpalá,Jujuy
+4711,consumidor,Belgrano,CABA
+2465,consumidor,Tigre,Buenos Aires
+405,consumidor,Palermo,CABA
+953,consumidor,Mendoza,Mendoza
+45,comercio,Avellaneda,Buenos Aires
+3092,consumidor,Tigre,Buenos Aires
+1185,consumidor,Avellaneda,Buenos Aires
+820,consumidor,Avellaneda,Buenos Aires
+3480,consumidor,Tigre,Buenos Aires
+3998,consumidor,Villa María,Córdoba
+1334,consumidor,Concordia,Entre Ríos
+3413,consumidor,Almagro,CABA
+1577,consumidor,San Isidro,Buenos Aires
+2233,consumidor,Morón,Buenos Aires
+2537,consumidor,San Isidro,Buenos Aires
+2927,consumidor,Palermo,CABA
+1189,consumidor,Rosario,Santa Fe
+4535,consumidor,Villa Carlos Paz,Córdoba
+1442,consumidor,Morón,Buenos Aires
+4518,consumidor,Recoleta,CABA
+1706,consumidor,Quilmes,Buenos Aires
+2579,consumidor,Eldorado,Misiones
+1302,consumidor,Tigre,Buenos Aires
+4599,consumidor,San Rafael,Mendoza
+2772,consumidor,Río Cuarto,Córdoba
+4138,consumidor,Recoleta,CABA
+189,consumidor,Almagro,CABA
+4235,consumidor,Tigre,Buenos Aires
+2735,consumidor,Morón,Buenos Aires
+2491,consumidor,Tigre,Buenos Aires
+2834,consumidor,Palermo,CABA
+851,consumidor,Belgrano,CABA
+168,consumidor,Villa María,Córdoba
+1966,consumidor,Morón,Buenos Aires
+602,consumidor,Morón,Buenos Aires
+2361,consumidor,Reconquista,Santa Fe
+1587,consumidor,Belgrano,CABA
+2595,consumidor,Caballito,CABA
+2699,consumidor,Santa Fe,Santa Fe
+1165,consumidor,Yerba Buena,Tucumán
+392,consumidor,Guaymallén,Mendoza
+1242,consumidor,Libertador,Jujuy
+1528,consumidor,Reconquista,Santa Fe
+3050,consumidor,Almagro,CABA
+1266,consumidor,Almagro,CABA
+2644,consumidor,Morón,Buenos Aires
+4388,consumidor,Almagro,CABA
+457,consumidor,Tigre,Buenos Aires
+435,consumidor,Tigre,Buenos Aires
+2496,consumidor,Morón,Buenos Aires
+186,consumidor,Santa Fe,Santa Fe
+1147,consumidor,Recoleta,CABA
+2819,consumidor,San Isidro,Buenos Aires
+2324,consumidor,Quilmes,Buenos Aires
+2777,consumidor,Avellaneda,Buenos Aires
+309,consumidor,Tafí Viejo,Tucumán
+4507,consumidor,Quilmes,Buenos Aires
+1656,consumidor,Belgrano,CABA
+2417,consumidor,Palermo,CABA
+3853,consumidor,Córdoba,Córdoba
+3641,consumidor,Belgrano,CABA
+2678,consumidor,Córdoba,Córdoba
+4442,consumidor,Avellaneda,Buenos Aires
+4627,consumidor,Tigre,Buenos Aires
+143,consumidor,Almagro,CABA
+4665,consumidor,Córdoba,Córdoba
+2764,consumidor,Santa Fe,Santa Fe
+2645,consumidor,Almagro,CABA
+4733,consumidor,Caballito,CABA
+2358,consumidor,Recoleta,CABA
+3820,consumidor,Tigre,Buenos Aires
+2712,consumidor,Recoleta,CABA
+4048,consumidor,Caballito,CABA
+4457,consumidor,Morón,Buenos Aires
+697,consumidor,Rafaela,Santa Fe
+1121,consumidor,Palermo,CABA
+2655,consumidor,Quilmes,Buenos Aires
+2785,consumidor,Tafí Viejo,Tucumán
+1021,consumidor,Tigre,Buenos Aires
+2657,consumidor,Reconquista,Santa Fe
+3377,consumidor,Belgrano,CABA
+4675,consumidor,Gualeguaychú,Entre Ríos
+3791,consumidor,Villa Carlos Paz,Córdoba
+2943,consumidor,Caballito,CABA
+2296,consumidor,Quilmes,Buenos Aires
+4470,consumidor,Caballito,CABA
+1433,consumidor,San Isidro,Buenos Aires
+408,consumidor,Quilmes,Buenos Aires
+1164,consumidor,Rosario,Santa Fe
+4601,consumidor,Caballito,CABA
+2582,consumidor,Reconquista,Santa Fe
+1378,consumidor,Santa Fe,Santa Fe
+2120,consumidor,Mendoza,Mendoza
+2209,consumidor,San Isidro,Buenos Aires
+1432,consumidor,Recoleta,CABA
+2709,consumidor,Reconquista,Santa Fe
+4534,consumidor,Tigre,Buenos Aires
+4099,consumidor,Palermo,CABA
+3171,consumidor,Eldorado,Misiones
+4239,consumidor,Morón,Buenos Aires
+1212,consumidor,Quilmes,Buenos Aires
+1637,consumidor,Almagro,CABA
+2228,consumidor,Palermo,CABA
+160,consumidor,San Isidro,Buenos Aires
+2618,consumidor,San Isidro,Buenos Aires
+4703,consumidor,Avellaneda,Buenos Aires
+3453,consumidor,Paraná,Entre Ríos
+3971,consumidor,Recoleta,CABA
+2956,consumidor,Palermo,CABA
+4394,consumidor,Avellaneda,Buenos Aires
+1708,consumidor,Morón,Buenos Aires
+3493,consumidor,Recoleta,CABA
+918,consumidor,Quilmes,Buenos Aires
+2762,consumidor,Quilmes,Buenos Aires
+404,consumidor,Belgrano,CABA
+1655,consumidor,Rafaela,Santa Fe
+191,consumidor,San Isidro,Buenos Aires
+1462,consumidor,Villa María,Córdoba
+4529,consumidor,Belgrano,CABA
+307,consumidor,Tigre,Buenos Aires
+817,consumidor,Almagro,CABA
+4113,consumidor,Palermo,CABA
+1202,consumidor,Quilmes,Buenos Aires
+4754,consumidor,Quilmes,Buenos Aires
+2183,consumidor,Tigre,Buenos Aires
+3987,consumidor,Recoleta,CABA
+4283,consumidor,San Isidro,Buenos Aires
+459,consumidor,Palermo,CABA
+3844,consumidor,San Isidro,Buenos Aires
+1453,consumidor,San Isidro,Buenos Aires
+3700,consumidor,Recoleta,CABA
+1392,consumidor,Avellaneda,Buenos Aires
+3428,consumidor,Quilmes,Buenos Aires
+4740,consumidor,Rafaela,Santa Fe
+2914,consumidor,Belgrano,CABA
+632,consumidor,Guaymallén,Mendoza
+2827,consumidor,Orán,Salta
+1799,consumidor,Quilmes,Buenos Aires
+3373,consumidor,Morón,Buenos Aires
+891,consumidor,Quilmes,Buenos Aires
+2778,consumidor,Almagro,CABA
+3651,consumidor,Avellaneda,Buenos Aires
+3148,consumidor,Villa María,Córdoba
+1891,consumidor,Belgrano,CABA
+3789,consumidor,Morón,Buenos Aires
+3296,consumidor,Cutral Có,Neuquén
+2743,consumidor,Rafaela,Santa Fe
+1343,consumidor,Almagro,CABA
+4558,consumidor,Guaymallén,Mendoza
+1148,consumidor,Paraná,Entre Ríos
+3111,consumidor,Villa María,Córdoba
+4260,consumidor,Morón,Buenos Aires
+308,consumidor,Palpalá,Jujuy
+3139,consumidor,Recoleta,CABA
+3376,consumidor,Morón,Buenos Aires
+3911,consumidor,Avellaneda,Buenos Aires
+2302,consumidor,Quilmes,Buenos Aires
+4164,consumidor,Mendoza,Mendoza
+1574,consumidor,Morón,Buenos Aires
+1697,consumidor,Cutral Có,Neuquén
+2607,consumidor,Rosario,Santa Fe
+3634,consumidor,Tigre,Buenos Aires
+1084,consumidor,Sáenz Peña,Chaco
+3590,consumidor,Godoy Cruz,Mendoza
+2019,consumidor,Caballito,CABA

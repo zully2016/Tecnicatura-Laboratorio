@@ -1,0 +1,6 @@
+afirmacion_id,afirmacion,valor,unidad
+1,En 2025 la empresa facturó $ 3.168.411.550.,3168411550.0,ARS corrientes
+2,"En 2025 la facturación creció un 50,2 % respecto de 2024, y el margen bruto también creció en términos reales.",50.23,% anual
+3,"Ningún cliente pesa demasiado: el cliente principal explica solo el 6,0 % de la facturación de 2025.",6.0,%
+4,"Las subas de precio no espantan a los clientes: en el mes siguiente a cada suba puntual de los cinco productos que más facturan, las unidades vendidas crecieron en promedio un 34,6 % respecto del mes anterior a la suba.",34.56,%
+5,Todos los productos se venden por encima de su costo puesto en depósito.,0.0,productos por debajo del costo
